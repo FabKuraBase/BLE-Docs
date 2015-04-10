@@ -18,8 +18,7 @@ BLEモジュールは、国内では「特定無線設備の種別	第２条第�
 ### USB
 | モジュール名 | BLE Chip　| Ver| メーカー | 技適 | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
-| [BLED112](https://www.bluegiga.com/en-US/products/bled112-bluetooth-smart-dongle/) | CC2540 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [通過](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=003&TC=N&PK=1&FN=316dspr&SN=%94%46%8F%D8&LN=30&R1=*****&R2=*****)
-|0dBm|-93dBm|||
+| [BLED112](https://www.bluegiga.com/en-US/products/bled112-bluetooth-smart-dongle/) | CC2540 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [通過](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=003&TC=N&PK=1&FN=316dspr&SN=%94%46%8F%D8&LN=30&R1=*****&R2=*****) |0dBm|-93dBm|||
 
 # NRF51822系
 
