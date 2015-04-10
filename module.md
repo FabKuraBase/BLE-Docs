@@ -8,17 +8,17 @@ BLEモジュールは、国内では「特定無線設備の種別	第２条第�
 
 | モジュール名 | BLE Chip　| Ver | メーカー | 技適 | 最大送信出力|受信感度|TX最大電流|スリープモード|
 | -- | -- | -- |-- |-- |
-| [BLE113](https://www.bluegiga.com/en-US/products/ble113-bluetooth-smart-module/) | CC2541 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [通過](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=007&TC=N&PK=1&FN=352ul&SN=%94F%8F%D8&LN=3&R1=*****&R2=*****) |0dBm|-93dBm|18.2mA|0.4uA|
-| [BLE112](https://www.bluegiga.com/en-US/products/ble112-bluetooth-smart-module/) | CC2540 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [通過](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=209&TC=N&PK=1&FN=022acb&SN=%94%46%8F%D8&LN=2&R1=*****&R2=*****) |+3dBm| -92dBm|27mA|0.4uA|
-| [BLE121LR](https://www.bluegiga.com/en-US/products/ble121lr-bluetooth-smart-long/) | CC2541 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [通過](https://www.bluegiga.com/en-US/download/?file=eQs1EzP8S9KiSLoED4OyjA&title=BLE121LR%2520Japan%2520Report%2520and%2520Certificate&filename=BLE121LR_Japan.zip)* |+8dBm| -98dBm|36mA<br>25 mA (DC/DC)| 0.5uA|
-|[PAN1721](http://na.industrial.panasonic.com/products/wireless-connectivity/bluetooth/bluetooth-smart-low-energy/series/pan1721-series/CS465)|CC2541|4.0|[Panasonic](http://wwww.panasonic.com)| 未通過|0dBm|-96dBm|14 mA|0.5uA|
+| [BLE113](https://www.bluegiga.com/en-US/products/ble113-bluetooth-smart-module/) | CC2541 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=007&TC=N&PK=1&FN=352ul&SN=%94F%8F%D8&LN=3&R1=*****&R2=*****) |0dBm|-93dBm|18.2mA|0.4uA|
+| [BLE112](https://www.bluegiga.com/en-US/products/ble112-bluetooth-smart-module/) | CC2540 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=209&TC=N&PK=1&FN=022acb&SN=%94%46%8F%D8&LN=2&R1=*****&R2=*****) |+3dBm| -92dBm|27mA|0.4uA|
+| [BLE121LR](https://www.bluegiga.com/en-US/products/ble121lr-bluetooth-smart-long/) | CC2541 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [済](https://www.bluegiga.com/en-US/download/?file=eQs1EzP8S9KiSLoED4OyjA&title=BLE121LR%2520Japan%2520Report%2520and%2520Certificate&filename=BLE121LR_Japan.zip)* |+8dBm| -98dBm|36mA<br>25 mA (DC/DC)| 0.5uA|
+|[PAN1721](http://na.industrial.panasonic.com/products/wireless-connectivity/bluetooth/bluetooth-smart-low-energy/series/pan1721-series/CS465)|CC2541|4.0|[Panasonic](http://wwww.panasonic.com)| 未|0dBm|-96dBm|14 mA|0.5uA|
 
 * BLE121LRは、[ACB,Inc](http://acbcert.com/MIC-Japanese-Radio-Certification-services.asp)が認証をおこなっているが、総務省のDBに未反映
 
 ### USB
 | モジュール名 | BLE Chip　| Ver| メーカー | 技適 | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
-| [BLED112](https://www.bluegiga.com/en-US/products/bled112-bluetooth-smart-dongle/) | CC2540 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [通過](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=003&TC=N&PK=1&FN=316dspr&SN=%94%46%8F%D8&LN=30&R1=*****&R2=*****) |0dBm|-93dBm|||
+| [BLED112](https://www.bluegiga.com/en-US/products/bled112-bluetooth-smart-dongle/) | CC2540 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=003&TC=N&PK=1&FN=316dspr&SN=%94%46%8F%D8&LN=30&R1=*****&R2=*****) |0dBm|-93dBm|||
 
 # NRF51822系
 
@@ -26,11 +26,11 @@ BLEモジュールは、国内では「特定無線設備の種別	第２条第�
 
 | モジュール名 | BLE Chip　| Ver| メーカー | 技適 | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
-| [RFD22301](http://www.rfdigital.com/product/rfd22301-rfduino-ble-smt/index.html) | NRF51822 | 4.0 | [RFDigital](http://www.rfdigital.com/) | 未通過 |+4dBm|||
-|[BL620](http://www.lairdtech.com/products/bl620) | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) | |+4dBm||||
-| [BL600-SA](http://www.lairdtech.com/products/bl600-series) | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) | [通過](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=204&TC=N&PK=1&FN=150test&SN=%94%46%8F%D8&LN=28&R1=*****&R2=*****)| +4dBm|-91dBm||||
-| [BL600-SC](http://www.lairdtech.com/products/bl600-series) | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) | [通過](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=204&TC=N&PK=1&FN=150test&SN=%94%46%8F%D8&LN=29&R1=*****&R2=*****)| +4dBm|-91dBm||||
-| [BL600-ST](http://www.lairdtech.com/products/bl600-series) | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) | [通過](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=204&TC=N&PK=1&FN=150test&SN=%94%46%8F%D8&LN=27&R1=*****&R2=*****)| +4dBm|-91dBm||||
+| [RFD22301](http://www.rfdigital.com/product/rfd22301-rfduino-ble-smt/index.html) | NRF51822 | 4.0 | [RFDigital](http://www.rfdigital.com/) | 未 |+4dBm|||
+|[BL620](http://www.lairdtech.com/products/bl620) | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) | 未 |+4dBm||||
+| [BL600-SA](http://www.lairdtech.com/products/bl600-series) | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=204&TC=N&PK=1&FN=150test&SN=%94%46%8F%D8&LN=28&R1=*****&R2=*****)| +4dBm|-91dBm||||
+| [BL600-SC](http://www.lairdtech.com/products/bl600-series) | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=204&TC=N&PK=1&FN=150test&SN=%94%46%8F%D8&LN=29&R1=*****&R2=*****)| +4dBm|-91dBm||||
+| [BL600-ST](http://www.lairdtech.com/products/bl600-series) | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=204&TC=N&PK=1&FN=150test&SN=%94%46%8F%D8&LN=27&R1=*****&R2=*****)| +4dBm|-91dBm||||
 | HRM1017 | NRF51822 | 4.0 | [Hoshiden](http://www.hosiden.co.jp/) |[Web](http://www.hosiden.co.jp/news/product/hrm1017.html) | +4dBm||||
 | HRM1026 | NRF51822 | 4.0 | [Hoshiden](http://www.fcl.fujitsu.com/) |[Web](http://www.hosiden.co.jp/news/product/hrm1026.html) | 4dBm||||
 | MDBT4.0 | NRF51822 | 4.1 | [Raytac](http://www.raytac.com/) |[Web](http://www.raytac.com/products.php) | +4dBm|-93dBm|||
