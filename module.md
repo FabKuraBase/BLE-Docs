@@ -27,7 +27,7 @@ BLEモジュールは、国内では「特定無線設備の種別	第２条第�
 | モジュール名 | BLE Chip　| Ver| メーカー | 技適 | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
 | [RFD22301](http://www.rfdigital.com/product/rfd22301-rfduino-ble-smt/index.html) | NRF51822 | 4.0 | [RFDigital](http://www.rfdigital.com/) | 未通過 |+4dBm|||
-| BL620 | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) |[Web](http://www.lairdtech.com/products/bl620) |+4dBm||||
+|[BL620](http://www.lairdtech.com/products/bl620) | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) | |+4dBm||||
 | [BL600-SA](http://www.lairdtech.com/products/bl600-series) | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) | [通過](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=204&TC=N&PK=1&FN=150test&SN=%94%46%8F%D8&LN=28&R1=*****&R2=*****)| +4dBm|-91dBm||||
 | [BL600-SC](http://www.lairdtech.com/products/bl600-series) | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) | [通過](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=204&TC=N&PK=1&FN=150test&SN=%94%46%8F%D8&LN=29&R1=*****&R2=*****)| +4dBm|-91dBm||||
 | [BL600-ST](http://www.lairdtech.com/products/bl600-series) | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) | [通過](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=204&TC=N&PK=1&FN=150test&SN=%94%46%8F%D8&LN=27&R1=*****&R2=*****)| +4dBm|-91dBm||||
