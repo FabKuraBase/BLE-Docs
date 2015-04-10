@@ -24,6 +24,8 @@
 | モジュール名 | BLE Chip　| Ver| メーカー | Web | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
 | RFD22301 | NRF51822 | 4.0 | [RFDigital](http://www.rfdigital.com/) | [Web](http://www.rfdigital.com/product/rfd22301-rfduino-ble-smt/index.html) |4dBm||||
+| BL620 | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) |[Web](http://www.lairdtech.com/products/bl620) | 4dBm|||||
+| BL600 | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) |[Web](http://www.lairdtech.com/products/bl600-series) | 4dBm|-91dBm||||
 
 
 
