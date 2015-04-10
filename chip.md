@@ -6,4 +6,5 @@
 | -- | -- |
 | NRF51822 | Nordic Semiconductor | [Web](http://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF51822) |
 | NRF51422 | Nordic Semiconductor | [Web](http://www.nordicsemi.com/eng/Products/ANT/nRF51422) |
+| CSR1010 | CSR | [Web](https://www.csrsupport.com/download/39359/CSR1010%20Data%20Sheet%20CS-231985-DS.pdf) |
 
