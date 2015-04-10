@@ -38,6 +38,7 @@ BLEモジュールは、国内では「特定無線設備の種別	第２条第�
 | MDBT4.0 nano | NRF51822 | 4.1 | [Raytac](http://www.raytac.com/) |[Web](http://www.raytac.com/products.php) | +4dBm|-93dBm|||
 | BMD-200 | NRF51822 | 4.1 | [RIGADO](http://www.rigado.com/) |[Web](https://www.rigado.com/product/bmd-200) | 4dBm|-93dBm|16mA||
 | MBH7BLZ02 | NRF51822 | 4.1 | [富士通コンポーンエント](http://www.fcl.fujitsu.com/) |[Web](http://www.fcl.fujitsu.com/downloads/services/wireless-modules/mbh7blz01.pdf) | 4dBm|-88dBm|12mA|5uA|
+|[BVMCN5103](http://www.braveridge.com/Specification%20Documents/BVMCN5103-BK%20Spec%20sheet%20Ver1.0J.pdf)| NRF51822 | 4.1 | [Braveridge](http://www.braveridge.com/) |[済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=007&TC=N&PK=1&FN=370ul&SN=%94%46%8F%D8&LN=3&R1=*****&R2=*****)|+4dBm||
 
 
 # CSR101x系
