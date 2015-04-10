@@ -29,6 +29,12 @@
 | MDBT4.0 | NRF51822 | 4.1 | [Raytac](http://www.raytac.com/) |[Web](http://www.raytac.com/products.php) | 4dBm|-93dBm||||
 | MDBT4.0 nano | NRF51822 | 4.1 | [Raytac](http://www.raytac.com/) |[Web](http://www.raytac.com/products.php) | 4dBm|-93dBm||||
 
+# CSR101x系
+
+## Module
+| モジュール名 | BLE Chip　| Ver| メーカー | Web | 最大送信出力|受信感度|TX最大電流|スリープモード
+| -- | -- | -- |-- |-- |
+| RN4020 | CSR2012 | 4.0 | [Microchip](http://www.microchip.com/) | [Web](http://ww1.microchip.com/downloads/en/DeviceDoc/50002279A.pdf) |+7dBm||||
 
 # 不明
 
