@@ -28,7 +28,7 @@
 | BL600 | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) |[Web](http://www.lairdtech.com/products/bl600-series) | +4dBm|-91dBm||||
 | MDBT4.0 | NRF51822 | 4.1 | [Raytac](http://www.raytac.com/) |[Web](http://www.raytac.com/products.php) | +4dBm|-93dBm||||
 | MDBT4.0 nano | NRF51822 | 4.1 | [Raytac](http://www.raytac.com/) |[Web](http://www.raytac.com/products.php) | +4dBm|-93dBm||||
-| BMD-200 | NRF51822 | 4.1 | [RIGADO](http://www.rigado.com/) |[Web](https://www.rigado.com/product/bmd-200) | 4dBm|-93dBm||||
+| BMD-200 | NRF51822 | 4.1 | [RIGADO](http://www.rigado.com/) |[Web](https://www.rigado.com/product/bmd-200) | 4dBm|-93dBm|16mA|||
 
 # CSR101x系
 
