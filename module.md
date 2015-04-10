@@ -17,15 +17,15 @@
 | -- | -- | -- |-- |-- |
 | BLED112 | CC2540 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [Web](https://www.bluegiga.com/en-US/products/bled112-bluetooth-smart-dongle/) |0dBm|-93dBm|||
 
-# Nordic Semiconductor
+# NRF51822系
 
-## NRF51822
+## Module
 
 | モジュール名 | BLE Chip　| Ver| メーカー | Web | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
 | BLED112 | CC2540 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [Web](https://www.bluegiga.com/en-US/products/bled112-bluetooth-smart-dongle/) |0dBm|-93dBm|||
 
-## NRF51422
+## USB
 
 | モジュール名 | BLE Chip　| Ver| メーカー | Web | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
