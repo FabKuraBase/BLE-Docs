@@ -38,6 +38,8 @@
 | RN4020 | CSR2012 | 4.0 | [Microchip](http://www.microchip.com/) | [Web](http://ww1.microchip.com/downloads/en/DeviceDoc/50002279A.pdf) |+7dBm||||
 
 # BlueNGR系
+
+## Module
 | モジュール名 | BLE Chip　| Ver| メーカー | Web | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
 | BMD-200 | BlueNGR | 4.1 | [RIGADO](http://www.rigado.com/) |[Web](https://www.rigado.com/product/bmd-100) | +8dBm|-88dBm|16mA|||
