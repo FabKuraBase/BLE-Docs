@@ -11,6 +11,8 @@
 | CSR1012 | CSR | [Datasheet](https://www.csrsupport.com/download/47278/CSR1012%20Data%20Sheet%20CS-238833-DS.pdf) |
 | CC2540 | TI | [Web](http://m.tij.co.jp/product/jp/CC2540) |
 | CC2541 | TI | [Web](http://m.tij.co.jp/product/jp/CC2541) |
+| BCM20737S | Broadcom | [Datasheet](http://www.broadcom.com/collateral/pb/WICED-Sense-PB100.pdf) |
+|
 
 
 
