@@ -5,5 +5,7 @@
 * [BLEモジュール](module.md)
 * [TI系BLEモジュール](ti.md)
 * [Nordic系BLEモジュール](nordic.md)
+* [業界動向](trend.md)
 * [Link](link.md)
+
 
