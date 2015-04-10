@@ -34,6 +34,7 @@ BLEモジュールは、国内では「特定無線設備の種別	第２条第�
 | [HRM1017](http://www.hosiden.co.jp/news/product/hrm1017.html) | NRF51822 | 4.0 | [Hoshiden](http://www.hosiden.co.jp/) | | +4dBm||||
 |[HRM1026](http://www.hosiden.co.jp/news/product/hrm1026.html) | NRF51822 | 4.0 | [Hoshiden](http://www.fcl.fujitsu.com/) | | 4dBm||||
 | [BVMCN5102](http://www.braveridge.com/Specification%20Documents/BVMCN5102-BK%20Spec%20sheet%20Ver101.pdf) | NRF51822 | 4.0 | [Braveridge](http://www.braveridge.com/)  |[済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=007&TC=N&PK=1&FN=370ul&SN=%94%46%8F%D8&LN=3&R1=*****&R2=*****)|+4dBm||
+|[SY-MN1319X1](http://www.sysgration.com/webe/html/products/index2.aspx?num=236)| NRF51822 |4.0| [Sysgration](http://www.sysgration.com/) | 未 | +4dBm |  | 10.5mA@0dBm | 3.5uA |
 | [MDBT4.0](http://www.raytac.com/products.php)| NRF51822 | 4.1 | [Raytac](http://www.raytac.com/) | | +4dBm|-93dBm|||
 | [MDBT4.0 nano](http://www.raytac.com/products.php) | NRF51822 | 4.1 | [Raytac](http://www.raytac.com/) | | +4dBm|-93dBm|||
 | [BMD-200](https://www.rigado.com/product/bmd-200) | NRF51822 | 4.1 | [RIGADO](http://www.rigado.com/) | | 4dBm|-93dBm|16mA||
