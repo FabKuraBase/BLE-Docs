@@ -13,6 +13,7 @@
 | [BLE121LR](https://www.bluegiga.com/en-US/products/ble121lr-bluetooth-smart-long/) | CC2541 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [通過](https://www.bluegiga.com/en-US/download/?file=eQs1EzP8S9KiSLoED4OyjA&title=BLE121LR%2520Japan%2520Report%2520and%2520Certificate&filename=BLE121LR_Japan.zip) |+8dBm| -98dBm|36mA<br>25 mA (DC/DC)| 0.5uA|
 |[PAN1721](http://na.industrial.panasonic.com/products/wireless-connectivity/bluetooth/bluetooth-smart-low-energy/series/pan1721-series/CS465)|CC2541|4.0|[Panasonic](http://wwww.panasonic.com)| 見通過|0dBm|-96dBm|14 mA|0.5uA|
 
+* BLE121LRは、ACB,Incが認証をおこなっているが、総務省のDBに未反映
 
 ### USB
 | モジュール名 | BLE Chip　| Ver| メーカー | 技適 | 最大送信出力|受信感度|TX最大電流|スリープモード
