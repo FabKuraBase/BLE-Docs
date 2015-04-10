@@ -1,6 +1,9 @@
 # Summary
 
 * [introduction](README.md)
-* [First Chapter](chapter1.md)
+* [BLEチップ](chip.md)
+* [BLEモジュール](module.md)
+* [TI系BLEモジュール](ti.md)
+* [Nordic系BLEモジュール](nordic.md)
 * [Link](link.md)
 
