@@ -6,12 +6,12 @@
 
 ### Module
 
-| モジュール名 | BLE Chip　| Ver | メーカー | Web | 最大送信出力|受信感度|TX最大電流|スリープモード|
+| モジュール名 | BLE Chip　| Ver | メーカー | 技適 | 最大送信出力|受信感度|TX最大電流|スリープモード|
 | -- | -- | -- |-- |-- |
-| BLE113 | CC2541 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [Web](https://www.bluegiga.com/en-US/products/ble113-bluetooth-smart-module/) |0dBm|-93dBm|18.2mA|0.4uA|
-| BLE112 | CC2540 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [Web](https://www.bluegiga.com/en-US/products/ble112-bluetooth-smart-module/) |+3dBm| -92dBm|27mA|0.4uA|
-| BLE121LR | CC2541 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [Web](https://www.bluegiga.com/en-US/products/ble121lr-bluetooth-smart-long/) |+8dBm| -98dBm|36mA<br>25 mA (DC/DC)| 0.5uA|
-|[PAN1721](http://na.industrial.panasonic.com/products/wireless-connectivity/bluetooth/bluetooth-smart-low-energy/series/pan1721-series/CS465)|CC2541|4.0|[Panasonic](http://wwww.panasonic.com) |0dBm|-96dBm|0.5uA|
+| [BLE113](https://www.bluegiga.com/en-US/products/ble113-bluetooth-smart-module/) | CC2541 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | 通過 |0dBm|-93dBm|18.2mA|0.4uA|
+| [BLE112](https://www.bluegiga.com/en-US/products/ble112-bluetooth-smart-module/) | CC2540 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | 通過 |+3dBm| -92dBm|27mA|0.4uA|
+| [BLE121LR](https://www.bluegiga.com/en-US/products/ble121lr-bluetooth-smart-long/) | CC2541 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | 通過 |+8dBm| -98dBm|36mA<br>25 mA (DC/DC)| 0.5uA|
+|[PAN1721](http://na.industrial.panasonic.com/products/wireless-connectivity/bluetooth/bluetooth-smart-low-energy/series/pan1721-series/CS465)|CC2541|4.0|[Panasonic](http://wwww.panasonic.com)| 見通過|0dBm|-96dBm|14 mA|0.5uA|
 
 
 ### USB
