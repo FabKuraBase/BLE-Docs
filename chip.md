@@ -13,7 +13,7 @@
 | CC2541 | TI | [Web](http://m.tij.co.jp/product/jp/CC2541) |
 | BCM20737S | Broadcom | [Datasheet](http://www.broadcom.com/collateral/pb/WICED-Sense-PB100.pdf) |
 |BlueNGR | STMicro | [Web](http://www.st.com/web/catalog/sense_power/FM1968/CL1976/SC1898/PF258646?ecmp=pf258646_link_emf_jan2014&sc=bluenrg) |
-| CYBL10X6X | Cypress | (http://japan.cypress.com/?rID=99422 ) |
+| CYBL10X6X | Cypress | [Web](http://japan.cypress.com/?rID=99422 ) |
 
 
 
