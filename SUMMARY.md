@@ -8,4 +8,3 @@
 * [業界動向](trend.md)
 * [Link](link.md)
 
-
