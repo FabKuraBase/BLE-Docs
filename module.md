@@ -52,13 +52,13 @@ BLEモジュールは、国内では「特定無線設備の種別	第２条第�
 ## Module
 | モジュール名 | BLE Chip　| Ver| メーカー | Web | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
-| BMD-200 | BlueNGR | 4.1 | [RIGADO](http://www.rigado.com/) |[Web](https://www.rigado.com/product/bmd-100) | +8dBm|-88dBm|16mA|||
+| [BMD-200](https://www.rigado.com/product/bmd-100) | BlueNGR | 4.1 | [RIGADO](http://www.rigado.com/) | | +8dBm|-88dBm|16mA|||
 
 # 不明
 
 | モジュール名 | BLE Chip |メーカー | Web | 最大送信出力|受信感度|
 | -- | -- | -- |
-| MK71050-03 | 不明 | ラピスセミコン | [Web](http://www.lapis-semi.com/jp/semicon/telecom/landing/mk71050-03.html) |0dBm|-86dBm
+| [MK71050-03](http://www.lapis-semi.com/jp/semicon/telecom/landing/mk71050-03.html) | 不明 | ラピスセミコン |  |0dBm|-86dBm
 
 # 技適
 
