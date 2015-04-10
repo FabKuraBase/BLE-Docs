@@ -31,8 +31,9 @@ BLEモジュールは、国内では「特定無線設備の種別	第２条第�
 | [BL600-SA](http://www.lairdtech.com/products/bl600-series) | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=204&TC=N&PK=1&FN=150test&SN=%94%46%8F%D8&LN=28&R1=*****&R2=*****)| +4dBm|-91dBm||||
 | [BL600-SC](http://www.lairdtech.com/products/bl600-series) | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=204&TC=N&PK=1&FN=150test&SN=%94%46%8F%D8&LN=29&R1=*****&R2=*****)| +4dBm|-91dBm||||
 | [BL600-ST](http://www.lairdtech.com/products/bl600-series) | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=204&TC=N&PK=1&FN=150test&SN=%94%46%8F%D8&LN=27&R1=*****&R2=*****)| +4dBm|-91dBm||||
-| HRM1017 | NRF51822 | 4.0 | [Hoshiden](http://www.hosiden.co.jp/) |[Web](http://www.hosiden.co.jp/news/product/hrm1017.html) | +4dBm||||
-| HRM1026 | NRF51822 | 4.0 | [Hoshiden](http://www.fcl.fujitsu.com/) |[Web](http://www.hosiden.co.jp/news/product/hrm1026.html) | 4dBm||||
+| [HRM1017](http://www.hosiden.co.jp/news/product/hrm1017.html) | NRF51822 | 4.0 | [Hoshiden](http://www.hosiden.co.jp/) | | +4dBm||||
+|[HRM1026](http://www.hosiden.co.jp/news/product/hrm1026.html) | NRF51822 | 4.0 | [Hoshiden](http://www.fcl.fujitsu.com/) | | 4dBm||||
+| [BVMCN5102](http://www.braveridge.com/BVMCN5102-BK-EZ-Ap%20spec%20Ver0.71.pdf) | NRF51822 | 4.0 | [Braveridge](http://www.braveridge.com/) | +4dBm|||
 | MDBT4.0 | NRF51822 | 4.1 | [Raytac](http://www.raytac.com/) |[Web](http://www.raytac.com/products.php) | +4dBm|-93dBm|||
 | MDBT4.0 nano | NRF51822 | 4.1 | [Raytac](http://www.raytac.com/) |[Web](http://www.raytac.com/products.php) | +4dBm|-93dBm|||
 | BMD-200 | NRF51822 | 4.1 | [RIGADO](http://www.rigado.com/) |[Web](https://www.rigado.com/product/bmd-200) | 4dBm|-93dBm|16mA||
@@ -44,7 +45,7 @@ BLEモジュールは、国内では「特定無線設備の種別	第２条第�
 ## Module
 | モジュール名 | BLE Chip　| Ver| メーカー | Web | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
-| RN4020 | CSR2012 | 4.0 | [Microchip](http://www.microchip.com/) | [Web](http://ww1.microchip.com/downloads/en/DeviceDoc/50002279A.pdf) |+7dBm||||
+| [RN4020](http://ww1.microchip.com/downloads/en/DeviceDoc/50002279A.pdf) | CSR2012 | 4.0 | [Microchip](http://www.microchip.com/) |  |+7dBm||||
 
 # BlueNGR系
 
@@ -58,3 +59,10 @@ BLEモジュールは、国内では「特定無線設備の種別	第２条第�
 | モジュール名 | BLE Chip |メーカー | Web | 最大送信出力|受信感度|
 | -- | -- | -- |
 | MK71050-03 | 不明 | ラピスセミコン | [Web](http://www.lapis-semi.com/jp/semicon/telecom/landing/mk71050-03.html) |0dBm|-86dBm
+
+# 技適
+
+* [技術基準適合証明等の公示（平成26年度分）](http://www.tele.soumu.go.jp/j/ref/material/tech/index.htm)
+* [適合性評価機関等の情報](http://www.tele.soumu.go.jp/j/sys/equ/mra/ninsyoukikan/index.htm#ninteihyouka)
+
+
