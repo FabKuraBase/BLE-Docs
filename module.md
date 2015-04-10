@@ -23,13 +23,9 @@
 
 | モジュール名 | BLE Chip　| Ver| メーカー | Web | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
-| BLED112 | CC2540 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [Web](https://www.bluegiga.com/en-US/products/bled112-bluetooth-smart-dongle/) |0dBm|-93dBm|||
+| RFD22301 | NRF51822 | 4.0 | [RFDigital](http://www.rfdigital.com/) | [Web](http://www.rfdigital.com/product/rfd22301-rfduino-ble-smt/index.html) |4dBm||||
 
-## USB
 
-| モジュール名 | BLE Chip　| Ver| メーカー | Web | 最大送信出力|受信感度|TX最大電流|スリープモード
-| -- | -- | -- |-- |-- |
-| BLED112 | CC2540 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [Web](https://www.bluegiga.com/en-US/products/bled112-bluetooth-smart-dongle/) |0dBm|-93dBm|||
 
 # 不明
 
