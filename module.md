@@ -2,6 +2,8 @@
 
 ## CC254x系
 
+
+
 ### Module
 
 | モジュール名 | BLE Chip　| Version| メーカー | Web | 最大送信出力|受信感度|TX最大電流|RX最大電流|Sleedmode
