@@ -26,7 +26,7 @@
 | RFD22301 | NRF51822 | 4.0 | [RFDigital](http://www.rfdigital.com/) | [Web](http://www.rfdigital.com/product/rfd22301-rfduino-ble-smt/index.html) |+4dBm||||
 | BL620 | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) |[Web](http://www.lairdtech.com/products/bl620) |+4dBm|||||
 | BL600 | NRF51822 | 4.0 | [Laird](http://www.lairdtech.com) |[Web](http://www.lairdtech.com/products/bl600-series) | +4dBm|-91dBm||||
-| HRM1017 | NRF51822 | 4.0 | [Hoshiden](http://www.hosiden.co.jp/ |[Web](http://www.hosiden.co.jp/news/product/hrm1017.html) | +4dBm|||||
+| HRM1017 | NRF51822 | 4.0 | [Hoshiden](http://www.hosiden.co.jp/) |[Web](http://www.hosiden.co.jp/news/product/hrm1017.html) | +4dBm|||||
 | MDBT4.0 | NRF51822 | 4.1 | [Raytac](http://www.raytac.com/) |[Web](http://www.raytac.com/products.php) | +4dBm|-93dBm||||
 | MDBT4.0 nano | NRF51822 | 4.1 | [Raytac](http://www.raytac.com/) |[Web](http://www.raytac.com/products.php) | +4dBm|-93dBm||||
 | BMD-200 | NRF51822 | 4.1 | [RIGADO](http://www.rigado.com/) |[Web](https://www.rigado.com/product/bmd-200) | 4dBm|-93dBm|16mA|||
