@@ -34,3 +34,6 @@
 <hr>
 2014/9/5<br>
 [ブラウン、Bluetoothでスマホと連携する電動歯ブラシ](http://news.kakaku.com/prdnews/cd=kaden/ctcd=2190/id=41503/)
+<hr>
+2014/8/27<br>
+[Bluetooth対応サッカーボール miCoach smart ball 発売、iPhoneでプロのキックと比較練習](http://japanese.engadget.com/2014/08/26/bluetooth-micoach-smart-ball-iphone/)
