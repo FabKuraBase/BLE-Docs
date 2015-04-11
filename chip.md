@@ -16,6 +16,8 @@
 | [BlueNGR](http://www.st.com/web/catalog/sense_power/FM1968/CL1976/SC1898/PF258646?ecmp=pf258646_link_emf_jan2014&sc=bluenrg) | [STMicro](http://www.st-japan.co.jp/web/jp/home.html) | ARM® Cortex™ M0 | +8dBm |-96dBm | 8.2mA| 7.3mA| 1.7μA |
 | [CYBL10X6X](http://japan.cypress.com/?rID=99422 ) | [CYPRESS](http://japan.cypress.com/) |ARM® Cortex™ M0| +3dBm |-89dBm|15.6mA| 16.4mA|1.3μA|
 |[TZ1000](http://toshiba.semicon-storage.com/jp/product/assp/applite/tz1000.html) |[Toshibaセミコン](http://toshiba.semicon-storage.com/) |ARM® Cortex™ M4F|||||||
+|[ML1705-002](http://www.lapis-semi.com/jp/semicon/telecom/ble.html)|[LAPIS](http://www.lapis-semi.com)|ARM® Cortex™ M0|||9mA|9mA|0.7uA|
+
 *DDは、DC/DC変換の略
 
 #DA14580のBlock diagram
