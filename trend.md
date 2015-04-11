@@ -3,6 +3,8 @@
 ## 業界ニュース
 <hr>
 2015/4/9<br>
+[Dialogが「Wearable on Chip」を発売、Cortex-M0コアやBluetooth Smart機能を搭載](http://techon.nikkeibp.co.jp/article/NEWS/20150409/413501/)
+
 [1個から買えてすぐに使えるBluetooth Smartモジュール、ヘルスケアやIoTに](http://monoist.atmarkit.co.jp/mn/articles/1504/09/news091.html)
 
 <hr>
