@@ -4,6 +4,7 @@
 | Project名 | 集まった額 | サイト|成立時期|
 | -- | -- |
 | [Bluesmart](https://www.indiegogo.com/projects/bluesmart-world-s-first-smart-connected-carry-on)| $2,085,832|Indiegogo| 2014/10/1|
+|[The Defender](https://www.indiegogo.com/projects/the-defender-smart-personal-protection)|$232,277|Indiegogo|2014/9/4|
 |[HiSmart](https://www.indiegogo.com/projects/hismart-the-first-smart-convertible-urban-bag)|$223,278|Indiegogo|展開中|
 |[Flic](https://www.indiegogo.com/projects/flic-the-wireless-smart-button) | $785,903 |Indiegogo|2015/1/6|
 |[Fever Smart](https://www.indiegogo.com/projects/fever-smart-the-smart-patch-thermometer-for-kids)|$64,018|Indiegogo|2014/10/22
