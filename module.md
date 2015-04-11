@@ -23,9 +23,11 @@ dialog社のDA14580は、XiamoiのMiバンドに採用。ARM Cortex M0を内臓�
 | -- | -- | -- |-- |-- |
 | [BLE113](https://www.bluegiga.com/en-US/products/ble113-bluetooth-smart-module/) | CC2541 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=007&TC=N&PK=1&FN=352ul&SN=%94F%8F%D8&LN=3&R1=*****&R2=*****) |0dBm|-93dBm|18.2mA|0.4uA|
 | [BLE112](https://www.bluegiga.com/en-US/products/ble112-bluetooth-smart-module/) | CC2540 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=209&TC=N&PK=1&FN=022acb&SN=%94%46%8F%D8&LN=2&R1=*****&R2=*****) |+3dBm| -92dBm|27mA|0.4uA|
+|[cB-OLP425i-04](http://support.connectblue.com/display/PRODBTSPA/cB-OLP425+cB-OLS425+cB-OLS426+Electrical+Mechanical+Data+Sheet)|CC2540|4.0|[connectBlue](http://www.connectblue.com/home/)|[済み](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=204&TC=N&PK=1&FN=158test&SN=%94%46%8F%D8&LN=21&R1=*****&R2=*****)|||||
 | [BLE121LR](https://www.bluegiga.com/en-US/products/ble121lr-bluetooth-smart-long/) | CC2541 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [済](https://www.bluegiga.com/en-US/download/?file=eQs1EzP8S9KiSLoED4OyjA&title=BLE121LR%2520Japan%2520Report%2520and%2520Certificate&filename=BLE121LR_Japan.zip)* |+8dBm| -98dBm|36mA<br>25 mA (DC/DC)| 0.5uA|
 |[PAN1721](http://na.industrial.panasonic.com/products/wireless-connectivity/bluetooth/bluetooth-smart-low-energy/series/pan1721-series/CS465)|CC2541|4.0|[Panasonic](http://wwww.panasonic.com)| 未|0dBm|-96dBm|14 mA|0.5uA|
-|[SESUB-PAN-T2541](http://product.tdk.com/ja/products/sesub/pan/catalog/)|CC2541|4.0|[TDK](http://product.tdk.com/)|済|0dBm||20.6mA|1.2uA|
+|[SESUB-PAN-T2541](http://product.tdk.com/ja/products/sesub/pan/catalog/)|CC2541|4.0|[TDK](http://product.tdk.com/)||0dBm||20.6mA|1.2uA|
+
 
 * BLE121LRは、[ACB,Inc](http://acbcert.com/MIC-Japanese-Radio-Certification-services.asp)が認証をおこなっているが、総務省のDBに未反映
 
