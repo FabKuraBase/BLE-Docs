@@ -22,25 +22,25 @@
 
 #DA14580のBlock diagram
 
-![](da14580.png)
+![](image/da14580.png)
 
 #NRF51822のBlock diagram
-![](nrf51822.png)
+![](image/nrf51822.png)
 
 #CYBL10X6XのBlock diagram
-![](cybl10x6x.png)
+![](image/cybl10x6x.png)
 
 #CSR1012のBlock diagram
-![](csr1012.png)
+![](image/csr1012.png)
 
 #CC2541のBlock diagram
-![](cc2541.png)
+![](image/cc2541.png)
 
 #BlueNGRのBlock diagram
-![](BlueNGR.png)
+![](image/BlueNGR.png)
 
 #TZ1000のBlock diagram
-![](tz1000.png)
+![](image/tz1000.png)
 
 # ML7105のBlock diagram
-![](ml7105.png)
+![](image/ml7105.png)
