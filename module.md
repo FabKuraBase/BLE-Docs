@@ -80,7 +80,7 @@ dialog社のDA14580は、XiamoiのMiバンドに採用。ARM Cortex M0を内臓�
 ## Module
 | モジュール名 | BLE Chip　| Ver| メーカー | Web | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
-| [EMRF-20732S](http://www.embeddedmasters.com/ProductDetail/EMRF20732S-Embedded-Masters/552437/#.VSihgo7tmko) | EmbeddedMaster | BCM20732 |  | | ||||
+| [EMRF-20732S](http://www.embeddedmasters.com/ProductDetail/EMRF20732S-Embedded-Masters/552437/#.VSihgo7tmko) | BCM20732| EmbeddedMaster |  |  | | |||
 
 
 <hr>
