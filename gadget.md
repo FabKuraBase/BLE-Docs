@@ -36,6 +36,9 @@
 2015/1/6<br>
 [貼る Bluetooth 体温計 TempTraq 発表。乳幼児の体温をスマホアプリで24時間監視](http://japanese.engadget.com/2015/01/05/bluetooth-temptraq-24/)
 <hr>
+2014/12/14<br>
+[サンスター、歯ブラシ取り付け型「G・U・M PLAY」 - Bluetoothでスマホ連携](http://news.mynavi.jp/news/2014/12/24/218/)
+<hr>
 2014/9/5<br>
 [ブラウン、Bluetoothでスマホと連携する電動歯ブラシ](http://news.kakaku.com/prdnews/cd=kaden/ctcd=2190/id=41503/)
 <hr>
