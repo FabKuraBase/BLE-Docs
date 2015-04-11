@@ -54,6 +54,9 @@
 
 [http://av.watch.impress.co.jp/docs/news/20141120_677024.html](http://av.watch.impress.co.jp/docs/news/20141120_677024.html)
 <hr>
+2014/10/7<br>
+[MIDI信号をBluetoothでiPhone／iPadに飛ばせる「mi.1」](http://www.gizmodo.jp/2014/10/midibluetoothiphoneipadmi1.html)
+<hr>
 2014/9/9<br>
 [Bluetooth経由でiPhoneと連携できるオムロンの婦人体温計](http://kaden.watch.impress.co.jp/docs/news/20140909_665874.html)
 <hr>
