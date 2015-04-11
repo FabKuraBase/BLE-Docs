@@ -28,3 +28,6 @@
 <hr>
 2015/1/6<br>
 [貼る Bluetooth 体温計 TempTraq 発表。乳幼児の体温をスマホアプリで24時間監視](http://japanese.engadget.com/2015/01/05/bluetooth-temptraq-24/)
+<hr>
+2014/9/5<br>
+[ブラウン、Bluetoothでスマホと連携する電動歯ブラシ](http://news.kakaku.com/prdnews/cd=kaden/ctcd=2190/id=41503/)
