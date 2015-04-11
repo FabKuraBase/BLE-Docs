@@ -54,6 +54,9 @@
 
 [http://av.watch.impress.co.jp/docs/news/20141120_677024.html](http://av.watch.impress.co.jp/docs/news/20141120_677024.html)
 <hr>
+2014/10/23<br>
+[土の健康状態を教えてくれるBluetoothセンサー](http://www.gizmodo.jp/2014/10/bluetooth_22.html)
+<hr>
 2014/10/7<br>
 [MIDI信号をBluetoothでiPhone／iPadに飛ばせる「mi.1」](http://www.gizmodo.jp/2014/10/midibluetoothiphoneipadmi1.html)
 <hr>
