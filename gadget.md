@@ -20,6 +20,8 @@
 2015/3/30<br>
 [グリップ部に全段収納！　Bluetooth搭載のアルミ製自撮り棒](http://ascii.jp/elem/000/000/994/994227/)
 <hr>
+2015/3/28<br>
+[Bolt - The World's Most Portable Electric Vehicle](https://www.indiegogo.com/projects/bolt-the-world-s-most-portable-electric-vehicle)
 2015/3/24<br>
 [フォーカル、Bluetooth SMART対応＆バックライトLED内蔵の心拍計付き腕時計を発売](http://healthcare.itmedia.co.jp/hc/articles/1503/25/news145.html)
 <hr>
