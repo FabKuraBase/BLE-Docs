@@ -36,12 +36,15 @@
 ###Kickstarter
 | Project名 | 集まった額 | サイト|成立時期|
 | -- | -- |
+|[Digispark Pro](https://www.kickstarter.com/projects/digistump/digispark-pro-tiny-arduino-ready-mobile-and-usb-de/description)|$103,569|Kickstarter|2015/5/12|
 |[SmartWallit](https://www.kickstarter.com/projects/416260479/smartwallit-redefines-wallet-and-makes-wallet-smar/description)|$76,121|Kickstarter|2013/5/3|
 |[mcThing](https://www.kickstarter.com/projects/2016620887/mcthings-tiny-wireless-bluetooth-sensors-and-contr/description)|$97,549|Kickstarter|2014/7/23|
 | [BLEDuino](https://www.kickstarter.com/projects/kytelabs/bleduino-bluetooth-40-ble-made-easy-arduino-compat/description)|$75,126|Kickstarter|2013/7/21|
 | [IMUduino](https://www.kickstarter.com/projects/1265095814/imuduino-wireless-3d-motion-html-js-apps-arduino-p/description)| $18,467|Kickstarter| 2014/11/7|
 | [Arduino BLE Shield](https://www.kickstarter.com/projects/rowdyrobot/arduino-ble-shield-connecting-the-ios-and-the-ardu/description)|$16,498|Kickstarter|2012/9/9|
 |[Giayee](https://www.kickstarter.com/projects/343910040/atomwear/description)|$13,740|Kickstarter|2014/9/19|
+|[MangoCube](https://www.kickstarter.com/projects/530456128/mangocube-the-pocket-sized-arduino-compatible-boar/description)|£9,337|Kickstarter|2014/11/10|
+
 
 
 
