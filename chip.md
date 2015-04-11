@@ -2,7 +2,7 @@
 
 ## BLEチップ種類
 
-| Chip名 | Maker | Web |
+| Chip名 | Maker | 送信感度|受信感度|送信電流 | 受信電流|スリープ時電流|
 | -- | -- |
 | [NRF51822](http://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF51822) | Nordic Semiconductor |  |
 | NRF51422 | Nordic Semiconductor | [Web](http://www.nordicsemi.com/eng/Products/ANT/nRF51422) |
