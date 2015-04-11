@@ -11,7 +11,7 @@
 |[The Defender](https://www.indiegogo.com/projects/the-defender-smart-personal-protection)|$232,277|Indiegogo|2014/9/4|
 |[HiSmart](https://www.indiegogo.com/projects/hismart-the-first-smart-convertible-urban-bag)|$223,278|Indiegogo|展開中|
 |[FOBO TIRE](https://www.indiegogo.com/projects/fobo-tire-world-s-first-all-bluetooth-smart-tpms)|$186,105|Indiegogo|2014/10/23|
-|[Jugglow]https://www.indiegogo.com/projects/juggglow-the-next-level-of-juggling|€11,722|Indiegogo|2015/3/7|
+|[Jugglow](https://www.indiegogo.com/projects/juggglow-the-next-level-of-juggling)|€11,722|Indiegogo|2015/3/7|
 |[Switchmate](https://www.indiegogo.com/projects/switchmate-smart-lighting-made-simple)|$173,057|Indiegogo|2015/4/1|
 |[Sensibo](https://www.indiegogo.com/projects/sensibo-make-any-air-conditioner-smart)|$170,286|Indiegogo|2014/7/19|
 |[MOTA SmartRing](https://www.indiegogo.com/projects/mota-smartring-connectivity-at-your-fingertips)|$155,896|Indiegogo|2014/11/3|
