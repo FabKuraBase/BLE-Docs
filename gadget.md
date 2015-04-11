@@ -26,6 +26,9 @@
 2015/3/3<br>
 [スマホから置き忘れを通知してくれるBluetooth対応折りたたみ傘　Kickstarterに登場](http://nlab.itmedia.co.jp/nl/articles/1503/03/news017.html)
 <hr>
+2015/2/17<br>
+[エー・アンド・デイ、Bluetoothでスマホとつながる血圧計・体重計・体温計](http://news.mynavi.jp/news/2015/02/17/188/)
+<hr>
 2015/2/6<br>
 [カシオ、Bluetooth Smartでスマホ常時連携のデジカメ「EX-ZR1600」](http://av.watch.impress.co.jp/docs/news/20150206_687133.html)
 <hr>
