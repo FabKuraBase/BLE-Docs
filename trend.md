@@ -2,6 +2,10 @@
 
 ## 業界ニュース
 <hr>
+2015/4/9<br>
+[1個から買えてすぐに使えるBluetooth Smartモジュール、ヘルスケアやIoTに](http://monoist.atmarkit.co.jp/mn/articles/1504/09/news091.html)
+
+<hr>
 2015/3/27<br>
 [iPhoneとカンタンにBLE通信できる！「Bluetooth Low EnergyモジュールZEAL-LE0」サンプル販売開始のお知らせ](http://www.dreamnews.jp/press/0000109876/)
 <
