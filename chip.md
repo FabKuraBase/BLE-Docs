@@ -24,6 +24,7 @@
 #NRF51822のBlock diagram
 ![](nrf51822.png)
 
+#CYBL10X6XのBlock diagram
 
 
 
