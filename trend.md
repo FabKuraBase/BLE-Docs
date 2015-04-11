@@ -23,6 +23,9 @@
 2015/2/15<br>
 [ルネサス、低消費電流のBluetooth LE用RFトランシーバ技術を開発](http://news.mynavi.jp/news/2015/02/25/441/)
 <hr>
+2015/2/10<br>
+[Bluetooth Smartのメッシュネットワークでモノがつながる、「CSRmesh」アップデート](http://monoist.atmarkit.co.jp/mn/articles/1502/10/news110.html)
+<hr>
 2015/2/3<br>
 [Silicon Labs Acquires Bluegiga, a Leader in Bluetooth and Wi-Fi Connectivity Solutions](http://news.silabs.com/press-release/corporate-news/silicon-labs-acquires-bluegiga-leader-bluetooth-and-wi-fi-connectivity-)
 <hr>
