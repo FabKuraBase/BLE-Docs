@@ -2,6 +2,14 @@
 
 BLEモジュールは、国内では「特定無線設備の種別	第２条第１９号に規定する特定無線設備」として定義されている。電波の型式「Ｆ１Ｄ」、周波数は、「2402～2480ＭＨz(２ＭＨz間隔40波)」と定義される。
 
+## Murata系
+### Module
+
+| モジュール名 | BLE Chip　| Ver | メーカー | 技適 | 最大送信出力|受信感度|TX最大電流|スリープモード|
+| -- | -- | -- |-- |-- |
+| [Type ZY](http://www.murata.co.jp/products/microwave/module/bluetoothmodule/schematic/typez.html#tab) | 独自 | 4.1 | [Murata](http://www.murata.co.jp/) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=001&TC=G&PK=1&FN=387tele&SN=%8F%D8%96%BE&LN=32&R1=*****&R2=*****) |0dBm||4.8mA|0.6uA|
+
+
 ## CC254x系
 
 ### Module
