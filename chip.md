@@ -28,6 +28,7 @@
 #CYBL10X6XのBlock diagram
 ![](cybl10x6x.png)
 
+#CC2541のBlock diagram
 
 
 
