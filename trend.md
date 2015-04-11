@@ -5,6 +5,9 @@
 2015/2/15<br>
 [ルネサス、低消費電流のBluetooth LE用RFトランシーバ技術を開発](http://news.mynavi.jp/news/2015/02/25/441/)
 <hr>
+2014/12/15<br>
+[Bluetooth SIG、最新バージョンのBluetooth 4.2を発表](http://news.mynavi.jp/news/2014/12/05/397/)<br>
+<hr>
 2014/12/14<br>
 [NOR/SRAMで世界1位の企業が誕生 - CypressとSpansionが経営統合を発表](http://news.mynavi.jp/news/2014/12/04/041/)<br>
 <hr>
