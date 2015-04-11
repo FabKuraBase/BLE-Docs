@@ -54,6 +54,7 @@
 |[Helios bar](https://www.kickstarter.com/projects/kennygibbs/helios-bars-transform-any-bike-into-a-smart-bike/updates)|$120,106|Kickstarter|2013/5/21|
 |[Sensordrone](https://www.kickstarter.com/projects/453951341/sensordrone-the-6th-sense-of-your-smartphoneand-be/description)|$170,017|Kickstarter|2012/7/22|
 |[anymote](https://www.kickstarter.com/projects/1635386542/anymote-home-your-phone-the-ultimate-universal-rem/description)|$151,436|Kickstarter|2014/10/10|
+|[HAPIfork](https://www.kickstarter.com/projects/1273668931/hapifork-the-smart-fork-that-tracks-your-eating-ha-0/description)|$134,743|Kickstarter|2013/7/1|
 |[Digispark Pro](https://www.kickstarter.com/projects/digistump/digispark-pro-tiny-arduino-ready-mobile-and-usb-de/description)|$103,569|Kickstarter|2015/5/12|
 |[Pantelligent](https://www.kickstarter.com/projects/hevans/pantelligent-intelligent-pan-cook-everything-perfe/description)|$83,206|Kickstarter|2015/1/6|
 |[SmartWallit](https://www.kickstarter.com/projects/416260479/smartwallit-redefines-wallet-and-makes-wallet-smar/description)|$76,121|Kickstarter|2013/5/3|
