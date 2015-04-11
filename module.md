@@ -96,5 +96,6 @@ dialog社のDA14580は、XiamoiのMiバンドに採用。ARM Cortex M0を内臓�
 
 * [技術基準適合証明等の公示（平成26年度分）](http://www.tele.soumu.go.jp/j/ref/material/tech/index.htm)
 * [適合性評価機関等の情報](http://www.tele.soumu.go.jp/j/sys/equ/mra/ninsyoukikan/index.htm#ninteihyouka)
+* [技術基準適合証明等を受けた機器の検索](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jk01)
 
 
