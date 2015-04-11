@@ -12,7 +12,7 @@
 | [CSR1012](https://www.csrsupport.com/download/47278/CSR1012%20Data%20Sheet%20CS-238833-DS.pdf) | CSR  | 独自MCU(RISC) | +9dBm | -93dBm| ||900nA|
 | [CC2540](http://m.tij.co.jp/product/jp/CC2540)| [TI](http://www.tij.co.jp/) |  8051互換 | +6dBm | -96dBm|24mA<br>15.8 mA(DD)<br>*-6dBm|19.6 mA<br>18.6 mA(DD)<br>|0.4uA|
 | [CC2541](http://m.tij.co.jp/product/jp/CC2541) | [TI](http://www.tij.co.jp/) |  8051互換 | +6dBm | -96dBm|18.2 mA<br>14.7mA(DD)| 17.9 mA <br>14.7mA(DD)|0.4uA|  
-| BCM20737S | Broadcom | [Datasheet](http://www.broadcom.com/collateral/pb/WICED-Sense-PB100.pdf) |
+| [BCM20737S](http://www.broadcom.com/collateral/pb/WICED-Sense-PB100.pdf) | [Broadcom](http://ja.broadcom.com/) |  ARM® Cortex™ M3 |
 |BlueNGR | STMicro | [Web](http://www.st.com/web/catalog/sense_power/FM1968/CL1976/SC1898/PF258646?ecmp=pf258646_link_emf_jan2014&sc=bluenrg) |
 | [CYBL10X6X](http://japan.cypress.com/?rID=99422 ) | CYPRESS |ARM® Cortex™ M0| +3dBm |-89dBm|15.6mA| 16.4mA|1.3μA|
 
