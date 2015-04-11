@@ -1,5 +1,8 @@
 # Dialog系BLEモジュール
 
+## Co-processor
+ARM® Cortex™ M0
+
 ## 開発者サイト
 http://support.dialog-semiconductor.com/
 
