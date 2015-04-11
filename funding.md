@@ -40,6 +40,8 @@
 |[airfy Beacon](https://www.indiegogo.com/projects/airfy-beacon-make-your-smart-home-even-smarter)|$24,859|Indiegogo|2014/9/20|
 |[STEMP](https://www.indiegogo.com/projects/stemp-smart-temperature-patch)|$20,074|Indiegogo|展開中|
 |[SmartWallet](https://www.indiegogo.com/projects/smartwallet-the-world-s-smartest-wallet)|$11,037|Indiegogo|2015/1/22|
+|[The MyoLink Emerges](https://www.indiegogo.com/projects/the-myolink-emerges)|$8,668|Indiegogo|2013/1/24|
+
 
 ###Kickstarter
 | Project名 | 集まった額 | サイト|成立時期|
