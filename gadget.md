@@ -57,6 +57,9 @@
 
 [http://av.watch.impress.co.jp/docs/news/20141120_677024.html](http://av.watch.impress.co.jp/docs/news/20141120_677024.html)
 <hr>
+2014/12/8<br>
+[ユーブロックス社、Lesswire社の自動車用BluetoothとWi-Fiモジュールなどを買収](http://response.jp/article/2014/12/08/239174.html)
+<hr>
 2014/10/23<br>
 [土の健康状態を教えてくれるBluetoothセンサー](http://www.gizmodo.jp/2014/10/bluetooth_22.html)
 <hr>
