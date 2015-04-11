@@ -34,6 +34,9 @@
 2014/11/13<br>
 [東芝、BLEなどに対応したウェアラブル機器けプロセッサを発表](http://news.mynavi.jp/news/2014/11/13/422/)
 <hr>
+2014/11/9<br>
+[自販機にBluetooth 接続するとポイントゲット-- TenTen が新技術生かしキャンペーン](http://eetimes.jp/ee/articles/1501/29/news073_2.html)
+<hr>
 2014/10.16<br>
 [クアルコム、英国のチップメーカーCSRを25億ドルで買収へ](http://japan.cnet.com/news/business/35055211/)
 <hr>
