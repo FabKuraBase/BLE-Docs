@@ -7,6 +7,7 @@ ARM® Cortex™ M0
 http://support.dialog-semiconductor.com/
 
 ## 開発ボード
+### DA14580DEVKT-B
 Dialog’s DA14580 Bluetooth® Smart Development Kit - Basic
 
 ![](image/da14580_devboard.jpg)
