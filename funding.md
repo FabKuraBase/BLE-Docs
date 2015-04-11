@@ -6,6 +6,7 @@
 | Project名 | 集まった額 | サイト|成立時期|
 | -- | -- |
 | [Bluesmart](https://www.indiegogo.com/projects/bluesmart-world-s-first-smart-connected-carry-on)| $2,085,832|Indiegogo| 2014/11/1|
+|[StickNFind]()|$931,870|Indiegogo|2013/7/21|
 |[Rufus Cuff](https://www.indiegogo.com/projects/rufus-cuff-more-than-a-smartwatch)|$428,074|Indiegogo|2015/3/17|
 |[Coolest Clock](https://www.indiegogo.com/projects/coolest-clock-probably-the-coolest-clock-ever)|$278,029|Indiegogo|2015/4/10|
 |[SmartMat](https://www.indiegogo.com/projects/smartmat-the-world-s-first-intelligent-yoga-mat)|$343,132|Indiegogo|2014/11/3|
