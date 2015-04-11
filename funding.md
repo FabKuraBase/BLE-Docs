@@ -40,6 +40,7 @@
 |[SmartWallit](https://www.kickstarter.com/projects/416260479/smartwallit-redefines-wallet-and-makes-wallet-smar/description)|$76,121|Kickstarter|2013/5/3|
 |[mcThing](https://www.kickstarter.com/projects/2016620887/mcthings-tiny-wireless-bluetooth-sensors-and-contr/description)|$97,549|Kickstarter|2014/7/23|
 | [BLEDuino](https://www.kickstarter.com/projects/kytelabs/bleduino-bluetooth-40-ble-made-easy-arduino-compat/description)|$75,126|Kickstarter|2013/7/21|
+|[LuMini](https://www.kickstarter.com/projects/tabuproducts/lumini-a-simple-bluetooth-smart-bulb-for-everyone/description)|$76,239|Kickstarter|2015/4/1|
 |[SmartWallet](https://www.kickstarter.com/projects/1361917084/smartwallet-tracker-and-battery-in-a-high-fashion/description)|$36,237|Kickstarter|2014/9/14|
 | [IMUduino](https://www.kickstarter.com/projects/1265095814/imuduino-wireless-3d-motion-html-js-apps-arduino-p/description)| $18,467|Kickstarter| 2014/11/7|
 | [Arduino BLE Shield](https://www.kickstarter.com/projects/rowdyrobot/arduino-ble-shield-connecting-the-ios-and-the-ardu/description)|$16,498|Kickstarter|2012/9/9|
