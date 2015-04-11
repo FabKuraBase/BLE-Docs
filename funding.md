@@ -68,6 +68,8 @@
 |[MangoCube](https://www.kickstarter.com/projects/530456128/mangocube-the-pocket-sized-arduino-compatible-boar/description)|£9,337|Kickstarter|2014/11/10|
 
 
+http://postscapes.com/internet-of-things-and-kickstarter
+
 
 
  
