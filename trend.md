@@ -11,6 +11,9 @@
 2015/3/27<br>
 [iPhoneとカンタンにBLE通信できる！「Bluetooth Low EnergyモジュールZEAL-LE0」サンプル販売開始のお知らせ](http://www.dreamnews.jp/press/0000109876/)
 
+<hr>
+2015/2/25<br>
+[東芝：車載機器向けDSP内蔵Bluetooth(R) ICの製品化について](http://www.businesswire.com/news/home/20150224006993/ja/#.VSjW-I7tlBc)
 
 <hr>
 2015/2/15<br>
