@@ -53,6 +53,7 @@
 |[Zuli Smartplugs](https://www.kickstarter.com/projects/zuli/zuli-smartplugs/description)|$175,341|Kickstarter|2014/1/5|
 |[Helios bar](https://www.kickstarter.com/projects/kennygibbs/helios-bars-transform-any-bike-into-a-smart-bike/updates)|$120,106|Kickstarter|2013/5/21|
 |[Sensordrone](https://www.kickstarter.com/projects/453951341/sensordrone-the-6th-sense-of-your-smartphoneand-be/description)|$170,017|Kickstarter|2012/7/22|
+|[anymote](https://www.kickstarter.com/projects/1635386542/anymote-home-your-phone-the-ultimate-universal-rem/description)|$151,436|2014/10/10|
 |[Digispark Pro](https://www.kickstarter.com/projects/digistump/digispark-pro-tiny-arduino-ready-mobile-and-usb-de/description)|$103,569|Kickstarter|2015/5/12|
 |[Pantelligent](https://www.kickstarter.com/projects/hevans/pantelligent-intelligent-pan-cook-everything-perfe/description)|$83,206|Kickstarter|2015/1/6|
 |[SmartWallit](https://www.kickstarter.com/projects/416260479/smartwallit-redefines-wallet-and-makes-wallet-smar/description)|$76,121|Kickstarter|2013/5/3|
