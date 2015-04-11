@@ -10,7 +10,7 @@
 |[Sensibo](https://www.indiegogo.com/projects/sensibo-make-any-air-conditioner-smart)|$170,286|Indiegogo|2014/7/19|
 |[Flic](https://www.indiegogo.com/projects/flic-the-wireless-smart-button) | $785,903 |Indiegogo|2015/1/6|
 |[Fever Smart](https://www.indiegogo.com/projects/fever-smart-the-smart-patch-thermometer-for-kids)|$64,018|Indiegogo|2014/10/22|
-|[Orphe](https://www.indiegogo.com/projects/orphe-smart-shoes-for-artists-and-performers)|$46,389|Indiegogo展開中|
+|[Orphe](https://www.indiegogo.com/projects/orphe-smart-shoes-for-artists-and-performers)|$46,389|Indiegogo|展開中|
 |[SkyTag](https://www.indiegogo.com/projects/skytag-world-s-first-drone-tracked-bluetooth-tag)|$37,231|Indeigogo|2014/11/20|
 |[Daisy.si](https://www.indiegogo.com/projects/daisy-si-smart-plant-watering)|$26,431|Indiegogo|2014/7/23|
 |[STEMP](https://www.indiegogo.com/projects/stemp-smart-temperature-patch)|$20,074|Indiegogo|展開中|
