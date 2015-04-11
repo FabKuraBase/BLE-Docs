@@ -38,9 +38,11 @@
 | Project名 | 集まった額 | サイト|成立時期|
 | -- | -- |
 |[Ring](https://www.kickstarter.com/projects/1761670738/ring-shortcut-everything/description)|$880,998|Kickstarter|2014/4/4|
+|[LUMO](https://www.kickstarter.com/projects/lumoback/lumoback-the-smart-posture-sensor/description)|$200,503|Kickstarter|2012/8/1|
 |[L8 SmartLight](https://www.kickstarter.com/projects/l8smartlight/l8-smartlight-the-soundless-speaker/description)|$203,677|Kickstarter|2012/8/4|
 |[Zuli Smartplugs](https://www.kickstarter.com/projects/zuli/zuli-smartplugs/description)|$175,341|Kickstarter|2014/1/5|
 |[Helios bar](https://www.kickstarter.com/projects/kennygibbs/helios-bars-transform-any-bike-into-a-smart-bike/updates)|$120,106|Kickstarter|2013/5/21|
+|[Sensordrone](https://www.kickstarter.com/projects/453951341/sensordrone-the-6th-sense-of-your-smartphoneand-be/description)|$170,017|Kickstarter|2012/7/22|
 |[Digispark Pro](https://www.kickstarter.com/projects/digistump/digispark-pro-tiny-arduino-ready-mobile-and-usb-de/description)|$103,569|Kickstarter|2015/5/12|
 |[SmartWallit](https://www.kickstarter.com/projects/416260479/smartwallit-redefines-wallet-and-makes-wallet-smar/description)|$76,121|Kickstarter|2013/5/3|
 |[mcThing](https://www.kickstarter.com/projects/2016620887/mcthings-tiny-wireless-bluetooth-sensors-and-contr/description)|$97,549|Kickstarter|2014/7/23|
