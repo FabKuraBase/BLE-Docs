@@ -36,6 +36,10 @@
 2015/1/6<br>
 [貼る Bluetooth 体温計 TempTraq 発表。乳幼児の体温をスマホアプリで24時間監視](http://japanese.engadget.com/2015/01/05/bluetooth-temptraq-24/)
 <hr>
+2014/12/15<br>
+[iPhoneで制御できるBluetooth搭載のナノブロックチョロQを使ってみた](http://weekly.ascii.jp/elem/000/000/287/287050/)
+
+<hr>
 2014/12/14<br>
 [サンスター、歯ブラシ取り付け型「G・U・M PLAY」 - Bluetoothでスマホ連携](http://news.mynavi.jp/news/2014/12/24/218/)
 <hr>
