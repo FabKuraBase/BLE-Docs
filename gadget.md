@@ -78,6 +78,10 @@
 2014/10/23<br>
 [土の健康状態を教えてくれるBluetoothセンサー](http://www.gizmodo.jp/2014/10/bluetooth_22.html)
 <hr>
+2014/10/20<br>
+[SkyTag: World's First Drone-Tracked Bluetooth Tag](https://www.indiegogo.com/projects/skytag-world-s-first-drone-tracked-bluetooth-tag)(Indeigogo)
+
+<hr>
 2014/10/7<br>
 [MIDI信号をBluetoothでiPhone／iPadに飛ばせる「mi.1」](http://www.gizmodo.jp/2014/10/midibluetoothiphoneipadmi1.html)
 <hr>
