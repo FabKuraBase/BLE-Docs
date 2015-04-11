@@ -19,6 +19,7 @@
 #DA14580のBlock diagram
 
 ![](da14580.png)
+![](nrf51822.png)
 
 
 
