@@ -46,6 +46,7 @@
 ###Kickstarter
 | Project名 | 集まった額 | サイト|成立時期|
 | -- | -- |
+|[PowerUp 3.0](https://www.kickstarter.com/projects/393053146/powerup-30-smartphone-controlled-paper-airplane/description)|$1,232,612|Kickstarter|2014/1/26|
 |[Ring](https://www.kickstarter.com/projects/1761670738/ring-shortcut-everything/description)|$880,998|Kickstarter|2014/4/4|
 |[Noke](https://www.kickstarter.com/projects/fuzdesigns/noke-the-worlds-first-bluetooth-padlock/description)|$652,828|Kickstarter|2014/9/18|
 |[LUMO](https://www.kickstarter.com/projects/lumoback/lumoback-the-smart-posture-sensor/description)|$200,503|Kickstarter|2012/8/1|
