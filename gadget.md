@@ -75,5 +75,9 @@
 2014/8/27<br>
 [Bluetooth対応サッカーボール miCoach smart ball 発売、iPhoneでプロのキックと比較練習](http://japanese.engadget.com/2014/08/26/bluetooth-micoach-smart-ball-iphone/)
 <hr>
+2014/8/15<br>
+[「BeagleBone Black」をBluetooth越しに操作できるボード](https://fabcross.jp/news/2014/08/20140825_bbconsole.html)
+
+<hr>
 2014/7/13<br>
 [子供の水難事故を防ぐセンサつきバンド iSwimband 発売。BluetoothでiPhoneに警告](http://japanese.engadget.com/2014/07/30/iswimband-bluetooth-iphone/)
