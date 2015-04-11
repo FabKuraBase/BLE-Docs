@@ -12,6 +12,10 @@
 [iPhoneとカンタンにBLE通信できる！「Bluetooth Low EnergyモジュールZEAL-LE0」サンプル販売開始のお知らせ](http://www.dreamnews.jp/press/0000109876/)
 
 <hr>
+2015/3/4<br>
+[Bluetooth 4.1対応の工業用温度グレードSoC](http://ednjapan.com/edn/articles/1503/04/news065.html)
+
+<hr>
 2015/2/25<br>
 [東芝：車載機器向けDSP内蔵Bluetooth(R) ICの製品化について](http://www.businesswire.com/news/home/20150224006993/ja/#.VSjW-I7tlBc)
 
