@@ -2,7 +2,7 @@
 
 BLEモジュールは、国内では「特定無線設備の種別	第２条第１９号に規定する特定無線設備」として定義されている。電波の型式「Ｆ１Ｄ」、周波数は、「2402～2480ＭＨz(２ＭＨz間隔40波)」と定義される。
 <hr>
-# DA1458X系
+## DA1458X系
 <hr>
 ### Module
 
@@ -37,9 +37,9 @@ dialog社のDA14580は、XiamoiのMiバンドに採用。ARM Cortex M0を内臓�
 | -- | -- | -- |-- |-- |
 | [BLED112](https://www.bluegiga.com/en-US/products/bled112-bluetooth-smart-dongle/) | CC2540 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=003&TC=N&PK=1&FN=316dspr&SN=%94%46%8F%D8&LN=30&R1=*****&R2=*****) |0dBm|-93dBm|||
 <hr>
-# <hr>NRF51822系
-
-## Module
+## <hr>NRF51822系
+<hr>
+### Module
 
 | モジュール名 | BLE Chip　| Ver| メーカー | 技適 | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
@@ -61,9 +61,9 @@ dialog社のDA14580は、XiamoiのMiバンドに採用。ARM Cortex M0を内臓�
 |[BVMCN5103](http://www.braveridge.com/Specification%20Documents/BVMCN5103-BK%20Spec%20sheet%20Ver1.0J.pdf)| NRF51822 | 4.1 | [Braveridge](http://www.braveridge.com/) |[済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=007&TC=N&PK=1&FN=370ul&SN=%94%46%8F%D8&LN=3&R1=*****&R2=*****)|+4dBm||||
 |[BlueMod+S](http://www.stollmann.de/en/modules/bluetooth-modules-21-and-40/bluemod-s.html)|NRF51822|4.1|[stollmann](http://www.stollmann.de/en/modules/bluetooth-modules-21-and-40/bluemod-s.html)|未|+4dBm|-88dBm||4uA|
 <hr>
-# CSR101x系
+## CSR101x系
 <hr>
-## Module
+### Module
 | モジュール名 | BLE Chip　| Ver| メーカー | Web | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
 | [RN4020](http://ww1.microchip.com/downloads/en/DeviceDoc/50002279A.pdf) | CSR2012 | 4.0 | [Microchip](http://www.microchip.com/) |  |+7dBm||||
@@ -75,18 +75,18 @@ dialog社のDA14580は、XiamoiのMiバンドに採用。ARM Cortex M0を内臓�
 | -- | -- | -- |-- |-- |
 | [BMD-200](https://www.rigado.com/product/bmd-100) | BlueNGR | 4.1 | [RIGADO](http://www.rigado.com/) | | +8dBm|-88dBm|16mA|||
 <hr>
-# BCM20732系
+## BCM20732系
 <hr>
-## Module
+### Module
 | モジュール名 | BLE Chip　| Ver| メーカー | Web | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
 | [EMRF-20732S](http://www.embeddedmasters.com/ProductDetail/EMRF20732S-Embedded-Masters/552437/#.VSihgo7tmko) | BCM20732| EmbeddedMaster |  |  | | |||
 
 
 <hr>
-# MK7105系
+## MK7105系
 <hr>
-## Module
+### Module
 
 | モジュール名 | BLE Chip |メーカー | Web | 最大送信出力|受信感度|
 | -- | -- | -- |
