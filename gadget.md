@@ -54,6 +54,9 @@
 
 [http://av.watch.impress.co.jp/docs/news/20141120_677024.html](http://av.watch.impress.co.jp/docs/news/20141120_677024.html)
 <hr>
+2014/9/9<br>
+[Bluetooth経由でiPhoneと連携できるオムロンの婦人体温計](http://kaden.watch.impress.co.jp/docs/news/20140909_665874.html)
+<hr>
 2014/9/5<br>
 [ブラウン、Bluetoothでスマホと連携する電動歯ブラシ](http://news.kakaku.com/prdnews/cd=kaden/ctcd=2190/id=41503/)
 <hr>
