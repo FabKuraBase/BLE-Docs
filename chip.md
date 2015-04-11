@@ -16,6 +16,9 @@
 | CYBL10X6X | CYPRESS | [Web](http://japan.cypress.com/?rID=99422 ) |
 | DA14580 | [dialog](http://www.dialog-semiconductor.com/) | [Datasheet](http://www.dialog-semiconductor.com/docs/site-pdf/da14580_ds_v3-1.pdf?sfvrsn=2) |
 
+#DA14580のBlock diagram
+
+![](da14580.png)
 
 
 
