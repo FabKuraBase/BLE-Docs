@@ -25,7 +25,7 @@
 ![](nrf51822.png)
 
 #CYBL10X6XのBlock diagram
-
+![](cybl10x6x.png)
 
 
 
