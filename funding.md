@@ -37,9 +37,11 @@
 | Project名 | 集まった額 | サイト|成立時期|
 | -- | -- |
 |[Ring](https://www.kickstarter.com/projects/1761670738/ring-shortcut-everything/description)|$880,998|Kickstarter|2014/4/4|
+|[Zuli Smartplugs](https://www.kickstarter.com/projects/zuli/zuli-smartplugs/description)|$175,341|Kickstarter|2014/1/5|
 |[Digispark Pro](https://www.kickstarter.com/projects/digistump/digispark-pro-tiny-arduino-ready-mobile-and-usb-de/description)|$103,569|Kickstarter|2015/5/12|
 |[SmartWallit](https://www.kickstarter.com/projects/416260479/smartwallit-redefines-wallet-and-makes-wallet-smar/description)|$76,121|Kickstarter|2013/5/3|
 |[mcThing](https://www.kickstarter.com/projects/2016620887/mcthings-tiny-wireless-bluetooth-sensors-and-contr/description)|$97,549|Kickstarter|2014/7/23|
+|[tod](https://www.kickstarter.com/projects/rowdyrobot/tod-connect-real-world-actions-to-mobile-devices-a/description)|$89,761|Kickstarter|2012/7/3|
 | [BLEDuino](https://www.kickstarter.com/projects/kytelabs/bleduino-bluetooth-40-ble-made-easy-arduino-compat/description)|$75,126|Kickstarter|2013/7/21|
 |[LuMini](https://www.kickstarter.com/projects/tabuproducts/lumini-a-simple-bluetooth-smart-bulb-for-everyone/description)|$76,239|Kickstarter|2015/4/1|
 |[SmartWallet](https://www.kickstarter.com/projects/1361917084/smartwallet-tracker-and-battery-in-a-high-fashion/description)|$36,237|Kickstarter|2014/9/14|
