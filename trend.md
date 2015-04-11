@@ -22,6 +22,9 @@
 2015/2/3<br>
 [Silicon Labs Acquires Bluegiga, a Leader in Bluetooth and Wi-Fi Connectivity Solutions](http://news.silabs.com/press-release/corporate-news/silicon-labs-acquires-bluegiga-leader-bluetooth-and-wi-fi-connectivity-)
 <hr>
+2015/1/30<br>
+[アルプス電気、BluetoothとワイヤレスLANに対応したオールインワンモジュールを開発](http://response.jp/article/2015/01/30/243006.html)
+<hr>
 2014/12/14<br>
 [NOR/SRAMで世界1位の企業が誕生 - CypressとSpansionが経営統合を発表](http://news.mynavi.jp/news/2014/12/04/041/)<br>
 <hr>
