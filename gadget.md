@@ -5,5 +5,5 @@
  (Engadget)
  
 2015/3/24<br>
-[フォーカル、Bluetooth SMART対応＆バックライトLED内蔵の心拍計付き](http://healthcare.itmedia.co.jp/hc/articles/1503/25/news145.html)
+[フォーカル、Bluetooth SMART対応＆バックライトLED内蔵の心拍計付き腕時計を発売](http://healthcare.itmedia.co.jp/hc/articles/1503/25/news145.html)
 
