@@ -26,7 +26,7 @@
 |[Duet](https://www.indiegogo.com/projects/duet-the-smart-bluetooth-tag-that-watches-out-for-your-phone)|$106,830|Indiegogo|2014/7/4|
 |[Tethercell](https://www.indiegogo.com/projects/tethercell-control-battery-operated-devices-from-your-smartphone-or-tablet)|$84,901|Indiegogo|2013/5/4|
 |[iBitz](https://www.indiegogo.com/projects/ibitz-kids-power-games-through-physical-activity-via-bluetooth-4-0)|$70,800|Indiegogo|2013/2/6|
-|[SMART](https://www.indiegogo.com/projects/smart-the-world-s-first-smart-cycling-helmet)||Indiefofo|2013/4/30|
+|[SMART](https://www.indiegogo.com/projects/smart-the-world-s-first-smart-cycling-helmet)|$64,676|Indiegogo|2013/4/30|
 |[Fever Smart](https://www.indiegogo.com/projects/fever-smart-the-smart-patch-thermometer-for-kids)|$64,018|Indiegogo|2014/10/22|
 |[Eva](https://www.indiegogo.com/projects/eva-the-world-s-first-smart-shower)|$56,152|Indiegogo|2015/1/15|
 |[Wallet TrackR](https://www.indiegogo.com/projects/wallet-trackr-find-your-wallet)|$47,915|Indiegogo|2013/2/26|
