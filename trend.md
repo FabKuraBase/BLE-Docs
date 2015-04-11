@@ -17,3 +17,6 @@
 <hr>
 2014/5/28<br>
 [ダイアログ・セミコンダクターがBluetooth® Smart DA14580の用途を急成長中のPC・タブレット周辺機器市場へと拡大](http://prtimes.jp/main/html/rd/p/000000003.000008845.html)
+<hr>
+2013/09/03<br>
+[ST、Bluetooth 4.0対応ネットワークプロセッサ「BlueNRG」を発表](http://news.mynavi.jp/news/2013/09/03/063/)
