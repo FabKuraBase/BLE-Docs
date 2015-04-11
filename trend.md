@@ -2,6 +2,10 @@
 
 ## 業界ニュース
 <hr>
+2015/3/27<br>
+[iPhoneとカンタンにBLE通信できる！「Bluetooth Low EnergyモジュールZEAL-LE0」サンプル販売開始のお知らせ](http://www.dreamnews.jp/press/0000109876/)
+<
+<hr>
 2015/2/15<br>
 [ルネサス、低消費電流のBluetooth LE用RFトランシーバ技術を開発](http://news.mynavi.jp/news/2015/02/25/441/)
 <hr>
@@ -23,9 +27,6 @@
 <hr>
 2014/5/28<br>
 [ダイアログ・セミコンダクターがBluetooth® Smart DA14580の用途を急成長中のPC・タブレット周辺機器市場へと拡大](http://prtimes.jp/main/html/rd/p/000000003.000008845.html)
-<hr>
-2015/3/27<br>
-[iPhoneとカンタンにBLE通信できる！「Bluetooth Low EnergyモジュールZEAL-LE0」サンプル販売開始のお知らせ](http://www.dreamnews.jp/press/0000109876/)
 <hr>
 2014/4/28<br>
 [TI、車載向けに105℃まで動作するBluetooth Low Energy向けSoCを発表](http://techon.nikkeibp.co.jp/article/NEWS/20140428/349181/?rt=nocnt)
