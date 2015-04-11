@@ -38,6 +38,7 @@
 | Project名 | 集まった額 | サイト|成立時期|
 | -- | -- |
 |[Ring](https://www.kickstarter.com/projects/1761670738/ring-shortcut-everything/description)|$880,998|Kickstarter|2014/4/4|
+|[L8 SmartLight](https://www.kickstarter.com/projects/l8smartlight/l8-smartlight-the-soundless-speaker/description)|$203,677|Kickstarter|2012/8/4|
 |[Zuli Smartplugs](https://www.kickstarter.com/projects/zuli/zuli-smartplugs/description)|$175,341|Kickstarter|2014/1/5|
 |[Helios bar](https://www.kickstarter.com/projects/kennygibbs/helios-bars-transform-any-bike-into-a-smart-bike/updates)|$120,106|Kickstarter|2013/5/21|
 |[Digispark Pro](https://www.kickstarter.com/projects/digistump/digispark-pro-tiny-arduino-ready-mobile-and-usb-de/description)|$103,569|Kickstarter|2015/5/12|
