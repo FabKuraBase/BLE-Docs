@@ -34,6 +34,7 @@
 #CC2541のBlock diagram
 ![](cc2541.png)
 
+#BlueNGRのBlock diagram
 
 
 
