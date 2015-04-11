@@ -68,9 +68,9 @@ dialog社のDA14580は、XiamoiのMiバンドに採用。ARM Cortex M0を内臓�
 | -- | -- | -- |-- |-- |
 | [RN4020](http://ww1.microchip.com/downloads/en/DeviceDoc/50002279A.pdf) | CSR2012 | 4.0 | [Microchip](http://www.microchip.com/) |  |+7dBm||||
 <hr>
-# BlueNGR系
+## BlueNGR系
 <hr>
-## Module
+### Module
 | モジュール名 | BLE Chip　| Ver| メーカー | Web | 最大送信出力|受信感度|TX最大電流|スリープモード
 | -- | -- | -- |-- |-- |
 | [BMD-200](https://www.rigado.com/product/bmd-100) | BlueNGR | 4.1 | [RIGADO](http://www.rigado.com/) | | +8dBm|-88dBm|16mA|||
