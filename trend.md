@@ -27,5 +27,8 @@
 2014/4/28<br>
 [TI、車載向けに105℃まで動作するBluetooth Low Energy向けSoCを発表](http://techon.nikkeibp.co.jp/article/NEWS/20140428/349181/?rt=nocnt)
 <hr>
+2014/2/2<br>
+[Bluetooth Low Energy対応の通信モジュール、IC内蔵基板で4.6×5.6mmを実現](http://ednjapan.com/edn/articles/1402/13/news058.html)
+<hr>
 2013/09/03<br>
 [ST、Bluetooth 4.0対応ネットワークプロセッサ「BlueNRG」を発表](http://news.mynavi.jp/news/2013/09/03/063/)
