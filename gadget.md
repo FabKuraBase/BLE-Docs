@@ -5,6 +5,7 @@
 
 [今までのランニングを一変させる世界初ウェアラブルパワーメーター「Stryd」](http://gigazine.net/news/20150410-stryd/)
 
+[NTT、着るだけで生体情報を測定できる機能素材をデモ](http://news.biglobe.ne.jp/it/0410/rbb_150410_3533240479.html)
 <hr>
 2015/4/8<br>
 [コンロの火力を自動調節するスマートノブ Meld 発表。Bluetoothで温度計・アプリと連携](http://japanese.engadget.com/2015/04/07/meld-bluetooth/)
