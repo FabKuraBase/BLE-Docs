@@ -14,6 +14,7 @@
 | BCM20737S | Broadcom | [Datasheet](http://www.broadcom.com/collateral/pb/WICED-Sense-PB100.pdf) |
 |BlueNGR | STMicro | [Web](http://www.st.com/web/catalog/sense_power/FM1968/CL1976/SC1898/PF258646?ecmp=pf258646_link_emf_jan2014&sc=bluenrg) |
 | CYBL10X6X | CYPRESS | [Web](http://japan.cypress.com/?rID=99422 ) |
+| DA14580 | [dialog](http://www.dialog-semiconductor.com/) | [Datasheet](http://www.dialog-semiconductor.com/docs/site-pdf/da14580_ds_v3-1.pdf?sfvrsn=2) |
 
 
 
