@@ -23,6 +23,9 @@
 2015/3/8<br>
 [多種類のセンサを収めて出力をBluetoothで送るPocketLab、科学教材にもセンサ応用システムのプロトタイプやホビーにも](http://jp.techcrunch.com/2015/03/18/20150316pocketlab/)
 <hr>
+2015/3/3<br>
+[スマホから置き忘れを通知してくれるBluetooth対応折りたたみ傘　Kickstarterに登場](http://nlab.itmedia.co.jp/nl/articles/1503/03/news017.html)
+<hr>
 2015/2/6<br>
 [カシオ、Bluetooth Smartでスマホ常時連携のデジカメ「EX-ZR1600」](http://av.watch.impress.co.jp/docs/news/20150206_687133.html)
 <hr>
