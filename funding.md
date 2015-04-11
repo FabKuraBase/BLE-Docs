@@ -8,12 +8,14 @@
 | [Bluesmart](https://www.indiegogo.com/projects/bluesmart-world-s-first-smart-connected-carry-on)| $2,085,832|Indiegogo| 2014/11/1|
 |[StickNFind]()|$931,870|Indiegogo|2013/7/21|
 |[Rufus Cuff](https://www.indiegogo.com/projects/rufus-cuff-more-than-a-smartwatch)|$428,074|Indiegogo|2015/3/17|
+|[Amiigo](https://www.indiegogo.com/projects/amiigo-fitness-bracelet-for-iphone-and-android)|$580,710|Indiegogo|2013/3/15|
 |[Coolest Clock](https://www.indiegogo.com/projects/coolest-clock-probably-the-coolest-clock-ever)|$278,029|Indiegogo|2015/4/10|
 |[SmartMat](https://www.indiegogo.com/projects/smartmat-the-world-s-first-intelligent-yoga-mat)|$343,132|Indiegogo|2014/11/3|
 |[AMPL](https://www.indiegogo.com/projects/ampl-the-world-s-smartest-backpack)|$246,960|Indiegogo|2015/3/18|
 |[The Defender](https://www.indiegogo.com/projects/the-defender-smart-personal-protection)|$232,277|Indiegogo|2014/9/4|
 |[HiSmart](https://www.indiegogo.com/projects/hismart-the-first-smart-convertible-urban-bag)|$223,278|Indiegogo|展開中|
 |[FOBO TIRE](https://www.indiegogo.com/projects/fobo-tire-world-s-first-all-bluetooth-smart-tpms)|$186,105|Indiegogo|2014/10/23|
+|[BluTracker](https://www.indiegogo.com/projects/blutracker-long-range-bluetooth-gps-tracker-with-no-monthly-fees-water-resistant)|$180,248|Indiegogo|2013/2/21|
 |[Jugglow](https://www.indiegogo.com/projects/juggglow-the-next-level-of-juggling)|€11,722|Indiegogo|2015/3/7|
 |[Micro-Phone](https://www.indiegogo.com/projects/micro-phone-our-amazing-device-is-now-available-with-bluetooth-4-0-ble-tracking--17)|$182,580|Indiegogo|2013/7/29|
 |[Switchmate](https://www.indiegogo.com/projects/switchmate-smart-lighting-made-simple)|$173,057|Indiegogo|2015/4/1|
