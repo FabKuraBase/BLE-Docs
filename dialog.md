@@ -16,3 +16,5 @@ http://dialog-semiconductor.com/products/bluetooth-smart/smartbond-development-t
 | 開発キット | 購入先 | 価格|
 | -- | -- | -- |
 | [DA14580DEVKT-B](http://www.futureelectronics.com/en/technologies/development-tools/rf-wireless/Pages/2046391-DA14580DEVKT-B.aspx?IM=0) | Future Electronics | $99 |
+| [DA14580DEVKT-B](http://www.digikey.jp/product-detail/ja/DA14580DEVKT-B/1564-1000-ND/5113983) | Digi-key|13,320円|
+
