@@ -25,8 +25,11 @@
 |[MeterPlug](https://www.indiegogo.com/projects/meterplug-lower-your-electricbill-measure-real-electric-cost)|$127,900|Indiegogo|2013/1/29|
 |[Duet](https://www.indiegogo.com/projects/duet-the-smart-bluetooth-tag-that-watches-out-for-your-phone)|$106,830|Indiegogo|2014/7/4|
 |[Tethercell](https://www.indiegogo.com/projects/tethercell-control-battery-operated-devices-from-your-smartphone-or-tablet)|$84,901|Indiegogo|2013/5/4|
+|[iBitz](https://www.indiegogo.com/projects/ibitz-kids-power-games-through-physical-activity-via-bluetooth-4-0)|$70,800|Indiegogo|2013/2/6|
+|[SMART](https://www.indiegogo.com/projects/smart-the-world-s-first-smart-cycling-helmet)||Indiefofo|2013/4/30|
 |[Fever Smart](https://www.indiegogo.com/projects/fever-smart-the-smart-patch-thermometer-for-kids)|$64,018|Indiegogo|2014/10/22|
 |[Eva](https://www.indiegogo.com/projects/eva-the-world-s-first-smart-shower)|$56,152|Indiegogo|2015/1/15|
+|[Wallet TrackR](https://www.indiegogo.com/projects/wallet-trackr-find-your-wallet)|$47,915|Indiegogo|2013/2/26|
 |[OVAL](https://www.indiegogo.com/projects/oval-smart-sensor-instant-alerts--2)|$48,910|Indiegogo|2014/10/3|
 |[Orphe](https://www.indiegogo.com/projects/orphe-smart-shoes-for-artists-and-performers)|$46,389|Indiegogo|展開中|
 |[SkyTag](https://www.indiegogo.com/projects/skytag-world-s-first-drone-tracked-bluetooth-tag)|$37,231|Indeigogo|2014/11/20|
@@ -54,6 +57,7 @@
 |[NODE](https://www.kickstarter.com/projects/soldermaster/node-a-modular-handheld-powerhouse-of-sensors/description)|$76,340|Kickstarter|2012/3/25|
 | [BLEDuino](https://www.kickstarter.com/projects/kytelabs/bleduino-bluetooth-40-ble-made-easy-arduino-compat/description)|$75,126|Kickstarter|2013/7/21|
 |[LuMini](https://www.kickstarter.com/projects/tabuproducts/lumini-a-simple-bluetooth-smart-bulb-for-everyone/description)|$76,239|Kickstarter|2015/4/1|
+|[Smart Food Scale](https://www.kickstarter.com/projects/chefsleeve/smart-food-scale-less-about-weight-more-about-you/description)|$46,850|Kickstarter|2013/5/31|
 |[SmartWallet](https://www.kickstarter.com/projects/1361917084/smartwallet-tracker-and-battery-in-a-high-fashion/description)|$36,237|Kickstarter|2014/9/14|
 | [IMUduino](https://www.kickstarter.com/projects/1265095814/imuduino-wireless-3d-motion-html-js-apps-arduino-p/description)| $18,467|Kickstarter| 2014/11/7|
 | [Arduino BLE Shield](https://www.kickstarter.com/projects/rowdyrobot/arduino-ble-shield-connecting-the-ios-and-the-ardu/description)|$16,498|Kickstarter|2012/9/9|
