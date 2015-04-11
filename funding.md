@@ -6,7 +6,8 @@
 | Project名 | 集まった額 | サイト|成立時期|
 | -- | -- |
 | [Bluesmart](https://www.indiegogo.com/projects/bluesmart-world-s-first-smart-connected-carry-on)| $2,085,832|Indiegogo| 2014/11/1|
-|[StickNFind]()|$931,870|Indiegogo|2013/7/21|
+|[StickNFind](https://www.indiegogo.com/projects/sticknfind-bluetooth-powered-ultra-small-location-stickers)|$931,870|Indiegogo|2013/7/21|
+|[Flic](https://www.indiegogo.com/projects/flic-the-wireless-smart-button) | $785,903 |Indiegogo|2015/1/6|
 |[Rufus Cuff](https://www.indiegogo.com/projects/rufus-cuff-more-than-a-smartwatch)|$428,074|Indiegogo|2015/3/17|
 |[Amiigo](https://www.indiegogo.com/projects/amiigo-fitness-bracelet-for-iphone-and-android)|$580,710|Indiegogo|2013/3/15|
 |[Coolest Clock](https://www.indiegogo.com/projects/coolest-clock-probably-the-coolest-clock-ever)|$278,029|Indiegogo|2015/4/10|
@@ -24,7 +25,6 @@
 |[MeterPlug](https://www.indiegogo.com/projects/meterplug-lower-your-electricbill-measure-real-electric-cost)|$127,900|Indiegogo|2013/1/29|
 |[Duet](https://www.indiegogo.com/projects/duet-the-smart-bluetooth-tag-that-watches-out-for-your-phone)|$106,830|Indiegogo|2014/7/4|
 |[Tethercell](https://www.indiegogo.com/projects/tethercell-control-battery-operated-devices-from-your-smartphone-or-tablet)|$84,901|Indiegogo|2013/5/4|
-|[Flic](https://www.indiegogo.com/projects/flic-the-wireless-smart-button) | $785,903 |Indiegogo|2015/1/6|
 |[Fever Smart](https://www.indiegogo.com/projects/fever-smart-the-smart-patch-thermometer-for-kids)|$64,018|Indiegogo|2014/10/22|
 |[Eva](https://www.indiegogo.com/projects/eva-the-world-s-first-smart-shower)|$56,152|Indiegogo|2015/1/15|
 |[OVAL](https://www.indiegogo.com/projects/oval-smart-sensor-instant-alerts--2)|$48,910|Indiegogo|2014/10/3|
