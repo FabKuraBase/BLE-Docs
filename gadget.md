@@ -1,4 +1,12 @@
 # ガジェット動向
+
+<hr>
+Funding中<br>
+
+[STEMP Smart Temperature Patch](https://www.indiegogo.com/projects/stemp-smart-temperature-patch)<br>
+[Zedcon - Smart moving lights](https://www.indiegogo.com/projects/zedcon-smart-moving-lights)<br>
+
+
 <hr>
 2015/4/10<br>
 [カシオ、スマートフォン連携ウオッチ「EDIFICE」に新モデル](http://bizmakoto.jp/makoto/articles/1504/10/news138.html)
@@ -37,6 +45,9 @@
 <hr>
 2015/2/6<br>
 [カシオ、Bluetooth Smartでスマホ常時連携のデジカメ「EX-ZR1600」](http://av.watch.impress.co.jp/docs/news/20150206_687133.html)
+<hr>
+2015/1/16<br>
+[Flic: The Wireless Smart Button](https://www.indiegogo.com/projects/flic-the-wireless-smart-button)(Indeigogo)
 <hr>
 2015/1/8<br>
 [チャイルドシートにいる子供の状態をbluetooth経由でスマホに告知する「Starfish」](http://www.rbbtoday.com/article/2015/01/08/127171.html)
