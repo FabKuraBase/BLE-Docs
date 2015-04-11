@@ -29,6 +29,10 @@
 2015/2/6<br>
 [カシオ、Bluetooth Smartでスマホ常時連携のデジカメ「EX-ZR1600」](http://av.watch.impress.co.jp/docs/news/20150206_687133.html)
 <hr>
+2015/1/7<br>
+[スノボの滑りテクが可視化できるBluetoothバインディング「SNOW-1」](http://www.gizmodo.jp/2015/01/cesbluetoothsnow-1.html)
+
+<hr>
 2015/1/6<br>
 [貼る Bluetooth 体温計 TempTraq 発表。乳幼児の体温をスマホアプリで24時間監視](http://japanese.engadget.com/2015/01/05/bluetooth-temptraq-24/)
 <hr>
