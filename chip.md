@@ -29,7 +29,7 @@
 ![](cybl10x6x.png)
 
 #CRS1012のBlock diagram
-
+![](csr1012.png)
 
 #CC2541のBlock diagram
 ![](cc2541.png)
