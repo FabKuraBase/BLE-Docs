@@ -16,3 +16,13 @@
 
 2011年にBluetooth Smart対応機器が3億4100万台出荷
 2018年にBluetooth Smart対応機器が27億台出荷と予想
+
+(2014/5/2)
+>ほとんどの自動車メーカーは、ミッションクリティカルではない制御機能にLIN（Local Interconnect Network）バスを使用している。LINバスを使う機能は制御データが少ないことが多いので、比較的Bluetooth Low Energyに置き換えやすいと考えられる。
+ 
+>Bluetooth Low Energyは、キーフォブやスマートフォンを介したキーレスエントリーにも適用できる。サブGHz帯を利用したキーレスエントリーシステムもあるが、Machness氏は、「Bluetooth Low Energyは消費電力が1μA以下と低いため、サブGHzと同様にキーレスエントリーに適した技術だ」と主張している。
+　<br>
+...<br>
+　TIは、CC2541-Q1のサンプル出荷を開始している。量産開始は2014年第3四半期を予定していて、既に同SoCを搭載するいくつかの製品の開発が進行中だという。2015～2016年にも、Bluetooth Low Energyでドアや窓を制御できる自動車が発売される見通しだ。http://eetimes.jp/ee/articles/1405/02/news063_2.html
+
+車載向けBLEも加速しつつある。
