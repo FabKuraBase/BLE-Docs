@@ -2,6 +2,9 @@
 <hr>
 2015/4/10<br>
 [カシオ、スマートフォン連携ウオッチ「EDIFICE」に新モデル](http://bizmakoto.jp/makoto/articles/1504/10/news138.html)
+
+[今までのランニングを一変させる世界初ウェアラブルパワーメーター「Stryd」](http://gigazine.net/news/20150410-stryd/)
+
 <hr>
 2015/4/8<br>
 [コンロの火力を自動調節するスマートノブ Meld 発表。Bluetoothで温度計・アプリと連携](http://japanese.engadget.com/2015/04/07/meld-bluetooth/)
