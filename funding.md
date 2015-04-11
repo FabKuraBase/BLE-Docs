@@ -38,6 +38,7 @@
 | -- | -- |
 |[Ring](https://www.kickstarter.com/projects/1761670738/ring-shortcut-everything/description)|$880,998|Kickstarter|2014/4/4|
 |[Zuli Smartplugs](https://www.kickstarter.com/projects/zuli/zuli-smartplugs/description)|$175,341|Kickstarter|2014/1/5|
+|[Helios bar](https://www.kickstarter.com/projects/kennygibbs/helios-bars-transform-any-bike-into-a-smart-bike/updates)|$120,106|Kickstarter|2013/5/21|
 |[Digispark Pro](https://www.kickstarter.com/projects/digistump/digispark-pro-tiny-arduino-ready-mobile-and-usb-de/description)|$103,569|Kickstarter|2015/5/12|
 |[SmartWallit](https://www.kickstarter.com/projects/416260479/smartwallit-redefines-wallet-and-makes-wallet-smar/description)|$76,121|Kickstarter|2013/5/3|
 |[mcThing](https://www.kickstarter.com/projects/2016620887/mcthings-tiny-wireless-bluetooth-sensors-and-contr/description)|$97,549|Kickstarter|2014/7/23|
