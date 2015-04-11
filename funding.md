@@ -1,5 +1,6 @@
 # クラウドファンディング
 
+## Bluetooth Smaty関連のプロジェクト
 | Project名 | 集まった額 | サイト|成立時期|
 | -- | -- |
 | [Bluesmart](https://www.indiegogo.com/projects/bluesmart-world-s-first-smart-connected-carry-on)| $2,085,832USD|Indiegogo| 2014/10/1
