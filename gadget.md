@@ -41,6 +41,9 @@
 <hr>
 2015/1/6<br>
 [貼る Bluetooth 体温計 TempTraq 発表。乳幼児の体温をスマホアプリで24時間監視](http://japanese.engadget.com/2015/01/05/bluetooth-temptraq-24/)
+
+[エアロープなら室内でも本格なわとびエクササイズ可能!ｽﾏﾎ連動『My Way Fit Bluetooth なわとび』がすごい](http://www.shin-shouhin.com/2015/01/06/mywayfitbluetooth/)
+
 <hr>
 2015/1/5<br>
 [スマホとBluetoothで連携させた、3Dプリント製リングを紹介](http://news.livedoor.com/article/detail/9675252/)
