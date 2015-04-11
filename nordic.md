@@ -4,7 +4,8 @@
 * [MDBT40](#MDBT40)
 * [BL600](#BL600)
 
-
+## Co-processor
+ARM® Cortex™ M0
 
 ## MDBT40
 
