@@ -63,6 +63,7 @@
 |[LuMini](https://www.kickstarter.com/projects/tabuproducts/lumini-a-simple-bluetooth-smart-bulb-for-everyone/description)|$76,239|Kickstarter|2015/4/1|
 |[Tempi](https://www.kickstarter.com/projects/vencipio/tempi-smart-temperature-and-humidity/description)|$55,438|Kickstarter|2015/2/24|
 |[Smart Food Scale](https://www.kickstarter.com/projects/chefsleeve/smart-food-scale-less-about-weight-more-about-you/description)|$46,850|Kickstarter|2013/5/31|
+|[lupo](https://www.kickstarter.com/projects/758697428/lupo-sixth-sense-device-for-your-smartphone/description)|£27,488|Kickstarter|2014/3/31|
 |[SmartWallet](https://www.kickstarter.com/projects/1361917084/smartwallet-tracker-and-battery-in-a-high-fashion/description)|$36,237|Kickstarter|2014/9/14|
 |[bluebuddy](https://www.kickstarter.com/projects/1607113047/blue-buddy-wireless-bluetooth-40-le-scuba-diving-l/description)|$31,933|Kickstarter|2013/2/3|
 | [IMUduino](https://www.kickstarter.com/projects/1265095814/imuduino-wireless-3d-motion-html-js-apps-arduino-p/description)| $18,467|Kickstarter| 2014/11/7|
