@@ -35,6 +35,6 @@
 ![](cc2541.png)
 
 #BlueNGRのBlock diagram
-
+![](BlueNGR.png)
 
 
