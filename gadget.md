@@ -46,6 +46,9 @@
 2014/12/14<br>
 [サンスター、歯ブラシ取り付け型「G・U・M PLAY」 - Bluetoothでスマホ連携](http://news.mynavi.jp/news/2014/12/24/218/)
 <hr>
+2014/12/10<br>
+[汎用型Bluetoothボタンコントローラ「Flic」にわくわくする](http://www.gizmodo.jp/2014/12/bluetoothflic.html)
+<hr>
 2014/9/5<br>
 [ブラウン、Bluetoothでスマホと連携する電動歯ブラシ](http://news.kakaku.com/prdnews/cd=kaden/ctcd=2190/id=41503/)
 <hr>
