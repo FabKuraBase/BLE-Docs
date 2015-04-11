@@ -23,5 +23,8 @@
 2015/3/8<br>
 [多種類のセンサを収めて出力をBluetoothで送るPocketLab、科学教材にもセンサ応用システムのプロトタイプやホビーにも](http://jp.techcrunch.com/2015/03/18/20150316pocketlab/)
 <hr>
+2015/2/6<br>
+[カシオ、Bluetooth Smartでスマホ常時連携のデジカメ「EX-ZR1600」](http://av.watch.impress.co.jp/docs/news/20150206_687133.html)
+<hr>
 2015/1/6<br>
 [貼る Bluetooth 体温計 TempTraq 発表。乳幼児の体温をスマホアプリで24時間監視](http://japanese.engadget.com/2015/01/05/bluetooth-temptraq-24/)
