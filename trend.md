@@ -54,6 +54,11 @@
 <hr>
 2014/10.16<br>
 [クアルコム、英国のチップメーカーCSRを25億ドルで買収へ](http://japan.cnet.com/news/business/35055211/)
+
+<hr>
+2014/8/7<br>
+[luetooth LE対応のIoTゲートウェイをYUWAが発売、ヘルスケア機器の測定値をサーバーに集約](http://techon.nikkeibp.co.jp/article/NEWS/20140807/369820/?ST=ndh)
+
 <hr>
 2014/7/14<br>
 [Bluetooth Smartウェアラブル･ハブ･ネットワークの実現を可能にする,Bluetooth Smartプロトコル･スタックを発表](http://www.elisnet.or.jp/news/news_detail.cfm?select_news_id=25236)
