@@ -2,9 +2,9 @@
 
 ## BLEチップ種類
 
-| Chip名 | Maker | 送信感度|受信感度|送信電流 | 受信電流|スリープ時電流|
+| Chip名 | Maker |Co-Proccesor| 送信感度|受信感度<br>|送信時最大電流<br>(0dBm時) | 受信時最大電流|スリープ時電流|
 | -- | -- |
-| [NRF51822](http://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF51822) | Nordic Semiconductor |  |
+| [NRF51822](http://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF51822) | Nordic Semiconductor |  ARM® Cortex™ M0 | |-93 dBm| 10.5mA<br>8mA (DD変換)| 13 mA<br>9.7mA(DD変換)| |
 | NRF51422 | Nordic Semiconductor | [Web](http://www.nordicsemi.com/eng/Products/ANT/nRF51422) |
 | CSR1010 | CSR | [Datasheet](https://www.csrsupport.com/download/39359/CSR1010%20Data%20Sheet%20CS-231985-DS.pdf) |
 | CSR1011 | CSR | [Datasheet](https://www.csrsupport.com/download/40289/CSR1010%20Data%20Sheet%20CS-231986-DS.pdf) |
