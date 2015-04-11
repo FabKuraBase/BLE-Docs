@@ -37,5 +37,6 @@
 | Project名 | 集まった額 | サイト|成立時期|
 | -- | -- |
 | [IMUduino](https://www.kickstarter.com/projects/1265095814/imuduino-wireless-3d-motion-html-js-apps-arduino-p/description)| $18,467|Kickstarter| 2014/11/7|
+| [Arduino BLE Shield](https://www.kickstarter.com/projects/rowdyrobot/arduino-ble-shield-connecting-the-ios-and-the-ardu/description)|$16,498|Kickstarter|2012/9/9|
 
  
