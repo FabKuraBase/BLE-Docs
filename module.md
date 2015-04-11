@@ -12,6 +12,7 @@ dialog社のDA14580は、XiamoiのMiバンドに採用。ARM Cortex M0を内臓�
 | [Type ZY](http://www.murata.co.jp/products/microwave/module/bluetoothmodule/schematic/typez.html#tab) | DA14580 | 4.1 | [Murata](http://www.murata.co.jp/) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=001&TC=G&PK=1&FN=387tele&SN=%8F%D8%96%BE&LN=32&R1=*****&R2=*****) |0dBm||4.8mA|0.6uA|
 |[PAN1740](http://eu.industrial.panasonic.com/products/wireless-connectivity/bluetooth/bluetooth-smart-low-energy/series/pan1740/CS464/model/ENW89846A1KF) | DA14580 | 4.1 | [Panasonic](http://eu.industrial.panasonic.com/)|未|0dBm|-93dBm|4.9mA|<1uA|
 
+
 この他、[AvantWave](http://www.avantwave.com/)もパートナーになっているが、製品概要は現時点で公開されていない。
 
 ## CC254x系
@@ -24,6 +25,7 @@ dialog社のDA14580は、XiamoiのMiバンドに採用。ARM Cortex M0を内臓�
 | [BLE112](https://www.bluegiga.com/en-US/products/ble112-bluetooth-smart-module/) | CC2540 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=209&TC=N&PK=1&FN=022acb&SN=%94%46%8F%D8&LN=2&R1=*****&R2=*****) |+3dBm| -92dBm|27mA|0.4uA|
 | [BLE121LR](https://www.bluegiga.com/en-US/products/ble121lr-bluetooth-smart-long/) | CC2541 | 4.0 | [Bluegiga](http://www.bluegiga.com/) | [済](https://www.bluegiga.com/en-US/download/?file=eQs1EzP8S9KiSLoED4OyjA&title=BLE121LR%2520Japan%2520Report%2520and%2520Certificate&filename=BLE121LR_Japan.zip)* |+8dBm| -98dBm|36mA<br>25 mA (DC/DC)| 0.5uA|
 |[PAN1721](http://na.industrial.panasonic.com/products/wireless-connectivity/bluetooth/bluetooth-smart-low-energy/series/pan1721-series/CS465)|CC2541|4.0|[Panasonic](http://wwww.panasonic.com)| 未|0dBm|-96dBm|14 mA|0.5uA|
+|[SESUB-PAN-T2541](http://product.tdk.com/ja/products/sesub/pan/catalog/)|CC2541|4.0|[TDK](http://product.tdk.com/)|済|0dBm||20.6mA|1.2uA|
 
 * BLE121LRは、[ACB,Inc](http://acbcert.com/MIC-Japanese-Radio-Certification-services.asp)が認証をおこなっているが、総務省のDBに未反映
 
