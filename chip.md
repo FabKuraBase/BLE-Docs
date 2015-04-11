@@ -13,7 +13,7 @@
 | [CC2540](http://m.tij.co.jp/product/jp/CC2540)| [TI](http://www.tij.co.jp/) |  8051互換 | +6dBm | -96dBm|24mA<br>15.8 mA(DD)<br>*-6dBm|19.6 mA<br>18.6 mA(DD)<br>|0.4uA|
 | [CC2541](http://m.tij.co.jp/product/jp/CC2541) | [TI](http://www.tij.co.jp/) |  8051互換 | +6dBm | -96dBm|18.2 mA<br>14.7mA(DD)| 17.9 mA <br>14.7mA(DD)|0.4uA|  
 | [BCM20737S](http://www.broadcom.com/collateral/pb/WICED-Sense-PB100.pdf) | [Broadcom](http://ja.broadcom.com/) |  ARM® Cortex™ M3 |
-| [BlueNGR](http://www.st.com/web/catalog/sense_power/FM1968/CL1976/SC1898/PF258646?ecmp=pf258646_link_emf_jan2014&sc=bluenrg) | STMicro | | +8dBm |-96dBm | 8.2mA| 7.3mA|
+| [BlueNGR](http://www.st.com/web/catalog/sense_power/FM1968/CL1976/SC1898/PF258646?ecmp=pf258646_link_emf_jan2014&sc=bluenrg) | STMicro | | +8dBm |-96dBm | 8.2mA| 7.3mA||
 | [CYBL10X6X](http://japan.cypress.com/?rID=99422 ) | CYPRESS |ARM® Cortex™ M0| +3dBm |-89dBm|15.6mA| 16.4mA|1.3μA|
 
 *DDは、DC/DC変換の略
