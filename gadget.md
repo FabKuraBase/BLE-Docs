@@ -42,6 +42,9 @@
 2015/1/6<br>
 [貼る Bluetooth 体温計 TempTraq 発表。乳幼児の体温をスマホアプリで24時間監視](http://japanese.engadget.com/2015/01/05/bluetooth-temptraq-24/)
 <hr>
+2015/1/5<br>
+[スマホとBluetoothで連携させた、3Dプリント製リングを紹介](http://news.livedoor.com/article/detail/9675252/)
+<hr>
 2014/12/19<br>
 [スマホの画面で魚影を確認！Bluetooth接続の魚群探知機が登場](http://weekly.ascii.jp/elem/000/000/285/285267/)
 <hr>
