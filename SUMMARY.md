@@ -10,5 +10,6 @@
 * [ガジェット動向](gadget.md)
 * [業界動向(iBeacon)](trendbeacon.md)
 * [マーケティング](marketing.md)
+* [クラウドファンディング](funding.md)
 * [Link](link.md)
 
