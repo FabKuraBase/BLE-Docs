@@ -66,7 +66,7 @@ Bluetoothモジュールを使っている場合でも、新しいハードウ�
 # 各社モジュールのQDID(デザイン登録ID)
 | Chip名 | QDID |
 | -- | -- |
-| nRF51822,nRF51422 | [一覧](https://www.bluetooth.org/tpg/listings.cfm) |
+| nRF51822,nRF51422 | [66456](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25689),[66455](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25690),[66453](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25691) |
 | BLE113 |[46266](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=21015)|
 | BLE112 |[35451]((https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=18943) |
 |DA14580|[56907](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22759), [52690](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22409), [52696](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22410)|
