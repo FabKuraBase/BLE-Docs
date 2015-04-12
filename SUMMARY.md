@@ -11,5 +11,6 @@
 * [業界動向(iBeacon)](trendbeacon.md)
 * [マーケティング](marketing.md)
 * [クラウドファンディング](funding.md)
+* [Bluetooth 4.2](bl42.md)
 * [Link](link.md)
 
