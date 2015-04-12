@@ -12,5 +12,6 @@
 * [マーケティング](marketing.md)
 * [クラウドファンディング](funding.md)
 * [Bluetooth 4.2](bl42.md)
+* [Bluetooth認証](bleapply.md)
 * [Link](link.md)
 
