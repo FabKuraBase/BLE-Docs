@@ -8,7 +8,7 @@
 |[DA14680](http://www.dialog-semiconductor.com/docs/site-pdf/dialog-smartbond-da14680-product-brief-japanese.pdf?sfvrsn=2)|[dialog](http://www.dialog-semiconductor.com/) | ARM® Cortex™ M0 | | | | | 
 | [NRF51822](http://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF51822) | [Nordic Semiconductor](http://www.nordicsemi.com/)  |  ARM® Cortex™ M0 |+4dBm |-93 dBm| 10.5mA<br>8mA (DD)| 13 mA<br>9.7mA(DD)| 
 | [NRF51422](http://www.nordicsemi.com/eng/Products/ANT/nRF51422)  | [Nordic Semiconductor](http://www.nordicsemi.com/)|  ARM® Cortex™ M0 |+4dBm |-93 dBm| 10.5mA<br>8mA (DD)| 13 mA<br>9.7mA(DD)| 
-| [CSR1010](https://www.csrsupport.com/download/39359/CSR1010%20Data%20Sheet%20CS-231985-DS.pdf) | [CSR](http://www.csr.com/) | 独自MCU(RISC) | +9dBm | -93dBm| ||
+| [CSR1010](https://www.csrsupport.com/download/39359/CSR1010%20Data%20Sheet%20CS-231985-DS.pdf) | [CSR](http://www.csr.com/) | 独自MCU(RISC) | +9dBm | -93dBm| |
 | [CSR1011](https://www.csrsupport.com/download/40289/CSR1010%20Data%20Sheet%20CS-231986-DS.pdf) | [CSR](http://www.csr.com/)  | 独自MCU(RISC) | +9dBm | -93dBm| ||
 | [CSR1012](https://www.csrsupport.com/download/47278/CSR1012%20Data%20Sheet%20CS-238833-DS.pdf) | [CSR](http://www.csr.com/)  | 独自MCU(RISC) | +9dBm | -93dBm| ||
 | [CC2540](http://m.tij.co.jp/product/jp/CC2540)| [TI](http://www.tij.co.jp/) |  8051互換 | +6dBm | -96dBm|24mA<br>15.8 mA(DD)<br>*-6dBm|19.6 mA<br>18.6 mA(DD)<br>|
