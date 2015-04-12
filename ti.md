@@ -7,7 +7,7 @@
 
 開発用のSDKは、モジュールメーカーのものを使用する。
 
-
+https://www.bluegiga.com/en-US/support/
 
 ## 開発に必要なハードウェア
 
