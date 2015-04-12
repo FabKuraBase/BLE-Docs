@@ -66,9 +66,9 @@ Bluetoothモジュールを使っている場合でも、新しいハードウ�
 # 各社モジュールのQDID(デザイン登録ID)
 | Chip名 | QDID |
 | -- | -- |
-| [nRF51x22_QF with updated Sx10 stack](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22009) | 51744 |
-|[nRF51x22 with Sx10 stack](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=21495) | 49155 |
-| [BLE113 Bluetooth Smart Module](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=21015)|46266|
+| nRF51x22_QF with updated Sx10 stack | [51744](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22009) |
+|nRF51x22 with Sx10 stack | [49155](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=21495) |
+| BLE113 Bluetooth Smart Module|[46266](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=21015)|
 | BLE112-A, BLE112-N, BLE112-E|[35451]((https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=18943) |
 |DA14580|[56907](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22759), [52690](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22409), [52696](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22410)|
 
