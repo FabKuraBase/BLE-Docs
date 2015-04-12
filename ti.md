@@ -9,5 +9,6 @@
 
 | 必要なもの | 提供先 |
 | -- | -- |
-| [CC-Debugger](http://www.tij.co.jp/tool/jp/cc-debugger) | TI |
+|デバッカ | [CC-Debugger](http://www.tij.co.jp/tool/jp/cc-debugger) |
+|ソフトウェア|[FLASH-PROGRAMMER(1の方)](http://www.tij.co.jp/tool/jp/flash-programmer)|
 
