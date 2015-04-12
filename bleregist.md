@@ -71,6 +71,9 @@ Bluetoothモジュールを使っている場合でも、新しいハードウ�
 | BLE112 |[35451](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=18943) |
 | BLE121 | [57409](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25691)|
 |DA14580|[56907](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22759), [52690](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22409), [52696](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22410)|
+|CSR1010|[65475](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25607)|
+|CSR1011,CSR1012|[31021](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=17702)|
+
 
 # 国内のBTQF認定機関
 
