@@ -24,30 +24,40 @@ Bluetooth関連製品を開発をする場合、BT SIG のメンバーシップ�
 
 一般的に、Bluetooth搭載のハードウェアを製品化し、それが開発者向けではない場合、認証に$8000がかかる。売上1億円以下で設立2年以内の会社には、$2500で、2回まで認証が受けられる特例が設けられている。
 
-## Q2) 開発者向けにBLE開発ボードを作った場合はどうなるか？
 
+# 各社モジュールのQDID(デザイン登録ID)
+| Chip名 | QDID |
+| -- | -- |
+| nRF51822,nRF51422 | [66456](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25689),[66455](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25690),[66453](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25691) |
+| BLE113 |[46266](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=21015)|
+| BLE112 |[35451](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=18943) |
+| BLE121 | [57409](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25691)|
+|DA14580|[56907](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22759), [52690](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22409), [52696](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22410)|
+|CSR1010|[65475](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25607)|
+|CSR1011,CSR1012|[31021](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=17702)|
+|CC2541,CC2540|[35040](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=19095),[23454](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=16552)
+
+モジュールそのものを用いる場合は、仕様するモジュールのQDIDを用いて、プロダクト認証をおこなう。
+
+## FAQ 
+### 開発者向けにBLE開発ボードを作った場合はどうなるか？
 開発者が開発評価用に使うなら認証登録はいらない。一方で、最終ユーザに届く可能性がある場合は、認証登録が必要になる。
-
-## Q3) iBeaconを開発した場合はどうなるか？
+### iBeaconを開発した場合はどうなるか？
 
 はじめて登録する場合は、デザイン登録、プロダクト登録が必要となる。Declaration Feeは発生する。
 
-## Q4) BLEモジュールを使ったハードウェアで、ケースを変えた場合はどうなるか？
+### BLEモジュールを使ったハードウェアで、ケースを変えた場合はどうなるか？
 
-### Case1
-デザイン認証が異なるモジュールを使う場合は、Declaration Feeは発生
-### Case2
-デザイン認証が同じでも、新たにBT SIG標準プロファイルを追加した派生モデルをプロドダクト登録する場合は、Declaration Feeは発生
-### Case3
-デザイン認証が同じで、新たに独自のカスタマイズプロファイルを追加する場合は、派生モデルとして、Declaration Feeは発生しない
-### Case4
-デザイン認証が同じで、プロファイルを追加する場合、派生モデルとして、Declaration Feeは発生しない
+* デザイン認証が異なるモジュールを使う場合は、Declaration Feeは発生
+* デザイン認証が同じでも、新たにBT SIG標準プロファイルを追加した派生モデルをプロドダクト登録する場合は、Declaration Feeは発生
+* デザイン認証が同じで、新たに独自のカスタマイズプロファイルを追加する場合は、派生モデルとして、Declaration Feeは発生しない
+* デザイン認証が同じで、プロファイルを追加する場合、派生モデルとして、Declaration Feeは発生しない
 
-## Q5) 一度、認証登録したハードのFirmwareをUpdateした場合はどうなるか？
+### 一度、認証登録したハードのFirmwareをUpdateした場合はどうなるか？
 
 Update内容に、新たにBT SIG標準プロファイルの追加がない場合は、問題ない。
 
-## Q6) Bluetoothモジュールを使っている場合は、どのような場合、認証登録が必要になるか？
+### Bluetoothモジュールを使っている場合は、どのような場合、認証登録が必要になるか？
 
 Bluetoothモジュールを使っている場合でも、新しいハードウェアを開発する場合は、デザイン登録、プロダクト登録が必要となる。
 
@@ -63,27 +73,11 @@ Bluetoothモジュールを使っている場合でも、新しいハードウ�
 
 
 
-# 各社モジュールのQDID(デザイン登録ID)
-| Chip名 | QDID |
-| -- | -- |
-| nRF51822,nRF51422 | [66456](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25689),[66455](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25690),[66453](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25691) |
-| BLE113 |[46266](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=21015)|
-| BLE112 |[35451](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=18943) |
-| BLE121 | [57409](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25691)|
-|DA14580|[56907](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22759), [52690](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22409), [52696](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22410)|
-|CSR1010|[65475](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25607)|
-|CSR1011,CSR1012|[31021](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=17702)|
-
 
 # 国内のBTQF認定機関
 
-* UL
-http://site.ul.com/
-* テュフ ラインランド ジャパン
-http://www.tuv.com/jp/japan/home.jsp
-* アリオン株式会社
-http://www.allion.co.jp/about.html
-* 太陽誘電
-http://www.yuden.co.jp/jp/
-* Paltek
-http://www.paltek.co.jp/
+* [UL](http://site.ul.com/)
+* [テュフ ラインランド ジャパン](http://www.tuv.com/jp/japan/home.jsp)
+* [アリオン株式会社](http://www.allion.co.jp/about.html)
+* [太陽誘電](http://www.yuden.co.jp/jp/)
+* [Paltek](http://www.paltek.co.jp/)
