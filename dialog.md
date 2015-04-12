@@ -26,3 +26,8 @@ http://dialog-semiconductor.com/products/bluetooth-smart/smartbond-development-t
 | [Keil MDK-ARM Version 5](https://www.keil.com/download/product/) | Keil |
 | [the Jlink software & documentation pack for Windows](https://www.segger.com/jlink-software.html)|segger|
 
+## 開発に必要なドキュメント
+
+[User Manual
+DA14580 Bluetooth® Smart Development Kit – Basic
+UM-B-025](http://www.cdiweb.com/datasheets/iwatt/DA14580DEVKT-BUserGuide.pdf)
