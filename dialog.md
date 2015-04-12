@@ -24,3 +24,5 @@ http://dialog-semiconductor.com/products/bluetooth-smart/smartbond-development-t
 | ツール | 提供元 |
 | -- | -- |
 | [Keil MDK-ARM Version 5](https://www.keil.com/download/product/) | Keil |
+| [the Jlink software & documentation pack for Windows](https://www.segger.com/jlink-software.html)|segger|
+
