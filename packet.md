@@ -19,4 +19,9 @@
 
 | 項目 | 入手先 |
 | -- | -- |
+|ハードウェア|[Ubertooth](http://ubertooth.sourceforge.net/)|
+|ソフトウェア|[Git](https://github.com/greatscottgadgets/ubertooth)|
+
+| 項目 | 入手先 |
+| -- | -- |
 |ソフトウェア|[perytons](http://www.perytons.com/bluetooth/products#TextTop)|
