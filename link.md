@@ -6,7 +6,7 @@
 * [GATT仕様Profile一覧](https://developer.bluetooth.org/gatt/profiles/Pages/ProfilesHome.aspx)
 * [GATT仕様Charactaristic一覧
 ](https://developer.bluetooth.org/gatt/characteristics/Pages/CharacteristicsHome.aspx)
-[Health Device Profile](https://www.bluetooth.org/ja-jp/specification/assigned-numbers/health-device-profile)
+* [Health Device Profile](https://www.bluetooth.org/ja-jp/specification/assigned-numbers/health-device-profile)
 * [Bluetooth.orgに新しく登録されたハード一覧](http://www.bluetooth.com/Pages/New-Products.aspx)<br>
 
 <hr>
