@@ -70,7 +70,7 @@ Bluetoothモジュールを使っている場合でも、新しいハードウ�
 |[nRF51x22 with Sx10 stack](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=21495) | 49155 |
 | [BLE113 Bluetooth Smart Module](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=21015)|46266|
 | [BLE112-A, BLE112-N, BLE112-E](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=18943)|35451 |
-
+|DA14580|[56907](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22759), [52690](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22409), [52696](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22410)|
 
 # 国内のBTQF認定機関
 
