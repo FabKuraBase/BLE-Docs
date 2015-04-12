@@ -68,7 +68,8 @@ Bluetoothモジュールを使っている場合でも、新しいハードウ�
 | -- | -- |
 | nRF51822,nRF51422 | [66456](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25689),[66455](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25690),[66453](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25691) |
 | BLE113 |[46266](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=21015)|
-| BLE112 |[35451]((https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=18943) |
+| BLE112 |[35451](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=18943) |
+| BLE121 | [57409](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=25691)|
 |DA14580|[56907](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22759), [52690](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22409), [52696](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=22410)|
 
 # 国内のBTQF認定機関
