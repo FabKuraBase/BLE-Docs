@@ -22,6 +22,9 @@ Funding中<br>
 [コンロの火力を自動調節するスマートノブ Meld 発表。Bluetoothで温度計・アプリと連携](http://japanese.engadget.com/2015/04/07/meld-bluetooth/)
  (Engadget)
 <hr>
+2015/4/7<br>
+[世界初の愛犬用LEDベスト『Disco Dog』全米で話題に！](http://www.qetic.jp/life-fashion/discodog-pickup/128898/)
+<hr>
 2015/3/31<br>
 [スマホの次はBluetooth連動の子供向けお散歩シューズ　『au未来研究所』がニューバランスと『FUMM（フーム）』コンセプトモデルを発表](http://news.ameba.jp/20150331-506/)
 <hr>
