@@ -69,6 +69,9 @@
 
 [iBeaconで恋活‼ iPhone必携のITコンパに参加してきました、ワタシ](http://weekly.ascii.jp/elem/000/000/257/257956/)
 <hr>
+2014/8/18<br>
+[八景島シーパラダイス、iBeaconで水族館の情報配信、40カ所にビーコン設置](http://internet.watch.impress.co.jp/docs/news/20140818_662402.html)
+<hr>
 2014/6/25<br>
 [もう並ぶ必要ナシ！六本木の『the 3rd Burger』が最新iBeaconシステム導入](http://weekly.ascii.jp/elem/000/000/232/232144/)
 
