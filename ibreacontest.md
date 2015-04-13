@@ -4,7 +4,8 @@
 | サービス名 | エリア |概要|運営|サービス開始日|
 | -- | -- |
 |[ファルネーゼ宮市立博物館 ](http://www.palazzofarnese.piacenza.it/app)|イタリアピアチェンツァ|[アルトラヴァイオレット社](http://www.ultravioletapp.it/folio/imapp/)開発のIMAppを導入|ファルネーゼ宮市立博物館<br>アルトラヴァイオレット社|2014/11/18|
-|MLB|MLB|[MLB.com Ballpark](https://itunes.apple.com/jp/app/id513135722?mt=8) | MLB|2014夏
+|MLB|MLB|[MLB.com Ballpark](https://itunes.apple.com/jp/app/id513135722?mt=8) | MLB|2014夏|
+|AppleStore|米国|Apple StoreアプリがiBeaconに対応|Apple|
 
 ## 店舗への導入
 | サービス名 | エリア |概要|運営|サービス開始日|
