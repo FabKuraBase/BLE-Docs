@@ -16,7 +16,6 @@ ARM® Cortex™ M0
 nRF51 Software Development Kit 8.0.0
 http://developer.nordicsemi.com/nRF51_SDK/nRF51_SDK_v8.x.x/doc/8.0.0/
 
-
 ## MDBT40
 
 ### 特徴
