@@ -51,3 +51,5 @@
 <hr>
 2014/8/24<br>
 [京セラドーム×iBeaconなら好きな女子と好きなビールがすぐに手元に！｜Mac](http://weekly.ascii.jp/elem/000/000/249/249482/)
+
+[iBeaconで恋活‼ iPhone必携のITコンパに参加してきました、ワタシ](http://weekly.ascii.jp/elem/000/000/257/257956/)
