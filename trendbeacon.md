@@ -229,6 +229,9 @@
 
 [iBeaconで施設内の顧客動線を見える化システム、パルコ・シティが開発](http://cloud.watch.impress.co.jp/docs/news/20140725_659410.html)
 <hr>
+2014/7/18<br>
+[O2O対応CMSパッケージ「Actual Revolution」がiBeacon(R)に対応](http://www.atpress.ne.jp/view/48936)
+<hr>
 2014/7/15<br>
 [スマホアプリ運営プラットフォーム「Yappli」が iBeacon（アイビーコン）機能付きアプリの先行提供を開始](http://prtimes.jp/main/html/rd/p/000000002.000007187.html)
 <hr>
