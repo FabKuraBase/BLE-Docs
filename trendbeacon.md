@@ -305,4 +305,7 @@
 <hr>
 2014/2/20<br>
 [iBeaconに似た技術で現在地を測位する国立博物館の『トーハクなび』がスゴイ](http://weekly.ascii.jp/elem/000/000/215/215013/)
+<hr>
+2014/2/18<br>
+[Philips、LED照明システムを利用したiBeaconベースのサービスをテスト中](http://itpro.nikkeibp.co.jp/article/NEWS/20140218/537362/)
 
