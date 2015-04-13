@@ -29,6 +29,9 @@
 
 [上京した瞬間に地元からサプライズのエール、KDDIのiBeacon活用ムービー](http://www.advertimes.com/20150326/article187465/)
 <hr>
+2015/3/23<br>
+[大阪府下最大級のショッピングセンター「KUZUHA MALL」O2O型 公式アプリ(iPhone&Android)の提供開始](http://www.sankei.com/economy/news/150323/prl1503230033-n1.html)
+<hr>
 2015/3/18<br>
 [How Brands and Ad Agencies Can Leverage iBeacon Technology](http://www.psfk.com/2015/03/claim-it-mobile-platform-ibeacon-technology.html)
 
@@ -244,6 +247,9 @@
 <hr>
 2014/5/24<br>
 [iBeaconを電子工作で！ お風呂や植木用にもアレンジできる『MyBeacon Fun』](http://weekly.ascii.jp/elem/000/000/223/223556/)
+<hr>
+2014/5/20<br>
+[ザイナス、「iBeacon」活用の電子名刺交換システムを開発](http://news.mynavi.jp/news/2014/05/20/297/)
 <hr>
 2014/5/19<br>
 [来店ポイントアプリ『ショッぷらっと』がiBeaconに対応！都内12店舗で体験できる](http://weekly.ascii.jp/elem/000/000/222/222455/)
