@@ -12,6 +12,10 @@
 [上京した瞬間に地元からサプライズのエール、KDDIのiBeacon活用ムービー](http://www.advertimes.com/20150326/article187465/)
 
 <hr>
+2015/3/17<br>
+[iBeacon×iPhoneの新時代デジタル・サイネージ『mD-Signage』発売](http://japan.cnet.com/release/30096263/?ref=rss)
+
+<hr>
 2015/3/12<br>
 [Bluetoothビーコンで屋内位置測定にも対応した「作業員安全支援ソリューション」](http://www.rbbtoday.com/article/2015/03/12/129343.html)
 <hr>
