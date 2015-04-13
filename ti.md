@@ -26,7 +26,11 @@ https://www.bluegiga.com/en-US/support/
 | [CC2541 SensorTag 開発キット](http://www.tij.co.jp/tool/jp/cc2541dk-sensor#1) | TI |
 | [DKBLE](https://www.bluegiga.com/en-US/products/ble113-bluetooth-smart-module/#devkits) | Bluegiga|
 
-## BLE113,BLE112,BLE121
+## CC254X搭載モジュール
+
+BLE113,BLE112,BLE121
+
+## CC254X搭載モジュールのBlock diagram
 > BLE113 DATA SHEETより抜粋
 ![](image/block_ble113.png)
 > BLE112 DATA SHEETより抜粋
