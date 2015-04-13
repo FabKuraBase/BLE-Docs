@@ -100,6 +100,9 @@
 2014/10/2<br>
 [経堂農大通り商店街がiBeaconで街歩きを楽しく、36カ国語で情報発信](http://cloud.watch.impress.co.jp/docs/news/20141002_669355.html)
 <hr>
+2014/9/24<br>
+[タクシー配車アプリ「Hailo」から新サービス、iBeaconで支払い可能に](http://techable.jp/archives/17981)
+<hr>
 2014/9/23<br>
 [お店で財布いらず！ 『GMO Pallet』のかざすだけiBeacon決済を体験してきた](http://weekly.ascii.jp/elem/000/000/259/259753/)
 <hr>
