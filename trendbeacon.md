@@ -234,6 +234,9 @@
 2014/7/7<br>
 [順番待ち予約サービス「EPARK」が「iBeacon（アイビーコン）」を使用した来店促進サービスを開始](http://prtimes.jp/main/html/rd/p/000000015.000005294.html)
 <hr>
+2014/7/3<br>
+[地域密着型、iBeacon、デジタル印刷――会場で見つけた気になる展示](http://ebook.itmedia.co.jp/ebook/articles/1407/03/news135.html)
+<hr>
 2014/6/25<br>
 [もう並ぶ必要ナシ！六本木の『the 3rd Burger』が最新iBeaconシステム導入](http://weekly.ascii.jp/elem/000/000/232/232144/)
 <hr>
