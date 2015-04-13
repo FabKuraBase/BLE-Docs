@@ -45,3 +45,9 @@
 <hr>
 2014/10/7<br>
 [街中の公衆電話に誰がいつどこにいたかを記録できるBluetoothビーコンが大量に仕掛けられていたことが判明](http://gigazine.net/news/20141007-phone-booth-hidden/)<br>
+<hr>
+2014/9/23<br>
+[お店で財布いらず！ 『GMO Pallet』のかざすだけiBeacon決済を体験してきた](http://weekly.ascii.jp/elem/000/000/259/259753/)
+<hr>
+2014/8/24<br>
+[京セラドーム×iBeaconなら好きな女子と好きなビールがすぐに手元に！｜Mac](http://weekly.ascii.jp/elem/000/000/249/249482/)
