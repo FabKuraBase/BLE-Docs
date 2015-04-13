@@ -91,6 +91,9 @@
 2014/12/11<br>
 [書泉ブックタワーのイベントでiBeacon、スマホに限定特典を配布](http://cloud.watch.impress.co.jp/docs/news/20141211_679874.html)
 <hr>
+2014/12/5<br>
+[アイ・ティ・ネット、iBeaconを活用したパーソナライズ型レコメンドサービス](http://news.mynavi.jp/news/2014/12/05/185/)
+<hr>
 2014/11/25<br>
 [マルシェ、「酔虎伝」など居酒屋全店にiBeacon導入、O2Oを実現](http://cloud.watch.impress.co.jp/docs/news/20141125_677426.html)
 <hr>
