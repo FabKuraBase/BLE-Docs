@@ -132,4 +132,7 @@
 <hr>
 2014/6/22<br>
 [AOKIがオムニチャネルで顧客管理、iBeacon導入テストも](http://ascii.jp/elem/000/000/906/906785/)
+<hr>
+2014/6/4<br>
+[不動産情報「HOME'S」のネクスト、iBeaconやRFID活用した技術事例を披露](http://itpro.nikkeibp.co.jp/article/NEWS/20140604/561584/)
 
