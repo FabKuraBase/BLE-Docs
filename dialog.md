@@ -35,7 +35,7 @@ http://dialog-semiconductor.com/products/bluetooth-smart/smartbond-development-t
 | チップ名 | メーカー |
 |--|--|
 |[TypeTZ Datasheet](http://wireless.murata.com/RFM/data/lbca2hnzyz-711.pdf)|murata|
-|[PAN1740]()|Panasonic|
+|[PAN1740](http://eu.industrial.panasonic.com/sites/default/pidseu/files/downloads/files/pan1740_flyer.pdf)|Panasonic|
 
 
 ### TypeTZメモリなしでのOTA対応
