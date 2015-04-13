@@ -251,6 +251,8 @@
 <hr>
 2014/7/10<br>
 [MLB’s iBeacon Project Enters Phase Two With Interactive Ballpark Attractions](http://techcrunch.com/2014/07/10/mlbs-ibeacon-project-enters-phase-two-with-interactive-ballpark-attractions/)
+
+[easyJet’s multi-airport iBeacon trial lays the foundations for a major rollout](http://www.futuretravelexperience.com/2014/07/easyjets-multi-airport-ibeacon-trial-lays-foundations-major-rollout/)
 <hr>
 2014/7/7<br>
 [順番待ち予約サービス「EPARK」が「iBeacon（アイビーコン）」を使用した来店促進サービスを開始](http://prtimes.jp/main/html/rd/p/000000015.000005294.html)
