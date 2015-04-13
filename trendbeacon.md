@@ -167,6 +167,8 @@
 <hr>
 2014/9/19<br>
 [国立民族学博物館、iBeaconを活用した電子ガイドの実験を開始](http://news.mynavi.jp/news/2014/09/19/410/)
+
+[iBeaconベンチャーの米Estimote社、人間にも付けることができる超小型ビーコン「Estimote Stickers」を発売](http://hon.jp/news/1.0/0/5857/)
 <hr>
 2014/9/11<br>
 [名古屋大の図書館に160台のiBeacon、蔵書検索や書架案内を実現へ](http://internet.watch.impress.co.jp/docs/news/20140911_666331.html)
@@ -308,4 +310,7 @@
 <hr>
 2014/2/18<br>
 [Philips、LED照明システムを利用したiBeaconベースのサービスをテスト中](http://itpro.nikkeibp.co.jp/article/NEWS/20140218/537362/)
+<hr>
+2013/12/5<br>
+[iBeaconでフリーペーパーをiPhoneに配布できる「ByPlace」の可能性。](http://www.appbank.net/2013/12/05/iphone-news/713705.php)
 
