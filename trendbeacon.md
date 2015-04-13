@@ -108,6 +108,9 @@
 2014/10/2<br>
 [経堂農大通り商店街がiBeaconで街歩きを楽しく、36カ国語で情報発信](http://cloud.watch.impress.co.jp/docs/news/20141002_669355.html)
 <hr>
+2014/10/1<br>
+[iBeaconを活用したアプリで野外映画フェスを盛り上げる！](http://iphone-mania.jp/news-47677/)
+<hr>
 2014/9/24<br>
 [タクシー配車アプリ「Hailo」から新サービス、iBeaconで支払い可能に](http://techable.jp/archives/17981)
 <hr>
