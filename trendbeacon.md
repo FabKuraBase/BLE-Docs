@@ -131,6 +131,9 @@
 2014/10/7<br>
 [街中の公衆電話に誰がいつどこにいたかを記録できるBluetoothビーコンが大量に仕掛けられていたことが判明](http://gigazine.net/news/20141007-phone-booth-hidden/)<br>
 <hr>
+2014/10/6<br>
+[iBeaconを使ったiPhone向け「迷子防止アプリ」、名古屋の展示会で披露](http://internet.watch.impress.co.jp/docs/news/20141006_670090.html)
+<hr>
 2014/10/4<br>
 [ヤマダ電機、LABI吉祥寺をオープン iBeaconを導入しキャンペーン実施](http://www.sbbit.jp/article/cont1/28722)<br>
 <hr>
@@ -244,6 +247,8 @@
 [映画館へ「iBeacon」使う新サービス、20世紀フォックス映画が導入](http://bizmakoto.jp/makoto/articles/1405/08/news088.html)
 
 [「iBeacon」対応サービス、地域活性プロジェクトにも　淡路島・洲本市のPRに活用](http://bizmakoto.jp/makoto/articles/1405/08/news096.html)
+
+[全米小売チェーンのWalgreensとWalmartがアップルのiBeaconマーケティングを導入](http://iphone-mania.jp/news-29675/)
 
 <hr>
 2014/3/20<br>
