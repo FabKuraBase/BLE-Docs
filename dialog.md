@@ -32,11 +32,10 @@ http://dialog-semiconductor.com/products/bluetooth-smart/smartbond-development-t
 
 
 ## DA14580搭載モジュール
-| チップ名 | メーカー |
-|--|--|
-|[TypeTZ Datasheet](http://wireless.murata.com/RFM/data/lbca2hnzyz-711.pdf)|murata|
-|[PAN1740](http://eu.industrial.panasonic.com/sites/default/pidseu/files/downloads/files/pan1740_flyer.pdf)|Panasonic|
-
+| モジュール名 | BLE Chip　| Ver | メーカー | 技適 | 最大送信出力|受信感度|TX最大電流|スリープモード|
+| -- | -- | -- |-- |-- |
+| [Type ZY](http://www.murata.co.jp/products/microwave/module/bluetoothmodule/schematic/typez.html#tab) | DA14580 | 4.1 | [Murata](http://www.murata.co.jp/) | [済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=001&TC=G&PK=1&FN=387tele&SN=%8F%D8%96%BE&LN=32&R1=*****&R2=*****) |0dBm||4.8mA|0.6uA|
+|[PAN1740](http://eu.industrial.panasonic.com/products/wireless-connectivity/bluetooth/bluetooth-smart-low-energy/series/pan1740/CS464/model/ENW89846A1KF) | DA14580 | 4.1 | [Panasonic](http://eu.industrial.panasonic.com/)|未|0dBm|-93dBm|4.9mA|<1uA|
 ### TypeTZ  Block diagram
 
 ![](typeTZ_block.png)
