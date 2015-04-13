@@ -97,6 +97,9 @@
 2014/9/23<br>
 [お店で財布いらず！ 『GMO Pallet』のかざすだけiBeacon決済を体験してきた](http://weekly.ascii.jp/elem/000/000/259/259753/)
 <hr>
+2014/9/11<br>
+[名古屋大の図書館に160台のiBeacon、蔵書検索や書架案内を実現へ](http://internet.watch.impress.co.jp/docs/news/20140911_666331.html)
+<hr>
 2014/9/10<br>
 [JAL×iBeacon×スマートウォッチ、羽田空港での実証実験の狙いと成果](http://it.impressbm.co.jp/articles/-/11686)
 <hr>
