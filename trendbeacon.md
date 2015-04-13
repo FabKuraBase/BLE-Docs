@@ -127,6 +127,9 @@
 2014/11/7<br>
 [立ち呑みBarでのiBeaconを活用したアプリ導入事例！](http://iphone-mania.jp/news-51858/)
 <hr>
+2014/11/2<br>
+[Barclays is testing iBeacon tech to improve in-branch accessibility](http://www.engadget.com/2014/12/02/barclays-trial-ibeacons/)
+<hr>
 2014/10/22<br>
 [iBeaconがイタリアの歴史ある博物館を変革する](http://wired.jp/2014/10/22/ibeacon-makes-museum-chage/)
 <hr>
