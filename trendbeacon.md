@@ -152,6 +152,12 @@
 2014/7/24<br>
 [知多歴史民俗博物館が初のiPhone／iBeaconを活用
 公立博物館としては国内初のiBeacon応用音声ガイドが運用開始](http://ascii.jp/elem/000/000/918/918335/)
+
+[iBeaconで施設内の顧客動線を見える化システム、パルコ・シティが開発](http://cloud.watch.impress.co.jp/docs/news/20140725_659410.html)
+<hr>
+2014/7/7<br>
+[順番待ち予約サービス「EPARK」が「iBeacon（アイビーコン）」を使用した来店促進サービスを開始](http://prtimes.jp/main/html/rd/p/000000015.000005294.html)
+
 <hr>
 2014/6/25<br>
 [もう並ぶ必要ナシ！六本木の『the 3rd Burger』が最新iBeaconシステム導入](http://weekly.ascii.jp/elem/000/000/232/232144/)
