@@ -7,13 +7,14 @@
 |MLB|MLB|[MLB.com Ballpark](https://itunes.apple.com/jp/app/id513135722?mt=8) | MLB|2014夏|
 |AppleStore|米国|Apple StoreアプリがiBeaconに対応|Apple||
 |[Orlando Magic](http://www.nba.com/magic/news/orlando-magic-becomes-first-nba-team-deploy-and-integrate-ibeacons-team-mobile-app-amway-center)|NBA|NBAで最初に導入|||
-|[Virgin Atlantic](https://blog.virgin-atlantic.com/t5/Our-Future/Virgin-Atlantic-lights-the-way-with-Apple-s-iBeacon-technology/ba-p/26359#.VSuzCI7tmko)| Heathrow| 道が正しいかの案内|Virgin Atlantic|||
+|[Virgin Atlantic](https://blog.virgin-atlantic.com/t5/Our-Future/Virgin-Atlantic-lights-the-way-with-Apple-s-iBeacon-technology/ba-p/26359#.VSuzCI7tmko)| Heathrow| 道が正しいかの案内|Virgin Atlantic||
 
 
 ## 店舗への導入
 | サービス名 | エリア |概要|運営|サービス開始日|
 | -- | -- |
 |[McDonald's](http://www.businesswire.com/news/home/20141218005195/en/McDonald%E2%80%99s-Customers-Treated-Dining-Experience-Piper-Beacon#.VSthf47tlBc)|米Geogia州|ジョージア集のMcDonald's店舗に導入|McDonald's<br>[Piper](http://piper.ly/)|2014/11/18|
+|[WalGreens](http://www.fosbury.co/case-study/walgreens)||自分に関連するクーポンが表示|WalGreens|||
 
 
 # iBeacon導入事例(国内)
