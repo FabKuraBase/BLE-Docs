@@ -261,6 +261,9 @@
 2014/5/24<br>
 [iBeaconを電子工作で！ お風呂や植木用にもアレンジできる『MyBeacon Fun』](http://weekly.ascii.jp/elem/000/000/223/223556/)
 <hr>
+2014/5/22<br>
+[iPhoneアプリとiBeaconを使ってデジタル名刺を気軽に交換！](http://iphone-mania.jp/news-27494/)
+<hr>
 2014/5/20<br>
 [ザイナス、「iBeacon」活用の電子名刺交換システムを開発](http://news.mynavi.jp/news/2014/05/20/297/)
 <hr>
