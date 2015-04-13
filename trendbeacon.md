@@ -191,6 +191,9 @@
 2014/8/30<br>
 [業界初 iBeaconアプリ利用した住宅展示場イベント開催](http://prtimes.jp/main/html/rd/p/000000001.000011095.html)
 <hr>
+2014/8/27<br>
+[「iBeacon」とソーシャルが連携したプロモーション支援サービスを9月1日より提供開始](http://www.atpress.ne.jp/view/50381)
+<hr>
 2014/8/25<br>
 [大丸東京で開催中のiBeaconクイズラリーが楽しい！QRコードでもOK｜Mac](http://weekly.ascii.jp/elem/000/000/249/249740/)
 <hr>
