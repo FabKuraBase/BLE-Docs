@@ -191,7 +191,9 @@
 [iBeaconで恋活‼ iPhone必携のITコンパに参加してきました、ワタシ](http://weekly.ascii.jp/elem/000/000/257/257956/)
 
 [インフォシティ、iBeaconを手軽に導入できる「B＋POP」を9月提供開始](http://internet.watch.impress.co.jp/docs/news/20140825_663261.html)
-
+<hr>
+2014/8/20<br>
+[日本写真印刷、iBeaconを1カ月で導入する“お試し”サービス](http://monoist.atmarkit.co.jp/mn/articles/1408/20/news054.html)
 <hr>
 2014/8/18<br>
 [八景島シーパラダイス、iBeaconで水族館の情報配信、40カ所にビーコン設置](http://internet.watch.impress.co.jp/docs/news/20140818_662402.html)
