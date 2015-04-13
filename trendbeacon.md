@@ -243,6 +243,9 @@
 2014/7/14<br>
 [FCC資料から判明、アップル自社製のiBeacon端末をリリースか](http://iphone-mania.jp/news-36190/)
 <hr>
+2014/7/10<br>
+[MLB’s iBeacon Project Enters Phase Two With Interactive Ballpark Attractions](http://techcrunch.com/2014/07/10/mlbs-ibeacon-project-enters-phase-two-with-interactive-ballpark-attractions/)
+<hr>
 2014/7/7<br>
 [順番待ち予約サービス「EPARK」が「iBeacon（アイビーコン）」を使用した来店促進サービスを開始](http://prtimes.jp/main/html/rd/p/000000015.000005294.html)
 <hr>
