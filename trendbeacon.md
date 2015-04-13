@@ -206,6 +206,8 @@
 2014/5/8<br>
 [映画館へ「iBeacon」使う新サービス、20世紀フォックス映画が導入](http://bizmakoto.jp/makoto/articles/1405/08/news088.html)
 
+[「iBeacon」対応サービス、地域活性プロジェクトにも　淡路島・洲本市のPRに活用](http://bizmakoto.jp/makoto/articles/1405/08/news096.html)
+
 <hr>
 2014/3/20<br>
 [今夜は品川で火鍋とiBeacon体験、オーダーはすべてiPhoneでオッケー｜Mac](http://weekly.ascii.jp/elem/000/000/209/209556/)
