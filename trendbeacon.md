@@ -3,11 +3,12 @@
 <hr>
 ## iBeacon
 <hr>
-2015/4/16<br>
-[日本交通や博報堂DYMPらがiBeaconを活用した情報配信の実証実験](http://itpro.nikkeibp.co.jp/atcl/news/15/040601194/)
-<hr>
 2015/4/13<br>
+[日本交通や博報堂DYMPらがiBeaconを活用した情報配信の実証実験](http://itpro.nikkeibp.co.jp/atcl/news/15/040601194/)
+
 [SB、奈良県飛鳥地方で超小型モビリティレンタルサービスを開始](http://www.eco-front.com/news_cwL1FcrFIg_147.html)
+
+[Apple Watchが変える小売業の現場　大手量販店も対応アプリを相次ぎ導入](http://forbesjapan.com/translation/post_3395.html)
 <hr>
 2015/4/8<br>
 [JAL、Apple Watchアプリ　出発時刻をカウントダウンBy Yusuke KOHASE](http://www.aviationwire.jp/archives/59091)
@@ -244,6 +245,9 @@
 <hr>
 2014/8/7<br>
 [武蔵小杉駅周辺エリアで、来店ポイントサービス 「ショプリエ」によるiBeaconを活用したO2O地域活性化の実証実験を実施](http://digitalpr.jp/r/8733)
+<hr>
+2014/7/30<br>
+[onthebar Rolls Out iBeacons in 75 Boston Bars to Personalize Your Party Night](http://bostinno.streetwise.co/2014/07/30/onthebar-ibeacon-bars-in-boston-and-new-york-city-onthebar-rolls-out-ibeacons-in-75-boston-bars-to-personalize-your-party-night/)
 <hr>
 2014/8/14<br>
 [映画
