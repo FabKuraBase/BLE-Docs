@@ -1,4 +1,4 @@
-# 業界動向(iBeacon)
+# iBeacon動向
 
 <hr>
 ## iBeacon
