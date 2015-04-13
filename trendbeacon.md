@@ -22,11 +22,17 @@
 2015/3/12<br>
 [Bluetoothビーコンで屋内位置測定にも対応した「作業員安全支援ソリューション」](http://www.rbbtoday.com/article/2015/03/12/129343.html)
 <hr>
+2015/2/9<br>
+[「買う時、選ぶ時」に割チケが届く　iPhone×クノールの新・iBeacon活用施策 (1/2)](http://www.itmedia.co.jp/enterprise/articles/1502/19/news108.html
+<hr>
 2015/2/4<br>
 [iBeaconはいかにしてデバイスを検知するか](http://it.impressbm.co.jp/articles/-/11881)
 <hr>
 2014/12/21<br>
 [迷宮でもう迷わない！JR東京駅のiBeaconナビゲーションがスゴかった](http://weekly.ascii.jp/elem/000/000/285/285616/)
+2014/12/19<br>
+[GACKTのイベントでiBeacon！少額のクラウドファンディングが可能に](http://weekly.ascii.jp/elem/000/000/285/285063/)
+<hr>
 <hr>
 2014/11/17<br>
 [世界最薄クラス！「超薄型センサービーコン」を2015年3月に商品化](http://www.fdk.co.jp/whatsnew-j/release20141117-j.html)
