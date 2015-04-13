@@ -39,10 +39,11 @@ http://dialog-semiconductor.com/products/bluetooth-smart/smartbond-development-t
 
 ### TypeTZ  Block diagram
 
-
+![](TypeTZ_block.png)
 
 ### PAN1740 Block diagram
 
+![](PAN1740_block.png)
 
 ### TypeTZメモリなしでのOTA対応
 > ![](typeTZ_internal_ota.png)
