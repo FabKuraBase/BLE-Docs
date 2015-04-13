@@ -22,6 +22,9 @@
 2015/3/12<br>
 [Bluetoothビーコンで屋内位置測定にも対応した「作業員安全支援ソリューション」](http://www.rbbtoday.com/article/2015/03/12/129343.html)
 <hr>
+2014/12/21<br>
+[迷宮でもう迷わない！JR東京駅のiBeaconナビゲーションがスゴかった](http://weekly.ascii.jp/elem/000/000/285/285616/)
+<hr>
 2014/11/17<br>
 [世界最薄クラス！「超薄型センサービーコン」を2015年3月に商品化](http://www.fdk.co.jp/whatsnew-j/release20141117-j.html)
 <hr>
