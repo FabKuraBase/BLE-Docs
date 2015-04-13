@@ -78,6 +78,9 @@
 2014/11/14<br>
 [京都市営バスがiBeaconで通知、停留所の画面に「まもなく到着」](http://cloud.watch.impress.co.jp/docs/news/20141104_674245.html)
 <hr>
+2014/11/7<br>
+[立ち呑みBarでのiBeaconを活用したアプリ導入事例！](http://iphone-mania.jp/news-51858/)
+<hr>
 2014/10/22<br>
 [iBeaconがイタリアの歴史ある博物館を変革する](http://wired.jp/2014/10/22/ibeacon-makes-museum-chage/)
 <hr>
