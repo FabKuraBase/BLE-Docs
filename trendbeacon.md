@@ -154,7 +154,9 @@
 <hr>
 2014/10/14<br>
 [JAL、搭乗便情報をiBeaconでプッシュ通知、全国13空港で実証実験](http://cloud.watch.impress.co.jp/docs/news/20141014_670951.html)
-
+<hr>
+2014/10/8<br>
+[GuestDriven and Estimote Deliver iBeacon Technology to Hotels](http://hospitalitytechnology.edgl.com/news/GuestDriven-and-Estimote-Deliver-iBeacon-Technology-to-Hotels97022)
 <hr>
 2014/10/7<br>
 [街中の公衆電話に誰がいつどこにいたかを記録できるBluetoothビーコンが大量に仕掛けられていたことが判明](http://gigazine.net/news/20141007-phone-booth-hidden/)<br>
