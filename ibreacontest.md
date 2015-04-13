@@ -1,12 +1,15 @@
-# iBeacon事例
+# iBeacon導入事例(海外)
+
+# iBeacon導入事例(国内)
 
 ## 施設への導入
 
 | サービス名 | エリア |概要|運営|サービス開始日|
 | -- | -- |
-|[ガブリエル・オロスコ展](http://www.mot-art-museum.jp/exhibition/orozcoapplication.html)|東京都現代美術館|iBeaconに反応し、インタラクティブ・ガイダンスを流れ、作品鑑賞をサポート|2015/3/28-5/10|
+|[ガブリエル・オロスコ展](http://www.mot-art-museum.jp/exhibition/orozcoapplication.html)|東京都現代美術館|iBeaconに反応し、インタラクティブ・ガイダンスを流れ、作品鑑賞をサポート|東京都現代美術館|2015/3/28-5/10|
+| [KUZUHA MALL](http://www.kuzuha-mall.com/sp/app/) | 大阪・枚方市 KUZUHA MALL| |京阪流通システムズ<br>株式会社パルコ・シティ<br>株式会社エンプライズ| 2015/3/20|
 |[野球場Navi](http://ballpark-navi.com/)| 京セラドーム大阪 |スマートフォンからボタンを押すだけで売り子さんに呼び出しがかかる|メディアアクティブ株式会社|2014/8/22|
-| 0:3 | 1:3 |
+
 
 ## 観光への応用
 
