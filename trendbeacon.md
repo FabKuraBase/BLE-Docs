@@ -37,5 +37,8 @@
 2014/11/17<br>
 [世界最薄クラス！「超薄型センサービーコン」を2015年3月に商品化](http://www.fdk.co.jp/whatsnew-j/release20141117-j.html)
 <hr>
+2014/11/14<br>
+[京都市営バスがiBeaconで通知、停留所の画面に「まもなく到着」](http://cloud.watch.impress.co.jp/docs/news/20141104_674245.html)
+<hr>
 2014/10/7<br>
 [街中の公衆電話に誰がいつどこにいたかを記録できるBluetoothビーコンが大量に仕掛けられていたことが判明](http://gigazine.net/news/20141007-phone-booth-hidden/)<br>
