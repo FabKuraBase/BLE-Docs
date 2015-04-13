@@ -40,6 +40,9 @@
 2015/2/4<br>
 [iBeaconはいかにしてデバイスを検知するか](http://it.impressbm.co.jp/articles/-/11881)
 <hr>
+2015/2/1<br>
+[アップル「iBeacon」を活用--米プロバスケチームが進める本拠地ハイテク化を写真で見る](http://japan.cnet.com/news/commentary/35059756/)
+<hr>
 2015/1/20<br>
 [人事・給与・勤怠ソフト「MosP」と連携するiBeacon打刻ソリューション](http://cloud.watch.impress.co.jp/docs/news/20150120_684506.html)
 <hr>
