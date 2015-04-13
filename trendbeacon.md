@@ -85,6 +85,8 @@
 <hr>
 2014/12/17<br>
 [星野リゾートでiBeacon！スタッフの導線解析のための実証実験がスタート](http://weekly.ascii.jp/elem/000/000/284/284320/)
+
+[ビーコン1万個を無料配布　ソフト開発のACCESS、iBeaconインフラに先行投資](http://ascii.jp/elem/000/000/961/961074/)
 <hr>
 2014/12/11<br>
 [書泉ブックタワーのイベントでiBeacon、スマホに限定特典を配布](http://cloud.watch.impress.co.jp/docs/news/20141211_679874.html)
