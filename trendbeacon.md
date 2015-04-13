@@ -22,6 +22,9 @@
 2015/3/12<br>
 [Bluetoothビーコンで屋内位置測定にも対応した「作業員安全支援ソリューション」](http://www.rbbtoday.com/article/2015/03/12/129343.html)
 <hr>
+2015/2/25<br>
+[クレディセゾンがiBeacon導入、会員アプリと連動したO2O施策を開始へ](http://cloud.watch.impress.co.jp/docs/news/20150225_689953.html)
+<hr>
 2015/2/13<br>
 [江ノ島電鉄× iBeacon 『江ノ電なび』アプリ公開のお知らせ](http://prtimes.jp/main/html/rd/p/000000003.000011095.html)
 <hr>
@@ -48,6 +51,9 @@
 <hr>
 2014/12/17<br>
 [星野リゾートでiBeacon！スタッフの導線解析のための実証実験がスタート](http://weekly.ascii.jp/elem/000/000/284/284320/)
+<hr>
+2014/11/20<br>
+[紀伊國屋書店 武蔵小杉店でiBeacon対応アプリを使ったO2Oマーケティング施策](http://ebook.itmedia.co.jp/ebook/articles/1411/21/news041.html)
 <hr>
 2014/11/17<br>
 [世界最薄クラス！「超薄型センサービーコン」を2015年3月に商品化](http://www.fdk.co.jp/whatsnew-j/release20141117-j.html)
