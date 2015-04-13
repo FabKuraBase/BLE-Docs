@@ -183,6 +183,9 @@
 2014/8/12<br>
 [百貨店がiBeaconを活用したO2Oクイズキャンペーンを実施！](http://iphone-mania.jp/goods-39568/)
 <hr>
+2014/8/8<br>
+[災害時や徘徊に対応するiBeacon製品「レスキュービーコン」](http://ascii.jp/elem/000/000/922/922689/)
+<hr>
 2014/7/24<br>
 [知多歴史民俗博物館が初のiPhone／iBeaconを活用
 公立博物館としては国内初のiBeacon応用音声ガイドが運用開始](http://ascii.jp/elem/000/000/918/918335/)
