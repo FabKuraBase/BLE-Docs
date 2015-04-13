@@ -40,6 +40,9 @@
 2015/3/11<br>
 [「秋葉原限定次世代型スタンプラリー」始まる－「iBeacon」機能と連動](http://akiba.keizai.biz/headline/3480/)
 <hr>
+2015/3/5<br>
+[iBeaconを活用した就活アプリ「attache」のサービス紹介ページをリリース！iOS+Android両アプリのダウンロードが可能に！](http://www.sankei.com/economy/news/150305/prl1503050122-n1.html)
+<hr>
 2015/2/25<br>
 [クレディセゾンがiBeacon導入、会員アプリと連動したO2O施策を開始へ](http://cloud.watch.impress.co.jp/docs/news/20150225_689953.html)
 <hr>
@@ -139,6 +142,8 @@
 <hr>
 2014/9/11<br>
 [名古屋大の図書館に160台のiBeacon、蔵書検索や書架案内を実現へ](http://internet.watch.impress.co.jp/docs/news/20140911_666331.html)
+
+[東急、武蔵小杉でiBeaconを活用した販促キャンペーン](http://news.mynavi.jp/news/2014/09/01/230/)
 <hr>
 2014/9/10<br>
 [JAL×iBeacon×スマートウォッチ、羽田空港での実証実験の狙いと成果](http://it.impressbm.co.jp/articles/-/11686)
