@@ -22,6 +22,9 @@
 2015/3/12<br>
 [Bluetoothビーコンで屋内位置測定にも対応した「作業員安全支援ソリューション」](http://www.rbbtoday.com/article/2015/03/12/129343.html)
 <hr>
+2015/2/4<br>
+[iBeaconはいかにしてデバイスを検知するか](http://it.impressbm.co.jp/articles/-/11881)
+<hr>
 2014/12/21<br>
 [迷宮でもう迷わない！JR東京駅のiBeaconナビゲーションがスゴかった](http://weekly.ascii.jp/elem/000/000/285/285616/)
 <hr>
