@@ -6,6 +6,9 @@
 2015/4/16<br>
 [日本交通や博報堂DYMPらがiBeaconを活用した情報配信の実証実験](http://itpro.nikkeibp.co.jp/atcl/news/15/040601194/)
 <hr>
+2015/4/13<br>
+[SB、奈良県飛鳥地方で超小型モビリティレンタルサービスを開始](http://www.eco-front.com/news_cwL1FcrFIg_147.html)
+<hr>
 2015/4/8<br>
 [JAL、Apple Watchアプリ　出発時刻をカウントダウンBy Yusuke KOHASE](http://www.aviationwire.jp/archives/59091)
 <hr>
