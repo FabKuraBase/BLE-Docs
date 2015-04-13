@@ -291,6 +291,9 @@
 2014/4/16<br>
 [iBeacon対応、突出6mmの小型ビーコン端末「Beacon USB」](http://ascii.jp/elem/000/000/885/885314/)
 <hr>
+2014/4/14<br>
+[iBeaconで顧客にカードを送れる！連絡帳アプリ「iam(アイアム)」にプロモーションカード機能が追加！](http://iphone-mania.jp/news-27494/)
+<hr>
 2014/3/20<br>
 [今夜は品川で火鍋とiBeacon体験、オーダーはすべてiPhoneでオッケー｜Mac](http://weekly.ascii.jp/elem/000/000/209/209556/)
 <hr>
