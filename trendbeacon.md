@@ -13,6 +13,9 @@
 [JAL、Apple Watchアプリ　出発時刻をカウントダウンBy Yusuke KOHASE](http://www.aviationwire.jp/archives/59091)
 <hr>
 2015/4/7<br>
+[MLBAM’s At Bat App Surpasses 5M Dowloads, Adds Apple Watch Support]( http://sportsvideo.org/main/blog/2015/04/mlbams-mlb-com-at-bat-app-passes-5m-dowloads-mark-adds-apple-watch-support/#sthash.0kNUJBv2.dpuf)
+<hr>
+2015/4/7<br>
 [奈良県飛鳥地方で、タブレット搭載超小型モビリティのレンタルサービス「MICHIMO」が4月17日にグランドオープン](http://www.gapsis.jp/2015/04/michimo-grandopen.html)
 <hr>
 2015/4/2<br>
@@ -242,6 +245,9 @@
 公立博物館としては国内初のiBeacon応用音声ガイドが運用開始](http://ascii.jp/elem/000/000/918/918335/)
 
 [iBeaconで施設内の顧客動線を見える化システム、パルコ・シティが開発](http://cloud.watch.impress.co.jp/docs/news/20140725_659410.html)
+<hr>
+2014/7/22<br>
+[Hillshire increases sales w/ iBeacon, 20x increase in purchase intent, 500x increase over average mobile ads](http://9to5mac.com/2014/07/22/hillshire-increases-sales-w-ibeacon-20x-increase-in-purchase-intent-500x-increase-over-average-mobile-ads/)
 <hr>
 2014/7/18<br>
 [O2O対応CMSパッケージ「Actual Revolution」がiBeacon(R)に対応](http://www.atpress.ne.jp/view/48936)
