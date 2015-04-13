@@ -15,6 +15,9 @@
 2015/4/7<br>
 [奈良県飛鳥地方で、タブレット搭載超小型モビリティのレンタルサービス「MICHIMO」が4月17日にグランドオープン](http://www.gapsis.jp/2015/04/michimo-grandopen.html)
 <hr>
+2015/3/30<br>
+[人気ピザチェーンが全国店舗で事前オーダー・決済アプリを導入](http://www.paymentnavi.com/paymentnews/47134.html)
+<hr>
  2015/3/26<br>
 [富士通研究所、曲げ伸ばしできるBluetoothビーコン開発](http://www.nikkei.com/article/DGXMZO84833640V20C15A3000000/)
 
