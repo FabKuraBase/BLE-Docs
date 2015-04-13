@@ -46,4 +46,7 @@ https://www.bluegiga.com/en-US/support/
 > BLE121LR DATA SHEETより抜粋
 >![](image/block_ble121.png)
 
+## 各モジュールのReferenceデザイン
+
+
 
