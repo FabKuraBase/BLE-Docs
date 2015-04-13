@@ -189,9 +189,11 @@
 
 [iBeaconで施設内の顧客動線を見える化システム、パルコ・シティが開発](http://cloud.watch.impress.co.jp/docs/news/20140725_659410.html)
 <hr>
+2014/7/14<br>
+[FCC資料から判明、アップル自社製のiBeacon端末をリリースか](http://iphone-mania.jp/news-36190/)
+<hr>
 2014/7/7<br>
 [順番待ち予約サービス「EPARK」が「iBeacon（アイビーコン）」を使用した来店促進サービスを開始](http://prtimes.jp/main/html/rd/p/000000015.000005294.html)
-
 <hr>
 2014/6/25<br>
 [もう並ぶ必要ナシ！六本木の『the 3rd Burger』が最新iBeaconシステム導入](http://weekly.ascii.jp/elem/000/000/232/232144/)
