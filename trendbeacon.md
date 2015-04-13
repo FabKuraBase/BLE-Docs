@@ -182,6 +182,9 @@
 2014/6/4<br>
 [不動産情報「HOME'S」のネクスト、iBeaconやRFID活用した技術事例を披露](http://itpro.nikkeibp.co.jp/article/NEWS/20140604/561584/)
 <hr>
+2014/5/29<br>
+[GE、iBeaconを取り入れたLED照明システムをWalmartなどの小売店に展開](http://iphone-mania.jp/news-32458/)
+<hr>
 2014/5/19<br>
 [来店ポイントアプリ『ショッぷらっと』がiBeaconに対応！都内12店舗で体験できる](http://weekly.ascii.jp/elem/000/000/222/222455/)
 <hr>
