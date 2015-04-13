@@ -33,7 +33,6 @@
 2014/12/19<br>
 [GACKTのイベントでiBeacon！少額のクラウドファンディングが可能に](http://weekly.ascii.jp/elem/000/000/285/285063/)
 <hr>
-<hr>
 2014/11/17<br>
 [世界最薄クラス！「超薄型センサービーコン」を2015年3月に商品化](http://www.fdk.co.jp/whatsnew-j/release20141117-j.html)
 <hr>
