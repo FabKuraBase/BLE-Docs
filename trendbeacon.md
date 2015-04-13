@@ -10,6 +10,9 @@
 
 [Apple Watchが変える小売業の現場　大手量販店も対応アプリを相次ぎ導入](http://forbesjapan.com/translation/post_3395.html)
 <hr>
+2015/4/11<br>
+[今いる場所にあわせてガイドする、小田原城ガイドアプリが登場](http://news.4travel.jp/4423/)
+<hr>
 2015/4/8<br>
 [JAL、Apple Watchアプリ　出発時刻をカウントダウンBy Yusuke KOHASE](http://www.aviationwire.jp/archives/59091)
 <hr>
