@@ -49,11 +49,11 @@ https://www.bluegiga.com/en-US/support/
 ## 各モジュールのReferenceデザイン
 ### BLE113,112,121
 > BLE113 DATA SHEETより抜粋
-![](image/reference_ble113.png)
+![](image/refarence_ble113.png)
 > BLE112 DATA SHEETより抜粋
->![](image/reference_ble112.png)
+>![](image/refarence_ble112.png)
 > BLE121LR DATA SHEETより抜粋
->![](image/reference_ble121.png)
+>![](image/refarence_ble121.png)
 
 
 
