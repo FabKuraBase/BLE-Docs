@@ -30,6 +30,7 @@
 <hr>
 2014/12/21<br>
 [迷宮でもう迷わない！JR東京駅のiBeaconナビゲーションがスゴかった](http://weekly.ascii.jp/elem/000/000/285/285616/)
+<hr>
 2014/12/19<br>
 [GACKTのイベントでiBeacon！少額のクラウドファンディングが可能に](http://weekly.ascii.jp/elem/000/000/285/285063/)
 <hr>
