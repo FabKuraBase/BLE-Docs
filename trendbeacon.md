@@ -52,6 +52,9 @@
 2014/12/31<br>
 [傘を忘れる心配なし！iBeaconで傘の必要性を通知する「そらビーコン」](http://weekly.ascii.jp/elem/000/000/288/288749/)
 <hr>
+2014/12/27<br>
+[「iBeacon」と3Dプリンタを活用した新しいオムニチャネルにチャレンジ、アーバンリサーチ](https://netshop.impress.co.jp/node/941)
+<hr>
 2014/12/21<br>
 [迷宮でもう迷わない！JR東京駅のiBeaconナビゲーションがスゴかった](http://weekly.ascii.jp/elem/000/000/285/285616/)
 <hr>
