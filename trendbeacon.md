@@ -137,6 +137,10 @@
 2014/10/1<br>
 [iBeaconを活用したアプリで野外映画フェスを盛り上げる！](http://iphone-mania.jp/news-47677/)
 <hr>
+2014/9/25<br>
+[ISID、渋谷マークシティでiBeaconを活用したデジタルスタンプの試験運用](http://news.mynavi.jp/news/2014/09/25/558/)
+
+<hr>
 2014/9/24<br>
 [タクシー配車アプリ「Hailo」から新サービス、iBeaconで支払い可能に](http://techable.jp/archives/17981)
 <hr>
