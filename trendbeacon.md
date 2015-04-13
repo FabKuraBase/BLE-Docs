@@ -44,6 +44,10 @@
 
 [上京した瞬間に地元からサプライズのエール、KDDIのiBeacon活用ムービー](http://www.advertimes.com/20150326/article187465/)
 <hr>
+2015/3/25<br>
+[John Lewis launches JLAB 2015 after success with Localz iBeacon tech](http://www.techworld.com/news/startups/john-lewis-launches-jlab-2015-after-success-with-localz-ibeacon-tech-3605446/)
+
+<hr>
 2015/3/23<br>
 [大阪府下最大級のショッピングセンター「KUZUHA MALL」O2O型 公式アプリ(iPhone&Android)の提供開始](http://www.sankei.com/economy/news/150323/prl1503230033-n1.html)
 <hr>
