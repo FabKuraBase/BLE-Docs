@@ -142,6 +142,10 @@
 2014/11/2<br>
 [Barclays is testing iBeacon tech to improve in-branch accessibility](http://www.engadget.com/2014/12/02/barclays-trial-ibeacons/)
 <hr>
+2014/10/16<br>
+[McDonald’s & Piper Get Together for iBeacon Service in Restaurants
+](http://paymentweek.com/2014-12-26-mcdonalds-piper-get-together-for-ibeacon-service-in-restaurants-6330/)
+<hr>
 2014/10/22<br>
 [iBeaconがイタリアの歴史ある博物館を変革する](http://wired.jp/2014/10/22/ibeacon-makes-museum-chage/)
 <hr>
