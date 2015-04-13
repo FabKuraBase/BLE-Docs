@@ -134,6 +134,9 @@
 2014/9/24<br>
 [タクシー配車アプリ「Hailo」から新サービス、iBeaconで支払い可能に](http://techable.jp/archives/17981)
 <hr>
+2014/9/24<br>
+[iPad向け受付システムSmart at reception & eventがiBeacon対応](http://prtimes.jp/main/html/rd/p/000000126.000007357.html)
+<hr>
 2014/9/23<br>
 [お店で財布いらず！ 『GMO Pallet』のかざすだけiBeacon決済を体験してきた](http://weekly.ascii.jp/elem/000/000/259/259753/)
 <hr>
