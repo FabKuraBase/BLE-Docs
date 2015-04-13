@@ -81,3 +81,8 @@ Bluetoothモジュールを使っている場合でも、新しいハードウ�
 * [アリオン株式会社](http://www.allion.co.jp/about.html)
 * [太陽誘電](http://www.yuden.co.jp/jp/)
 * [Paltek](http://www.paltek.co.jp/)
+* 
+# 参考になる情報
+* [Understanding Bluetooth® Special Interest Group (SIG) Fees](http://na.industrial.panasonic.com/blog/understanding-bluetooth%C2%AE-special-interest-group-sig-fees)(Panasonic)
+
+
