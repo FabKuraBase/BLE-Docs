@@ -50,4 +50,8 @@ http://dialog-semiconductor.com/products/bluetooth-smart/smartbond-development-t
 >![](typeTZ_i2c_eeprom.png)
 [Bluetooth Low Energy Module Data Sheet](http://wireless.murata.com/RFM/data/lbca2hnzyz-711.pdf) P17
 
+# 参考になる情報
+* [PAN1740設計ガイド](http://www.mouser.jp/pdfdocs/PAN1740DesignGuideRev101.PDF)
+* 
+
 
