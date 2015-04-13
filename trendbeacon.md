@@ -37,6 +37,9 @@
 2015/3/12<br>
 [Bluetoothビーコンで屋内位置測定にも対応した「作業員安全支援ソリューション」](http://www.rbbtoday.com/article/2015/03/12/129343.html)
 <hr>
+2015/3/11<br>
+[「秋葉原限定次世代型スタンプラリー」始まる－「iBeacon」機能と連動](http://akiba.keizai.biz/headline/3480/)
+<hr>
 2015/2/25<br>
 [クレディセゾンがiBeacon導入、会員アプリと連動したO2O施策を開始へ](http://cloud.watch.impress.co.jp/docs/news/20150225_689953.html)
 <hr>
