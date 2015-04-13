@@ -136,6 +136,8 @@
 <hr>
 2014/9/10<br>
 [JAL×iBeacon×スマートウォッチ、羽田空港での実証実験の狙いと成果](http://it.impressbm.co.jp/articles/-/11686)
+
+[楽天がiBeacon活用、店の近くに来るとスマホにアンケート依頼](http://ascii.jp/elem/000/000/931/931593/)
 <hr>
 2014/9/9<br>
 [iBeaconでシャンパン！イーヴィレッジフェスでスマートオーダーを試してきた](http://weekly.ascii.jp/elem/000/000/254/254931/)
