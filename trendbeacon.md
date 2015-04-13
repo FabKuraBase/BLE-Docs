@@ -47,6 +47,9 @@
 2015/3/23<br>
 [大阪府下最大級のショッピングセンター「KUZUHA MALL」O2O型 公式アプリ(iPhone&Android)の提供開始](http://www.sankei.com/economy/news/150323/prl1503230033-n1.html)
 <hr>
+2015/3/20<br>
+[APPLE WATCH向け、各航空会社からのアプリが続々と登場？](http://spotry.me/2015/apple-watch-apps-airlines-delta-united-british-airways/)
+<hr>
 2015/3/18<br>
 [How Brands and Ad Agencies Can Leverage iBeacon Technology](http://www.psfk.com/2015/03/claim-it-mobile-platform-ibeacon-technology.html)
 
