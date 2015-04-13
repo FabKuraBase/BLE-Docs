@@ -182,6 +182,9 @@
 2014/9/3<br>
 [iBeaconをGUCCIで体験！VOGUEが主催するショッピングイベントに注目](http://weekly.ascii.jp/elem/000/000/253/253508/)
 <hr>
+2014/8/30<br>
+[業界初 iBeaconアプリ利用した住宅展示場イベント開催](http://prtimes.jp/main/html/rd/p/000000001.000011095.html)
+<hr>
 2014/8/25<br>
 [大丸東京で開催中のiBeaconクイズラリーが楽しい！QRコードでもOK｜Mac](http://weekly.ascii.jp/elem/000/000/249/249740/)
 <hr>
@@ -236,6 +239,8 @@
 <hr>
 2014/5/29<br>
 [GE、iBeaconを取り入れたLED照明システムをWalmartなどの小売店に展開](http://iphone-mania.jp/news-32458/)
+
+[今年も来たぞ、「メイドさんにたっちなう」――親睦を図るカギは「iBeacon」にアリ (1/2)](http://www.itmedia.co.jp/mobile/articles/1405/29/news125.html)
 <hr>
 2014/5/24<br>
 [iBeaconを電子工作で！ お風呂や植木用にもアレンジできる『MyBeacon Fun』](http://weekly.ascii.jp/elem/000/000/223/223556/)
@@ -254,7 +259,9 @@
 [「iBeacon」対応サービス、地域活性プロジェクトにも　淡路島・洲本市のPRに活用](http://bizmakoto.jp/makoto/articles/1405/08/news096.html)
 
 [全米小売チェーンのWalgreensとWalmartがアップルのiBeaconマーケティングを導入](http://iphone-mania.jp/news-29675/)
-
+<hr>
+2014/4/17<br>
+[日本写真印刷、「iBeaconの基本」ガイドブックを配布](http://news.mynavi.jp/news/2014/04/17/115/)
 <hr>
 2014/3/20<br>
 [今夜は品川で火鍋とiBeacon体験、オーダーはすべてiPhoneでオッケー｜Mac](http://weekly.ascii.jp/elem/000/000/209/209556/)
