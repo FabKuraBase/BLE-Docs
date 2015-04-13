@@ -39,7 +39,7 @@ http://dialog-semiconductor.com/products/bluetooth-smart/smartbond-development-t
 
 ### TypeTZ  Block diagram
 
-![](TypeTZ_block.png)
+![](typeTZ_block.png)
 
 ### PAN1740 Block diagram
 
