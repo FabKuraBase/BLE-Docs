@@ -142,6 +142,9 @@
 2014/6/25<br>
 [もう並ぶ必要ナシ！六本木の『the 3rd Burger』が最新iBeaconシステム導入](http://weekly.ascii.jp/elem/000/000/232/232144/)
 <hr>
+2014/6/23<br>
+[カフェの混雑が手元でわかる時代に!?iBeaconで着席データを送るスマート座布団](http://weekly.ascii.jp/elem/000/000/231/231390/)
+<hr>
 2014/6/22<br>
 [AOKIがオムニチャネルで顧客管理、iBeacon導入テストも](http://ascii.jp/elem/000/000/906/906785/)
 <hr>
