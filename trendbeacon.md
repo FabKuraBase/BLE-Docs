@@ -22,6 +22,10 @@
 2015/4/7<br>
 [奈良県飛鳥地方で、タブレット搭載超小型モビリティのレンタルサービス「MICHIMO」が4月17日にグランドオープン](http://www.gapsis.jp/2015/04/michimo-grandopen.html)
 <hr>
+2015/4/3<br>
+[スマートフォンアプリ「野球場NAVI」、
+京セラドーム大阪での売り子さん呼び出し対応エリア拡大へ](http://www.watch.impress.co.jp/headline/docs/kyodonews/domestic/20150403_696177.html)
+<hr>
 2015/4/2<br>
 [DTJax App Aimed At Bringing Jacksonville Skyline To Life](http://news.wjct.org/post/dtjax-app-aimed-bringing-jacksonville-skyline-life)
 <hr>
