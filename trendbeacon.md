@@ -121,6 +121,9 @@
 2014/10/22<br>
 [iBeaconがイタリアの歴史ある博物館を変革する](http://wired.jp/2014/10/22/ibeacon-makes-museum-chage/)
 <hr>
+2014/10/16<br>
+[「Tポイントアプリ」をリニューアル、iBeacon等を活用のクーポンも配信（CCC）](http://www.paymentnavi.com/cardnavi/43282.html)
+<hr>
 2014/10/14<br>
 [JAL、搭乗便情報をiBeaconでプッシュ通知、全国13空港で実証実験](http://cloud.watch.impress.co.jp/docs/news/20141014_670951.html)
 
