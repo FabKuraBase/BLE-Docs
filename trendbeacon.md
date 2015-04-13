@@ -3,6 +3,9 @@
 <hr>
 ## iBeacon
 <hr>
+2015/4/16<br>
+[日本交通や博報堂DYMPらがiBeaconを活用した情報配信の実証実験](http://itpro.nikkeibp.co.jp/atcl/news/15/040601194/)
+<hr>
  2015/3/26<br>
 [富士通研究所、曲げ伸ばしできるBluetoothビーコン開発](http://www.nikkei.com/article/DGXMZO84833640V20C15A3000000/)
 <hr>
