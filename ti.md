@@ -27,6 +27,11 @@ https://www.bluegiga.com/en-US/support/
 | [DKBLE](https://www.bluegiga.com/en-US/products/ble113-bluetooth-smart-module/#devkits) | Bluegiga|
 
 ## BLE113,BLE112,BLE121
-![](image/ble113_block.png)
+> BLE113 DATA SHEETより抜粋
+![](image/block_ble113.png)
+> BLE112 DATA SHEETより抜粋
+>![](image/block_ble112.png)
+> BLE121LR DATA SHEETより抜粋
+>![](image/block_ble121.png)
 
 
