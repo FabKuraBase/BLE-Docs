@@ -21,6 +21,9 @@
 [メディアアクティブ
 ベンチャーキャピタル最大手・ジャフコを引受先として 第三者割当増資を実施](https://prw.kyodonews.jp/opn/release/201503288934/)
 <hr>
+2015/3/27<br>
+[東京都現代美術館公式アプリ「MOTガイド‐ガブリエル・オロスコ展‐」のサービスを開始](http://www.the-miyanichi.co.jp/special/prwire/detail.php?id=201503278927)
+<hr>
  2015/3/26<br>
 [富士通研究所、曲げ伸ばしできるBluetoothビーコン開発](http://www.nikkei.com/article/DGXMZO84833640V20C15A3000000/)
 
