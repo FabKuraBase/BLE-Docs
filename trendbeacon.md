@@ -42,6 +42,9 @@
 <hr>
 2015/1/3<br>
 [米国スーパー、Apple Watch向けにiBeaconを活用した初のプロモーション](http://iphone-mania.jp/news-58852/)
+
+[アップル自社製のiBeacon端末は、当初は開発者向けにリリースか](http://iphone-mania.jp/news-57628/)
+
 <hr>
 2014/12/31<br>
 [傘を忘れる心配なし！iBeaconで傘の必要性を通知する「そらビーコン」](http://weekly.ascii.jp/elem/000/000/288/288749/)
