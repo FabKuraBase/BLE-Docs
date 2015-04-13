@@ -43,7 +43,7 @@ UM-B-025](http://www.cdiweb.com/datasheets/iwatt/DA14580DEVKT-BUserGuide.pdf)
 ![](typeTZ_SPI_flash.png)
 
 ### TypeTZ I2C EEPROMでのOTA対応
-![](typeYZ_i2c_eeprom.png)
+![](typeTZ_i2c_eeprom.png)
 
 
 
