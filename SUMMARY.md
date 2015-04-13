@@ -9,6 +9,7 @@
 * [Nordic系BLEモジュール](nordic.md)
 * [BLE動向](trend.md)
 * [BLEガジェット](gadget.md)
+* [iBeacon事例](ibreacontest.md)
 * [iBeacon動向](trendbeacon.md)
 * [マーケティング](marketing.md)
 * [クラウドファンディング](funding.md)
