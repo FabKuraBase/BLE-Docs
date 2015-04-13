@@ -27,10 +27,9 @@ http://dialog-semiconductor.com/products/bluetooth-smart/smartbond-development-t
 | [the Jlink software & documentation pack for Windows](https://www.segger.com/jlink-software.html)|segger|
 
 ## 開発に必要なドキュメント
+| チップ名 | メーカー |
+| [TypeTZ](http://www.cdiweb.com/datasheets/iwatt/DA14580DEVKT-BUserGuide.pdf) | murata |
 
-[User Manual
-DA14580 Bluetooth® Smart Development Kit – Basic
-UM-B-025](http://www.cdiweb.com/datasheets/iwatt/DA14580DEVKT-BUserGuide.pdf)
 
 ## DA14580搭載モジュール
 
