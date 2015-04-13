@@ -102,6 +102,10 @@
 2014/8/17<br>
 [日本初のiBeacon対応の勤怠アプリ「シュキーン」](http://iphone.ascii.jp/2014/08/17/9349948882/)
 <hr>
+2014/7/24<br>
+[知多歴史民俗博物館が初のiPhone／iBeaconを活用
+公立博物館としては国内初のiBeacon応用音声ガイドが運用開始](http://ascii.jp/elem/000/000/918/918335/)
+<hr>
 2014/6/25<br>
 [もう並ぶ必要ナシ！六本木の『the 3rd Burger』が最新iBeaconシステム導入](http://weekly.ascii.jp/elem/000/000/232/232144/)
 
