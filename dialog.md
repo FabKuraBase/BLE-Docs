@@ -37,13 +37,13 @@ UM-B-025](http://www.cdiweb.com/datasheets/iwatt/DA14580DEVKT-BUserGuide.pdf)
 [TypeTZ Datasheet](http://wireless.murata.com/RFM/data/lbca2hnzyz-711.pdf)
 
 ### TypeTZメモリなしでのOTA対応
-![](image/da14580_devboard.jpg)
+![](typeTZ_internal_ota.png)
 
 ### TypeTZ SPI FlashメモリでのOTA対応
-![](image/da14580_devboard.jpg)
+![](typeTZ_SPI_flash.png)
 
 ### TypeTZ I2C EEPROMでのOTA対応
-![](image/da14580_devboard.jpg)
+![](typeYZ_i2c_eeprom.png)
 
 
 
