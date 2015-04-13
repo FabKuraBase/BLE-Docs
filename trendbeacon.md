@@ -72,6 +72,9 @@
 2014/12/17<br>
 [星野リゾートでiBeacon！スタッフの導線解析のための実証実験がスタート](http://weekly.ascii.jp/elem/000/000/284/284320/)
 <hr>
+2014/11/25<br>
+[マルシェ、「酔虎伝」など居酒屋全店にiBeacon導入、O2Oを実現](http://cloud.watch.impress.co.jp/docs/news/20141125_677426.html)
+<hr>
 2014/11/20<br>
 [紀伊國屋書店 武蔵小杉店でiBeacon対応アプリを使ったO2Oマーケティング施策](http://ebook.itmedia.co.jp/ebook/articles/1411/21/news041.html)
 <hr>
