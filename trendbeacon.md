@@ -145,6 +145,10 @@
 2014/9/9<br>
 [iBeaconでシャンパン！イーヴィレッジフェスでスマートオーダーを試してきた](http://weekly.ascii.jp/elem/000/000/254/254931/)
 <hr>
+2014/9/5<br>
+[「東京ガールズコレクション」で、アップルiBeaconを利用した情報配信
+「東京ガールズコレクション」で、アップルiBeaconを利用した情報配信](http://www.rbbtoday.com/article/2014/09/05/123125.html)
+<hr>
 2014/9/3<br>
 [iBeaconをGUCCIで体験！VOGUEが主催するショッピングイベントに注目](http://weekly.ascii.jp/elem/000/000/253/253508/)
 <hr>
