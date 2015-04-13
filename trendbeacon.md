@@ -6,6 +6,9 @@
 2015/4/16<br>
 [日本交通や博報堂DYMPらがiBeaconを活用した情報配信の実証実験](http://itpro.nikkeibp.co.jp/atcl/news/15/040601194/)
 <hr>
+2015/4/7<br>
+[奈良県飛鳥地方で、タブレット搭載超小型モビリティのレンタルサービス「MICHIMO」が4月17日にグランドオープン](http://www.gapsis.jp/2015/04/michimo-grandopen.html)
+<hr>
  2015/3/26<br>
 [富士通研究所、曲げ伸ばしできるBluetoothビーコン開発](http://www.nikkei.com/article/DGXMZO84833640V20C15A3000000/)
 
@@ -33,6 +36,9 @@
 <hr>
 2015/2/4<br>
 [iBeaconはいかにしてデバイスを検知するか](http://it.impressbm.co.jp/articles/-/11881)
+<hr>
+2015/1/20<br>
+[人事・給与・勤怠ソフト「MosP」と連携するiBeacon打刻ソリューション](http://cloud.watch.impress.co.jp/docs/news/20150120_684506.html)
 <hr>
 2015/1/3<br>
 [米国スーパー、Apple Watch向けにiBeaconを活用した初のプロモーション](http://iphone-mania.jp/news-58852/)
@@ -69,6 +75,9 @@
 <hr>
 2014/9/10<br>
 [JAL×iBeacon×スマートウォッチ、羽田空港での実証実験の狙いと成果](http://it.impressbm.co.jp/articles/-/11686)
+<hr>
+2014/8/25<br>
+[大丸東京で開催中のiBeaconクイズラリーが楽しい！QRコードでもOK｜Mac](http://weekly.ascii.jp/elem/000/000/249/249740/)
 <hr>
 2014/8/24<br>
 [京セラドーム×iBeaconなら好きな女子と好きなビールがすぐに手元に！｜Mac](http://weekly.ascii.jp/elem/000/000/249/249482/)
