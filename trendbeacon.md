@@ -213,6 +213,9 @@
 2014/5/29<br>
 [GE、iBeaconを取り入れたLED照明システムをWalmartなどの小売店に展開](http://iphone-mania.jp/news-32458/)
 <hr>
+2014/5/24<br>
+[iBeaconを電子工作で！ お風呂や植木用にもアレンジできる『MyBeacon Fun』](http://weekly.ascii.jp/elem/000/000/223/223556/)
+<hr>
 2014/5/19<br>
 [来店ポイントアプリ『ショッぷらっと』がiBeaconに対応！都内12店舗で体験できる](http://weekly.ascii.jp/elem/000/000/222/222455/)
 
