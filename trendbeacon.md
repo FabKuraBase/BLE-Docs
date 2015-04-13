@@ -102,6 +102,9 @@
 2014/10/7<br>
 [街中の公衆電話に誰がいつどこにいたかを記録できるBluetoothビーコンが大量に仕掛けられていたことが判明](http://gigazine.net/news/20141007-phone-booth-hidden/)<br>
 <hr>
+2014/10/4<br>
+[ヤマダ電機、LABI吉祥寺をオープン iBeaconを導入しキャンペーン実施](http://www.sbbit.jp/article/cont1/28722)<br>
+<hr>
 2014/10/2<br>
 [経堂農大通り商店街がiBeaconで街歩きを楽しく、36カ国語で情報発信](http://cloud.watch.impress.co.jp/docs/news/20141002_669355.html)
 <hr>
