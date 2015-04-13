@@ -219,6 +219,10 @@
 2014/8/8<br>
 [災害時や徘徊に対応するiBeacon製品「レスキュービーコン」](http://ascii.jp/elem/000/000/922/922689/)
 <hr>
+2014/8/14<br>
+[映画
+映画館に隠れた猿がクーポンを配ってる!?iBeaconを使った新たなキャンペーンに驚き！](http://news.walkerplus.com/article/49492/)
+<hr>
 2014/7/24<br>
 [知多歴史民俗博物館が初のiPhone／iBeaconを活用
 公立博物館としては国内初のiBeacon応用音声ガイドが運用開始](http://ascii.jp/elem/000/000/918/918335/)
