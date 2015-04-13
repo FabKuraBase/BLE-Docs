@@ -192,6 +192,9 @@
 <hr>
 2014/5/19<br>
 [来店ポイントアプリ『ショッぷらっと』がiBeaconに対応！都内12店舗で体験できる](http://weekly.ascii.jp/elem/000/000/222/222455/)
+
+[関西テレビがiBeaconを利用したアプリ、バラエティー番組で活用](http://itpro.nikkeibp.co.jp/article/NEWS/20140519/557763/)
+
 <hr>
 2014/5/8<br>
 [映画館へ「iBeacon」使う新サービス、20世紀フォックス映画が導入](http://bizmakoto.jp/makoto/articles/1405/08/news088.html)
