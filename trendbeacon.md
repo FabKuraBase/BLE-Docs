@@ -63,6 +63,8 @@
 <hr>
 2014/12/18<br>
 [徘徊する認知症高齢者をiBeaconで捜索、愛知・大府市で社会実験](http://cloud.watch.impress.co.jp/docs/news/20141128_677968.html)
+
+[マクドナルド、米ジョージア州の店舗でiBeaconを試験的に導入](http://iphone-mania.jp/news-56219/)
 <hr>
 2014/12/17<br>
 [星野リゾートでiBeacon！スタッフの導線解析のための実証実験がスタート](http://weekly.ascii.jp/elem/000/000/284/284320/)
@@ -78,6 +80,10 @@
 <hr>
 2014/10/22<br>
 [iBeaconがイタリアの歴史ある博物館を変革する](http://wired.jp/2014/10/22/ibeacon-makes-museum-chage/)
+<hr>
+2014/10/14<br>
+[JAL、搭乗便情報をiBeaconでプッシュ通知、全国13空港で実証実験](http://cloud.watch.impress.co.jp/docs/news/20141014_670951.html)
+
 <hr>
 2014/10/7<br>
 [街中の公衆電話に誰がいつどこにいたかを記録できるBluetoothビーコンが大量に仕掛けられていたことが判明](http://gigazine.net/news/20141007-phone-booth-hidden/)<br>
