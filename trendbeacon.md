@@ -76,6 +76,9 @@
 2014/10/7<br>
 [街中の公衆電話に誰がいつどこにいたかを記録できるBluetoothビーコンが大量に仕掛けられていたことが判明](http://gigazine.net/news/20141007-phone-booth-hidden/)<br>
 <hr>
+2014/10/2<br>
+[経堂農大通り商店街がiBeaconで街歩きを楽しく、36カ国語で情報発信](http://cloud.watch.impress.co.jp/docs/news/20141002_669355.html)
+<hr>
 2014/9/23<br>
 [お店で財布いらず！ 『GMO Pallet』のかざすだけiBeacon決済を体験してきた](http://weekly.ascii.jp/elem/000/000/259/259753/)
 <hr>
@@ -92,6 +95,9 @@
 <hr>
 2014/8/18<br>
 [八景島シーパラダイス、iBeaconで水族館の情報配信、40カ所にビーコン設置](http://internet.watch.impress.co.jp/docs/news/20140818_662402.html)
+<hr>
+2014/8/17<br>
+[日本初のiBeacon対応の勤怠アプリ「シュキーン」](http://iphone.ascii.jp/2014/08/17/9349948882/)
 <hr>
 2014/6/25<br>
 [もう並ぶ必要ナシ！六本木の『the 3rd Burger』が最新iBeaconシステム導入](http://weekly.ascii.jp/elem/000/000/232/232144/)
