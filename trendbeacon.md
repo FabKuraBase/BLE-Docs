@@ -64,6 +64,9 @@
 2015/2/9<br>
 [「買う時、選ぶ時」に割チケが届く　iPhone×クノールの新・iBeacon活用施策 (1/2)](http://www.itmedia.co.jp/enterprise/articles/1502/19/news108.html)
 <hr>
+2015/2/6<br>
+[How a Swedish soup experiment points to a better use of iBeacons](http://venturebeat.com/2015/02/06/heres-how-a-soup-experiment-in-sweden-points-the-way-to-a-more-sophisticated-use-of-ibeacons/)
+<hr>
 2015/2/4<br>
 [iBeaconはいかにしてデバイスを検知するか](http://it.impressbm.co.jp/articles/-/11881)
 
