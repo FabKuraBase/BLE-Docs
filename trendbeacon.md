@@ -10,6 +10,9 @@
 [富士通研究所、曲げ伸ばしできるBluetoothビーコン開発](http://www.nikkei.com/article/DGXMZO84833640V20C15A3000000/)
 
 [上京した瞬間に地元からサプライズのエール、KDDIのiBeacon活用ムービー](http://www.advertimes.com/20150326/article187465/)
+<hr>
+2015/3/18<br>
+[How Brands and Ad Agencies Can Leverage iBeacon Technology](http://www.psfk.com/2015/03/claim-it-mobile-platform-ibeacon-technology.html)
 
 <hr>
 2015/3/17<br>
