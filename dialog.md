@@ -37,13 +37,15 @@ UM-B-025](http://www.cdiweb.com/datasheets/iwatt/DA14580DEVKT-BUserGuide.pdf)
 [TypeTZ Datasheet](http://wireless.murata.com/RFM/data/lbca2hnzyz-711.pdf)
 
 ### TypeTZメモリなしでのOTA対応
-![](typeTZ_internal_ota.png)
+> ![](typeTZ_internal_ota.png)
+[Bluetooth Low Energy Module Data Sheet](http://wireless.murata.com/RFM/data/lbca2hnzyz-711.pdf) P15
 
 ### TypeTZ SPI FlashメモリでのOTA対応
-![](typeTZ_SPI_flash.png)
+>![](typeTZ_SPI_flash.png)
+[Bluetooth Low Energy Module Data Sheet](http://wireless.murata.com/RFM/data/lbca2hnzyz-711.pdf) P16
 
 ### TypeTZ I2C EEPROMでのOTA対応
-![](typeTZ_i2c_eeprom.png)
-
+>![](typeTZ_i2c_eeprom.png)
+[Bluetooth Low Energy Module Data Sheet](http://wireless.murata.com/RFM/data/lbca2hnzyz-711.pdf) P17
 
 
