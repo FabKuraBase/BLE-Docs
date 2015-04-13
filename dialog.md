@@ -31,3 +31,7 @@ http://dialog-semiconductor.com/products/bluetooth-smart/smartbond-development-t
 [User Manual
 DA14580 Bluetooth® Smart Development Kit – Basic
 UM-B-025](http://www.cdiweb.com/datasheets/iwatt/DA14580DEVKT-BUserGuide.pdf)
+
+## Dialog社奨励回路
+
+
