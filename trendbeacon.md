@@ -278,6 +278,9 @@
 2014/4/17<br>
 [日本写真印刷、「iBeaconの基本」ガイドブックを配布](http://news.mynavi.jp/news/2014/04/17/115/)
 <hr>
+2014/4/16<br>
+[iBeacon対応、突出6mmの小型ビーコン端末「Beacon USB」](http://ascii.jp/elem/000/000/885/885314/)
+<hr>
 2014/3/20<br>
 [今夜は品川で火鍋とiBeacon体験、オーダーはすべてiPhoneでオッケー｜Mac](http://weekly.ascii.jp/elem/000/000/209/209556/)
 <hr>
