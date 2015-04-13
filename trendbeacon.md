@@ -28,6 +28,9 @@
 2015/2/4<br>
 [iBeaconはいかにしてデバイスを検知するか](http://it.impressbm.co.jp/articles/-/11881)
 <hr>
+2015/1/3<br>
+[米国スーパー、Apple Watch向けにiBeaconを活用した初のプロモーション](http://iphone-mania.jp/news-58852/)
+<hr>
 2014/12/21<br>
 [迷宮でもう迷わない！JR東京駅のiBeaconナビゲーションがスゴかった](http://weekly.ascii.jp/elem/000/000/285/285616/)
 <hr>
