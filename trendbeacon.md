@@ -25,6 +25,9 @@
 2015/4/2<br>
 [DTJax App Aimed At Bringing Jacksonville Skyline To Life](http://news.wjct.org/post/dtjax-app-aimed-bringing-jacksonville-skyline-life)
 <hr>
+2015/4/1<br>
+[コカ・コーラとスターウッドに学ぶ、ユニークな顧客体験でブランド価値を向上させる方法](http://www.sbbit.jp/article/cont1/29502)
+<hr>
 2015/3/30<br>
 [人気ピザチェーンが全国店舗で事前オーダー・決済アプリを導入](http://www.paymentnavi.com/paymentnews/47134.html)
 
