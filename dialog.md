@@ -32,6 +32,14 @@ http://dialog-semiconductor.com/products/bluetooth-smart/smartbond-development-t
 DA14580 Bluetooth® Smart Development Kit – Basic
 UM-B-025](http://www.cdiweb.com/datasheets/iwatt/DA14580DEVKT-BUserGuide.pdf)
 
-## Dialog社奨励回路
+## DA14580搭載モジュール
+
+[TypeTZ Datasheet](http://wireless.murata.com/RFM/data/lbca2hnzyz-711.pdf)
+
+### TypeTZメモリなしでのOTA対応
+
+### TypeTZ SPI FlashメモリでのOTA対応
+
+### TypeTZ I2C EEPROMでのOTA対応
 
 
