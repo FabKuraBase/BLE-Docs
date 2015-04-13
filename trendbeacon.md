@@ -28,6 +28,9 @@
 2015/4/1<br>
 [コカ・コーラとスターウッドに学ぶ、ユニークな顧客体験でブランド価値を向上させる方法](http://www.sbbit.jp/article/cont1/29502)
 <hr>
+2015/3/31<br>
+[PassKit Introduces Dual-Broadcasting GemTot USB Beacons](http://www.prweb.com/releases/gemtot-bluetooth-beacons/proximity-marketing/prweb12614142.htm)
+<hr>
 2015/3/30<br>
 [人気ピザチェーンが全国店舗で事前オーダー・決済アプリを導入](http://www.paymentnavi.com/paymentnews/47134.html)
 
@@ -43,6 +46,9 @@
 [富士通研究所、曲げ伸ばしできるBluetoothビーコン開発](http://www.nikkei.com/article/DGXMZO84833640V20C15A3000000/)
 
 [上京した瞬間に地元からサプライズのエール、KDDIのiBeacon活用ムービー](http://www.advertimes.com/20150326/article187465/)
+
+[Acoustiguide Designs Beacon-integrated Visitor Experience for Canadian Museum for Human Rights to Deliver Accessibility](http://www.prweb.com/releases/2015/03/prweb12604971.htm)
+
 <hr>
 2015/3/25<br>
 [John Lewis launches JLAB 2015 after success with Localz iBeacon tech](http://www.techworld.com/news/startups/john-lewis-launches-jlab-2015-after-success-with-localz-ibeacon-tech-3605446/)
