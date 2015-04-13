@@ -33,6 +33,8 @@
 
 [メディアアクティブ
 ベンチャーキャピタル最大手・ジャフコを引受先として 第三者割当増資を実施](https://prw.kyodonews.jp/opn/release/201503288934/)
+
+[東京都現代美術館「ガブリエル・オロスコ展」の鑑賞体験を深める無料アプリ](http://news.mynavi.jp/news/2015/03/30/146/)
 <hr>
 2015/3/27<br>
 [東京都現代美術館公式アプリ「MOTガイド‐ガブリエル・オロスコ展‐」のサービスを開始](http://www.the-miyanichi.co.jp/special/prwire/detail.php?id=201503278927)
