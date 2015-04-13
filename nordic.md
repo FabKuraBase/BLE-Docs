@@ -26,11 +26,10 @@ ARM® Cortex™ M0
 | [MBH7BLZ02](http://www.fcl.fujitsu.com/downloads/services/wireless-modules/mbh7blz01.pdf) | NRF51822 | 4.1 | [富士通コンポーンエント](http://www.fcl.fujitsu.com/) |[済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=007&TC=N&PK=1&FN=363ul&SN=%94F%8F%D8&LN=7&R1=*****&R2=*****) | 4dBm|-88dBm|12mA|5uA|
 |[BVMCN5103](http://www.braveridge.com/Specification%20Documents/BVMCN5103-BK%20Spec%20sheet%20Ver1.0J.pdf)| NRF51822 | 4.1 | [Braveridge](http://www.braveridge.com/) |[済](http://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=007&TC=N&PK=1&FN=370ul&SN=%94%46%8F%D8&LN=3&R1=*****&R2=*****)|+4dBm||||
 |[BlueMod+S](http://www.stollmann.de/en/modules/bluetooth-modules-21-and-40/bluemod-s.html)|NRF51822|4.1|[stollmann](http://www.stollmann.de/en/modules/bluetooth-modules-21-and-40/bluemod-s.html)|未|+4dBm|-88dBm||4uA|
-* [MDBT40](#MDBT40)
-* [BL600](#BL600)
-
 
 ## MDBT40
+### メーカー
+* Raytac(台湾)
 
 ### 特徴
 * nRF51822にAT7020のチップアンテナを搭載したモデル
@@ -48,10 +47,9 @@ Nordicのページで開発者登録が必要。
 
 nRF51822向けにはS100というBLEスタックが用意されている。
 
-
-
-
 ## BL600
+### メーカー
+* Liard(米国)
 
 ### 特徴
 * nRF51822上に独自FWが搭載されている
