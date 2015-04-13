@@ -23,7 +23,7 @@
 [Bluetoothビーコンで屋内位置測定にも対応した「作業員安全支援ソリューション」](http://www.rbbtoday.com/article/2015/03/12/129343.html)
 <hr>
 2015/2/9<br>
-[「買う時、選ぶ時」に割チケが届く　iPhone×クノールの新・iBeacon活用施策 (1/2)](http://www.itmedia.co.jp/enterprise/articles/1502/19/news108.html
+[「買う時、選ぶ時」に割チケが届く　iPhone×クノールの新・iBeacon活用施策 (1/2)](http://www.itmedia.co.jp/enterprise/articles/1502/19/news108.html)
 <hr>
 2015/2/4<br>
 [iBeaconはいかにしてデバイスを検知するか](http://it.impressbm.co.jp/articles/-/11881)
