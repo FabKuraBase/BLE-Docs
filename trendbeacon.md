@@ -22,6 +22,9 @@
 2015/3/12<br>
 [Bluetoothビーコンで屋内位置測定にも対応した「作業員安全支援ソリューション」](http://www.rbbtoday.com/article/2015/03/12/129343.html)
 <hr>
+2015/2/13<br>
+[江ノ島電鉄× iBeacon 『江ノ電なび』アプリ公開のお知らせ](http://prtimes.jp/main/html/rd/p/000000003.000011095.html)
+<hr>
 2015/2/9<br>
 [「買う時、選ぶ時」に割チケが届く　iPhone×クノールの新・iBeacon活用施策 (1/2)](http://www.itmedia.co.jp/enterprise/articles/1502/19/news108.html)
 <hr>
@@ -30,6 +33,9 @@
 <hr>
 2015/1/3<br>
 [米国スーパー、Apple Watch向けにiBeaconを活用した初のプロモーション](http://iphone-mania.jp/news-58852/)
+<hr>
+2014/12/31<br>
+[傘を忘れる心配なし！iBeaconで傘の必要性を通知する「そらビーコン」](http://weekly.ascii.jp/elem/000/000/288/288749/)
 <hr>
 2014/12/21<br>
 [迷宮でもう迷わない！JR東京駅のiBeaconナビゲーションがスゴかった](http://weekly.ascii.jp/elem/000/000/285/285616/)
