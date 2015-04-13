@@ -17,6 +17,9 @@
 <hr>
 2015/3/30<br>
 [人気ピザチェーンが全国店舗で事前オーダー・決済アプリを導入](http://www.paymentnavi.com/paymentnews/47134.html)
+
+[メディアアクティブ
+ベンチャーキャピタル最大手・ジャフコを引受先として 第三者割当増資を実施](https://prw.kyodonews.jp/opn/release/201503288934/)
 <hr>
  2015/3/26<br>
 [富士通研究所、曲げ伸ばしできるBluetoothビーコン開発](http://www.nikkei.com/article/DGXMZO84833640V20C15A3000000/)
@@ -173,6 +176,10 @@
 <hr>
 2014/5/19<br>
 [来店ポイントアプリ『ショッぷらっと』がiBeaconに対応！都内12店舗で体験できる](http://weekly.ascii.jp/elem/000/000/222/222455/)
+<hr>
+2014/5/8<br>
+[映画館へ「iBeacon」使う新サービス、20世紀フォックス映画が導入](http://bizmakoto.jp/makoto/articles/1405/08/news088.html)
+
 <hr>
 2014/3/20<br>
 [今夜は品川で火鍋とiBeacon体験、オーダーはすべてiPhoneでオッケー｜Mac](http://weekly.ascii.jp/elem/000/000/209/209556/)
