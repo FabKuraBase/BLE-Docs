@@ -15,6 +15,14 @@ ARM® Cortex™ M0
 
 >![](image/reference_nrf51822_dd.png)
 
+## 開発環境
+
+nRF51 Software Development Kit 8.0.0
+http://developer.nordicsemi.com/nRF51_SDK/nRF51_SDK_v8.x.x/doc/8.0.0/
+
+
+
+
 ## MDBT40
 
 ### 特徴
@@ -32,7 +40,6 @@ Nordicのページで開発者登録が必要。
 ### 書き込み方法
 
 nRF51822向けにはS100というBLEスタックが用意されている。
-
 
 
 
