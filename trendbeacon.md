@@ -260,6 +260,9 @@
 
 [全米小売チェーンのWalgreensとWalmartがアップルのiBeaconマーケティングを導入](http://iphone-mania.jp/news-29675/)
 <hr>
+2014/5/1<br>
+[ヴァージンアトランティック航空がヒースロー空港でアップルのiBeaconとPassbookを導入、サービスに活用](http://iphone-mania.jp/news-29027/)
+<hr>
 2014/4/17<br>
 [日本写真印刷、「iBeaconの基本」ガイドブックを配布](http://news.mynavi.jp/news/2014/04/17/115/)
 <hr>
