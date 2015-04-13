@@ -27,13 +27,16 @@ http://dialog-semiconductor.com/products/bluetooth-smart/smartbond-development-t
 | [the Jlink software & documentation pack for Windows](https://www.segger.com/jlink-software.html)|segger|
 
 ## 開発に必要なドキュメント
-| チップ名 | メーカー |
-| [TypeTZ](http://www.cdiweb.com/datasheets/iwatt/DA14580DEVKT-BUserGuide.pdf) | murata |
+
+[DA14580DEVKT-BUserGuide](http://www.cdiweb.com/datasheets/iwatt/DA14580DEVKT-BUserGuide.pdf) 
 
 
 ## DA14580搭載モジュール
+| チップ名 | メーカー |
+|--|--|
+|[TypeTZ Datasheet](http://wireless.murata.com/RFM/data/lbca2hnzyz-711.pdf)|murata|
+|[PAN1740]()|Panasonic|
 
-[TypeTZ Datasheet](http://wireless.murata.com/RFM/data/lbca2hnzyz-711.pdf)
 
 ### TypeTZメモリなしでのOTA対応
 > ![](typeTZ_internal_ota.png)
