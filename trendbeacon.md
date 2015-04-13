@@ -115,6 +115,9 @@
 2014/11/14<br>
 [京都市営バスがiBeaconで通知、停留所の画面に「まもなく到着」](http://cloud.watch.impress.co.jp/docs/news/20141104_674245.html)
 <hr>
+2014/11/10<br>
+[星野リゾートも注目 地方出身のiBeacon企業](http://ascii.jp/elem/000/000/950/950567/)
+<hr>
 2014/11/7<br>
 [立ち呑みBarでのiBeaconを活用したアプリ導入事例！](http://iphone-mania.jp/news-51858/)
 <hr>
