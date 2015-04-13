@@ -28,7 +28,6 @@ https://www.bluegiga.com/en-US/support/
 
 ## CC254X搭載モジュール
 
-BLE113,BLE112,BLE121
 
 ## CC254X搭載モジュールのBlock diagram
 > BLE113 DATA SHEETより抜粋
