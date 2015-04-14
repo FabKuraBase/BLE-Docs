@@ -14,5 +14,6 @@
 |[Model X](https://roximity.com/model-x/)|[ROXIMITY](http://roximity.com/)|||単3 3本|
 |[RadBeacon](http://store.radiusnetworks.com/collections/all/products/radbeacon-x2)|[RadiusNetwork](http://www.radiusnetworks.com/)||||
 |[RecoBeacon](http://reco2.me/)|[Reco](http://reco2.me/)||||
-|[RedBear](http://redbearlab.com/nrf51822/)|[RedBear](http://redbearlab.com/)||||
+|[RedBear](http://redbearlab.com/nrf51822/)|[RedBear](http://redbearlab.com/)|||||
+
 
