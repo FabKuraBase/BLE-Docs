@@ -17,3 +17,6 @@
 |[RedBear](http://redbearlab.com/nrf51822/)|[RedBear](http://redbearlab.com/)|||||
 
 
+# 参考になる情報
+* http://www.aislelabs.com/reports/beacon-guide/
+
