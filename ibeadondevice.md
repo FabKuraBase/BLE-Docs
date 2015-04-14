@@ -15,7 +15,8 @@
 |[RadBeacon](http://store.radiusnetworks.com/collections/all/products/radbeacon-x2)|[RadiusNetwork](http://www.radiusnetworks.com/)||||
 |[RecoBeacon](http://reco2.me/)|[Reco](http://reco2.me/)||||
 |[RedBear](http://redbearlab.com/nrf51822/)|[RedBear](http://redbearlab.com/)||||
-|[tod](http://www.discoveraero.com/shop/)|[AERO](http://www.discoveraero.com/)|||||
+|[tod](http://www.discoveraero.com/shop/)|[AERO](http://www.discoveraero.com/)||||
+|[MyBeacon](http://www.aplix.co.jp/?page_id=8620)|[Aplix](http://www.aplix.co.jp/)|||||
 
 # 参考になる情報
 * http://www.aislelabs.com/reports/beacon-guide/
