@@ -1,6 +1,6 @@
 # Summary
 
-* [introduction](README.md)
+* [はじめに](README.md)
 * [BLEチップ](chip.md)
 * [BLEモジュール](module.md)
 * [BLEパケットスニファ](packet.md)
