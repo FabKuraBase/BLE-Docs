@@ -5,6 +5,9 @@
 2015/4/15<br>
 [Cypress 無線規格認証取得済みの小型PRoC BLEモジュール製品を発表](http://news.biglobe.ne.jp/it/0415/mnn_150415_2950999226.html)
 <hr>
+2015/4/14<br>
+[富士通コンポーネント、セントラル対応のBluetooth Smartモジュールを開発](http://news.mynavi.jp/news/2015/04/14/548/)
+<hr>
 2015/4/9<br>
 [Dialogが「Wearable on Chip」を発売、Cortex-M0コアやBluetooth Smart機能を搭載](http://techon.nikkeibp.co.jp/article/NEWS/20150409/413501/)
 
