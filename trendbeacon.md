@@ -8,6 +8,8 @@
 
 [SB、奈良県飛鳥地方で超小型モビリティレンタルサービスを開始](http://www.eco-front.com/news_cwL1FcrFIg_147.html)
 
+[Sensoro Reports 16 Million Dollars in Sales Growth from Beacon Deployment](http://www.prnewswire.com/news-releases/sensoro-reports-16-million-dollars-in-sales-growth-from-beacon-deployment-300064591.html)
+
 [Apple Watchが変える小売業の現場　大手量販店も対応アプリを相次ぎ導入](http://forbesjapan.com/translation/post_3395.html)
 <hr>
 2015/4/11<br>
