@@ -25,6 +25,8 @@
 2015/4/3<br>
 [スマートフォンアプリ「野球場NAVI」、
 京セラドーム大阪での売り子さん呼び出し対応エリア拡大へ](http://www.watch.impress.co.jp/headline/docs/kyodonews/domestic/20150403_696177.html)
+
+[iBeaconで購買行動は変化する？ 西友の店頭で実証実験](http://www.advertimes.com/20150403/article188540/)
 <hr>
 2015/4/2<br>
 [DTJax App Aimed At Bringing Jacksonville Skyline To Life](http://news.wjct.org/post/dtjax-app-aimed-bringing-jacksonville-skyline-life)
