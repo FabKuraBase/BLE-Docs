@@ -17,7 +17,8 @@
 |[RedBear](http://redbearlab.com/nrf51822/)|[RedBear](http://redbearlab.com/)||||
 |[tod](http://www.discoveraero.com/shop/)|[AERO](http://www.discoveraero.com/)||||
 |[MyBeacon](http://www.aplix.co.jp/?page_id=8620)|[Aplix](http://www.aplix.co.jp/)||||
-|[EMBC02](http://www.emmicroelectronic.com/press-release/embc02-industrys-lowest-power-bluetooth-smart-sensor-beacon-comes-switzerland)|[EM Microelectronics](http://www.emmicroelectronic.com/press-release/embc02-industrys-lowest-power-bluetooth-smart-sensor-beacon-comes-switzerland)|||CR2032||
+|[EMBC02](http://www.emmicroelectronic.com/press-release/embc02-industrys-lowest-power-bluetooth-smart-sensor-beacon-comes-switzerland)|[EM Microelectronics](http://www.emmicroelectronic.com/press-release/embc02-industrys-lowest-power-bluetooth-smart-sensor-beacon-comes-switzerland)|||CR2032|
+
 
 # 参考になる情報
 * http://www.aislelabs.com/reports/beacon-guide/
