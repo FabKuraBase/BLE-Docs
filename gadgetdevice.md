@@ -8,3 +8,10 @@
 |[kevo](http://www.kwikset.com/kevo/)|[kwikset](http://www.kwikset.com/)|$460|
 
 
+## Smart Switch
+
+| 商品名 | メーカー | 価格 |
+| -- | -- |
+|[Nyrius Outlet](http://nyrius.com/product/Smart_Switch_Wireless_Power_Outlet.eng-25.html)|[Nyrius](http://nyrius.com/)|$39.99|
+
+
