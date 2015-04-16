@@ -21,3 +21,9 @@
 | -- | -- |
 |[Alcatel onewatch](http://www.alcatelonetouch.ca/ALCATEL-ONETOUCH-Watch-Small-Medium/dp/B00VF3WPZO)|[Alcatel](http://www.alcatelonetouch.ca/ALCATEL-ONETOUCH-Watch-Small-Medium/dp/B00VF3WPZO)|$149.99|
 
+## Smart Controller
+
+| 商品名 | メーカー | 価格 |
+| -- | -- |
+|[slvair](https://silvair.com/#home)|seedlabs||
+
