@@ -1,6 +1,10 @@
 # BLEデバイス動向
 
 <hr>
+2015/4/16<br>
+[BluetoothとANT+両対応のケイデンスセンサー発売](http://k-tai.impress.co.jp/docs/news/20150416_698154.html)
+
+<hr>
 2015/4/15<br>
 [Droplet Is A Bluetooth Button That Makes Reminders More Sticky](http://techcrunch.com/2015/04/14/droplet/#.itg9oq:arhZ)
 <hr>
