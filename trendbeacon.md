@@ -114,6 +114,9 @@
 2015/1/20<br>
 [人事・給与・勤怠ソフト「MosP」と連携するiBeacon打刻ソリューション](http://cloud.watch.impress.co.jp/docs/news/20150120_684506.html)
 <hr>
+2015/1/16<nr>
+[「お店でBeeぽん!!」＆「Beeぽん!!」iBeaconを利用した簡単に導入できるクーポン配布アプリ](http://iphone.ascii.jp/2015/01/16/77347755/)
+<hr>
 2015/1/3<br>
 [米国スーパー、Apple Watch向けにiBeaconを活用した初のプロモーション](http://iphone-mania.jp/news-58852/)
 
