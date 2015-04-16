@@ -1,6 +1,8 @@
 # BLEデバイス動向
 
-
+<hr>
+2015/4/15<br>
+[Droplet Is A Bluetooth Button That Makes Reminders More Sticky](http://techcrunch.com/2015/04/14/droplet/#.itg9oq:arhZ)
 <hr>
 2015/4/10<br>
 [カシオ、スマートフォン連携ウオッチ「EDIFICE」に新モデル](http://bizmakoto.jp/makoto/articles/1504/10/news138.html)
