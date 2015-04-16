@@ -2,6 +2,8 @@
 
 ## 業界ニュース
 <hr>
+2015/4/16<br>
+[BLEによる屋内測位が可能、場所情報システム「ココシル池袋」公開](http://internet.watch.impress.co.jp/docs/column/chizu/20150416_698061.html)
 2015/4/15<br>
 [Cypress 無線規格認証取得済みの小型PRoC BLEモジュール製品を発表](http://news.biglobe.ne.jp/it/0415/mnn_150415_2950999226.html)
 <hr>
