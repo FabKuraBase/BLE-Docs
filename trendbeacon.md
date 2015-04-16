@@ -3,6 +3,9 @@
 <hr>
 ## iBeacon
 <hr>
+2014/4/16
+[Maybank launches two digital ‘non-banking’ apps](https://www.digitalnewsasia.com/mobile-telco/maybank-launches-two-digital-non-banking-apps)
+<hr>
 2015/4/14<br>
 [Rover Releases Major Update in Open Source iBeacon SDK](http://tech.co/rover-2-0-update-2015-04)
 <hr>
