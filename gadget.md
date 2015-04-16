@@ -2,6 +2,8 @@
 
 <hr>
 2015/4/16<br>
+[Bluetooth、ベータ版のIoTデバイス開発キットを発表](http://ascii.jp/elem/000/000/999/999852/)
+
 [BluetoothとANT+両対応のケイデンスセンサー発売](http://k-tai.impress.co.jp/docs/news/20150416_698154.html)
 
 <hr>
