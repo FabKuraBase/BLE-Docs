@@ -3,6 +3,9 @@
 <hr>
 ## iBeacon
 <hr>
+2015/4/14<br>
+[Rover Releases Major Update in Open Source iBeacon SDK](http://tech.co/rover-2-0-update-2015-04)
+<hr>
 2015/4/13<br>
 [日本交通や博報堂DYMPらがiBeaconを活用した情報配信の実証実験](http://itpro.nikkeibp.co.jp/atcl/news/15/040601194/)
 
