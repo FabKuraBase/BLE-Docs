@@ -10,6 +10,9 @@
 2015/4/14<br>
 [富士通コンポーネント、セントラル対応のBluetooth Smartモジュールを開発](http://news.mynavi.jp/news/2015/04/14/548/)
 <hr>
+2015/4/13<br>
+[NXP Adds Mesh Capability in Bluetooth Smart Solution to Enhance IoT Experiences]( http://globenewswire.com/news-release/2015/04/13/723920/10128501/en/NXP-Adds-Mesh-Capability-in-Bluetooth-Smart-Solution-to-Enhance-IoT-Experiences.html#sthash.uquyu1Bn.dpuf)
+<hr>
 2015/4/9<br>
 [Dialogが「Wearable on Chip」を発売、Cortex-M0コアやBluetooth Smart機能を搭載](http://techon.nikkeibp.co.jp/article/NEWS/20150409/413501/)
 
