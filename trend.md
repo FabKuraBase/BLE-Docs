@@ -2,6 +2,7 @@
 
 ## 業界ニュース
 <hr>
+
 2015/4/16<br>
 [BLEによる屋内測位が可能、場所情報システム「ココシル池袋」公開](http://internet.watch.impress.co.jp/docs/column/chizu/20150416_698061.html)
 2015/4/15<br>
@@ -14,6 +15,8 @@
 <hr>
 2015/4/13<br>
 [NXP Adds Mesh Capability in Bluetooth Smart Solution to Enhance IoT Experiences]( http://globenewswire.com/news-release/2015/04/13/723920/10128501/en/NXP-Adds-Mesh-Capability-in-Bluetooth-Smart-Solution-to-Enhance-IoT-Experiences.html#sthash.uquyu1Bn.dpuf)
+
+[マクニカ、IoT開発キット用のiOS版アプリを無償公開](http://news.mynavi.jp/news/2015/04/13/035/)
 <hr>
 2015/4/9<br>
 [Dialogが「Wearable on Chip」を発売、Cortex-M0コアやBluetooth Smart機能を搭載](http://techon.nikkeibp.co.jp/article/NEWS/20150409/413501/)
