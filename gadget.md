@@ -1,10 +1,4 @@
-# ガジェット動向
-
-<hr>
-Funding中<br>
-
-[STEMP Smart Temperature Patch](https://www.indiegogo.com/projects/stemp-smart-temperature-patch)<br>
-[Zedcon - Smart moving lights](https://www.indiegogo.com/projects/zedcon-smart-moving-lights)<br>
+# BLEデバイス動向
 
 
 <hr>
@@ -24,6 +18,8 @@ Funding中<br>
 <hr>
 2015/4/7<br>
 [世界初の愛犬用LEDベスト『Disco Dog』全米で話題に！](http://www.qetic.jp/life-fashion/discodog-pickup/128898/)
+
+[Danalock Bluetooth SmartLock: serratura hi-tech](http://www.gadgetblog.it/post/148642/danalock-bluetooth-smartlock-serratura-hi-tech)
 <hr>
 2015/3/31<br>
 [スマホの次はBluetooth連動の子供向けお散歩シューズ　『au未来研究所』がニューバランスと『FUMM（フーム）』コンセプトモデルを発表](http://news.ameba.jp/20150331-506/)
