@@ -12,6 +12,8 @@
 [Cypress 無線規格認証取得済みの小型PRoC BLEモジュール製品を発表](http://news.biglobe.ne.jp/it/0415/mnn_150415_2950999226.html)
 
 [BRIEF-Nordic Semiconductor receives order of $3.6 million](http://www.reuters.com/article/2015/04/15/idUSASN0007XJ20150415)
+
+[EmoFix Bluetooth selfie remote review](https://www.geeky-gadgets.com/bluz-cloud-connected-bluetooth-le-development-kit-16-04-2015/)
 <hr>
 2015/4/14<br>
 [富士通コンポーネント、セントラル対応のBluetooth Smartモジュールを開発](http://news.mynavi.jp/news/2015/04/14/548/)
