@@ -51,7 +51,7 @@
 | -- | -- |
 |[Kichen Themometor](http://idevicesinc.com/creations/)|||
 
-## Smart Health(Weight Scales)
+## Smart Health(Weight scales)
 
 | 商品名 | メーカー | 価格 |
 | -- | -- |
