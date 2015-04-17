@@ -34,3 +34,11 @@
 | -- | -- |
 |[MX1101](http://www.onsetcomp.com/products/data-loggers/MX1101)|HOBO||
 
+## Smart Shoe
+
+| 商品名 | メーカー | 価格 |
+| -- | -- |
+|[Volvorii Timeless](https://www.indiegogo.com/projects/volvorii-timeless)|||
+
+
+
