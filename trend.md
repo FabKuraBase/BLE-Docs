@@ -5,6 +5,8 @@
 2015/4/17<br>
 [ARM targets IoT by snapping up two wireless firms](http://www.v3.co.uk/v3-uk/news/2404546/arm-targets-iot-by-snapping-up-two-wireless-firms)
 
+[Acuity Brands Acquisition of ByteLight Adds Indoor Location](http://electricalmarketing.com/blog/acuity-brands-acquisition-bytelight-adds-indoor-location)
+
 <hr>
 2015/4/16<br>
 [BLEによる屋内測位が可能、場所情報システム「ココシル池袋」公開](http://internet.watch.impress.co.jp/docs/column/chizu/20150416_698061.html)
