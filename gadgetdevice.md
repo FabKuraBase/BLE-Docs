@@ -40,5 +40,11 @@
 | -- | -- |
 |[Volvorii Timeless](https://www.indiegogo.com/projects/volvorii-timeless)|||
 
+## Smart Camera
+
+| 商品名 | メーカー | 価格 |
+| -- | -- |
+|[EX-ZR1600](http://casio.jp/dc/products/ex_zr1600/)|[Casio](http://casio.jp/)||
+
 
 
