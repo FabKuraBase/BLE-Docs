@@ -45,5 +45,11 @@
 | -- | -- |
 |[EX-ZR1600](http://casio.jp/dc/products/ex_zr1600/)|[Casio](http://casio.jp/)||
 
+## Smart Cooking
+
+| 商品名 | メーカー | 価格 |
+| -- | -- |
+|[Kichen Themometor](http://idevicesinc.com/creations/)|||
+
 
 
