@@ -3,7 +3,10 @@
 <hr>
 ## iBeacon
 <hr>
-2014/4/16
+2015/4/17<br>
+[BeaconStream to raise $2 mn in Series-A funding](http://www.business-standard.com/article/companies/beaconstream-to-raise-2-mn-in-series-a-funding-115041700605_1.html)
+<hr>
+2015/4/16<br>
 [Maybank launches two digital ‘non-banking’ apps](https://www.digitalnewsasia.com/mobile-telco/maybank-launches-two-digital-non-banking-apps)
 <hr>
 2015/4/14<br>
