@@ -56,5 +56,6 @@
 | 商品名 | メーカー | 価格 |
 | -- | -- |
 |[PHBPB20](http://www.pyleaudio.com/sku/PHBPB20/Bluetooth-Blood-Pressure-Monitor-with-Downloadable-Health-Tracking-App)|[Plye](http://www.pyleaudio.com)|$146.99|
+[PHTM20BTBL](http://www.pyleaudio.com/sku/PHTM20BTBL/Bluetooth-Infrared-Ear-and-Body-Digital-Thermometer-with-Downloadable-Pyle-Health-Application,-LCD-Display-and-Safe-for-All-Ages)[Plye](http://www.pyleaudio.com)|[Plye](http://www.pyleaudio.com)|$146.99||
 
 
