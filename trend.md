@@ -87,6 +87,9 @@
 2014/9/17<br>
 [次なる“キラーアプリ”は自動車、Bluetooth Smart (1/2)](http://eetimes.jp/ee/articles/1409/17/news014.html)
 <hr>
+2014/8/23<br>
+[村田製作所、RF CMOS大手のPeregrine Semiconductorを490億円で買収](http://techon.nikkeibp.co.jp/article/NEWS/20140823/372120/)
+<hr>
 2014/8/7<br>
 [luetooth LE対応のIoTゲートウェイをYUWAが発売、ヘルスケア機器の測定値をサーバーに集約](http://techon.nikkeibp.co.jp/article/NEWS/20140807/369820/?ST=ndh)
 
