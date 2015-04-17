@@ -5,6 +5,8 @@
 <hr>
 2015/4/17<br>
 [BeaconStream to raise $2 mn in Series-A funding](http://www.business-standard.com/article/companies/beaconstream-to-raise-2-mn-in-series-a-funding-115041700605_1.html)
+
+[Star Wars Celebration](http://www.virtual-strategy.com/2015/04/17/radius-networks-and-r2-d2-builders-club-launch-beacon-powered-interactive-droid-experienc#axzz3XZw5ljh4)
 <hr>
 2015/4/16<br>
 [Maybank launches two digital ‘non-banking’ apps](https://www.digitalnewsasia.com/mobile-telco/maybank-launches-two-digital-non-banking-apps)
