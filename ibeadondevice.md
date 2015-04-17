@@ -24,4 +24,6 @@
 
 # 参考になる情報
 * http://www.aislelabs.com/reports/beacon-guide/
+* [中華Beacon](http://ja.aliexpress.com/wholesale?SearchText=iBeacon&catId=&initiative_id=SB_20150417072811)
+* 
 
