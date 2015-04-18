@@ -32,3 +32,4 @@
 
 ## 参考になる資料
 * [電波暗箱の有効性について](http://www.toyo.co.jp/file/pdf/microwave/chokomemo/antenaPDF/ANBAKOsemi2.pdf)
+* [Yahoo!知恵袋 電波暗室、電波暗箱ってなんですか？](http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1494509624)
