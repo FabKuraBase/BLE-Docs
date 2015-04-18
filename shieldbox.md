@@ -18,6 +18,7 @@
 * [Ramsey](http://ramseytest.com/)
 * [Micronix](http://www.micronix-jp.com/product/product_2.html)
 * [TOJOIN](http://www.chbutc.com/en/home/index.asp)
+* [Shenzhen Tourgo RF Shield Solution Co.,Ltd.](http://www.rfshield-china.com/)
 
 
 ## 電波暗箱を扱ってる国内の会社
