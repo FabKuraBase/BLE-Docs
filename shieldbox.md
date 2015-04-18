@@ -28,4 +28,7 @@
 * [有限会社シールドテック工業](http://www.shield-tec.co.jp/)
 * [株式会社新日本電波吸収体](http://www.mwa.co.jp/)
 * [TSS Japan](http://www.tssj.co.jp/shieldbox2.htm)
-* 
+
+
+## 参考になる資料
+* 電波暗箱の有効性について[http://www.toyo.co.jp/file/pdf/microwave/chokomemo/antenaPDF/ANBAKOsemi2.pdf]
