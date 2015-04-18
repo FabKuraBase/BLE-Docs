@@ -10,4 +10,4 @@
 
 ## 参考になる情報
 
-*[ウェアラブル端末の開発で注目！　Bluetooth 解析システム](http://www.kumikomi.net/archives/2014/12/bluetooth.php)
+* [ウェアラブル端末の開発で注目！　Bluetooth 解析システム](http://www.kumikomi.net/archives/2014/12/bluetooth.php)
