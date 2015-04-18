@@ -17,6 +17,7 @@
 * [TESTCOM](http://www.tescom.co.kr/en/sub2_1.php)
 * [Ramsey](http://ramseytest.com/)
 * [Micronix](http://www.micronix-jp.com/product/product_2.html)
+* [TOJOIN](http://www.chbutc.com/en/home/index.asp)
 
 
 ## 電波暗箱を扱ってる国内の会社
