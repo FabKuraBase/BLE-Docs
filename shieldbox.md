@@ -6,4 +6,5 @@
 
 | 商品名 | メーカー |価格 |
 | -- | -- |
-| 0:2 | 1:2 |
+| [MY1510](http://www.micronix-jp.com/Products/Electromagnetic%20anechoic%20box/Taurus/Taurus.html#1510)　 | [Mironix](http://www.micronix-jp.com/) |標準価格 198,000円 |
+
