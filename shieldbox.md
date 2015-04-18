@@ -27,4 +27,5 @@
 * [日本シールドエンクロージャー株式会社 ](http://www.jse-emc.co.jp/)
 * [有限会社シールドテック工業](http://www.shield-tec.co.jp/)
 * [株式会社新日本電波吸収体](http://www.mwa.co.jp/)
+* [TSS Japan](http://www.tssj.co.jp/shieldbox2.htm)
 * 
