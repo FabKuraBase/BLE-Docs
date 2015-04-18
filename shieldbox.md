@@ -10,6 +10,7 @@
 
 ## 電波暗箱メーカー
 * [TESTCOM](http://www.tescom.co.kr/en/sub2_1.php)
+* [Ramsey](http://ramseytest.com/)
 
 
 ## 電波暗箱を扱ってる国内の会社
