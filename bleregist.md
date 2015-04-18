@@ -84,5 +84,5 @@ Bluetoothモジュールを使っている場合でも、新しいハードウ�
 * 
 # 参考になる情報
 * [Understanding Bluetooth® Special Interest Group (SIG) Fees](http://na.industrial.panasonic.com/blog/understanding-bluetooth%C2%AE-special-interest-group-sig-fees)(Panasonic)
-
+* [Bluetooth Qualification Program”と日本の型式認定制度](https://www.toshiba.co.jp/tech/review/2001/04/56_04pdf/a10.pdf)
 
