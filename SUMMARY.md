@@ -18,5 +18,6 @@
 * [Bluetooth 4.2](bl42.md)
 * [Bluetooth認証](bleregist.md)
 * [利用可能な電波暗室](shieldroom.md)
+* [電波暗箱](shieldbox.md)
 * [Link](link.md)
 
