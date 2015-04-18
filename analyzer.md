@@ -6,8 +6,8 @@
 | [Wi-Spy 2.4x](http://www.metageek.com/products/wi-spy/) | [metageek](http://www.metageek.com/store/catalog/) | $200 |ほかに解析ソフトも必須(BLEでは厳しい)|
 | [Wi-Spy DBx](http://www.metageek.com/products/wi-spy/) | [metageek](http://www.metageek.com/store/catalog/) | $500 |ほかに解析ソフトも必須(BLEでは厳しい|
 |[Ellisys Bluetooth Explorer 400](http://www.ellisys.com/products/bex400/)|[ellisys](http://www.ellisys.com/)|||
-|[シグナルアナライザ MS2830A](http://www.anritsu.com/ja-JP/Products-Solutions/Products/MS2830A.aspx)|[Anritsu](http://www.anritsu.com/)||
-
+|[シグナルアナライザ MS2830A](http://www.anritsu.com/ja-JP/Products-Solutions/Products/MS2830A.aspx)|[Anritsu](http://www.anritsu.com/)|||
+|[RSA306型USBスペクトラム・アナライザ](http://jp.tek.com/spectrum-analyzer/rsa306-0)|Tektronix||||
 
 
 ## 参考になる情報
