@@ -8,6 +8,7 @@
 | -- | -- |
 | [MY1510](http://www.micronix-jp.com/Products/Electromagnetic%20anechoic%20box/Taurus/Taurus.html#1510)　 | [Mironix](http://www.micronix-jp.com/) |標準価格 198,000円 |
 | [NFC235](http://www.jrc.co.jp/eng/product/meq4mp/nfg235/index.html)|日本無線||
+|[STE2900](http://ramseytest.com/product_list.php?category=1&series=1) | Ramsey | $1095|
 
 
 ## 電波暗箱メーカー
