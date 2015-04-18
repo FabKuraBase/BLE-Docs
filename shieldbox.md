@@ -7,6 +7,8 @@
 | 商品名 | メーカー |価格 |
 | -- | -- |
 | [MY1510](http://www.micronix-jp.com/Products/Electromagnetic%20anechoic%20box/Taurus/Taurus.html#1510)　 | [Mironix](http://www.micronix-jp.com/) |標準価格 198,000円 |
+| [NFC235](http://www.jrc.co.jp/eng/product/meq4mp/nfg235/index.html)|日本無線||
+
 
 ## 電波暗箱メーカー
 * [TESTCOM](http://www.tescom.co.kr/en/sub2_1.php)
