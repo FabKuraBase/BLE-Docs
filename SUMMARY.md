@@ -19,5 +19,6 @@
 * [Bluetooth認証](bleregist.md)
 * [利用可能な電波暗室](shieldroom.md)
 * [電波暗箱](shieldbox.md)
+* [スペクトルアナライザ](analyzer.md)
 * [Link](link.md)
 
