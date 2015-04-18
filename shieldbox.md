@@ -8,9 +8,13 @@
 | -- | -- |
 | [MY1510](http://www.micronix-jp.com/Products/Electromagnetic%20anechoic%20box/Taurus/Taurus.html#1510)　 | [Mironix](http://www.micronix-jp.com/) |標準価格 198,000円 |
 
+## 電波暗箱メーカー
+* [TESTCOM](http://www.tescom.co.kr/en/sub2_1.php)
 
-## 電波暗箱を扱ってるメーカー
+
+## 電波暗箱を扱ってる国内の会社
 
 * [日本シールドエンクロージャー株式会社 ](http://www.jse-emc.co.jp/)
 * [有限会社シールドテック工業](http://www.shield-tec.co.jp/)
+* [株式会社新日本電波吸収体](http://www.mwa.co.jp/)
 * 
