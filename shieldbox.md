@@ -29,6 +29,10 @@
 * [株式会社新日本電波吸収体](http://www.mwa.co.jp/)
 * [TSS Japan](http://www.tssj.co.jp/shieldbox2.htm)
 * [マイクロウェーブファクトリー](https://www.mwf.co.jp/anechoic-box.htm)
+* [東京計測アビエーション](http://www.tokyo-keiki.co.jp/tka/j/products/emc/emc_sr/emc_sr6.html)
+* [Tokin EMCエンジニアリング](http://www.tee.tokin.jp/solution/anbako/index.html)
+* [株式会社プロテック](http://protec5461.co.jp/protec/?p=353)
+* 
 
 ## 参考になる資料
 * [電波暗箱の有効性について](http://www.toyo.co.jp/file/pdf/microwave/chokomemo/antenaPDF/ANBAKOsemi2.pdf)
