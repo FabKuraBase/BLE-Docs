@@ -1,5 +1,8 @@
 # BLEデバイス動向
 <hr>
+2015/4/22<br>
+[自転車乗り必見！ BluetoothとANT＋両対応の防水ケイデンスセンサー](http://iphone.ascii.jp/2015/04/22/as150422a/)
+<hr>
 2015/4/17<br>
 [フランスのウィジングズ、日本に本格進出--スイス製スマートウォッチも登場](http://japan.cnet.com/news/service/35063337/)
 
