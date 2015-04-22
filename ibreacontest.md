@@ -23,7 +23,7 @@
 
 | サービス名 | エリア |概要|運営|サービス開始日|
 | -- | -- |
-|記念艦「三笠」|||
+|記念艦「三笠」|||三笠保存会とYRPユビキタス・ネットワーキング研究所|
 |[名車コレクション](https://itunes.apple.com/jp/app/ming-chekorekushon/id981459683?mt=8)|MEGA WEB ヒストリーガレージ||||
 |[ガブリエル・オロスコ展](http://www.mot-art-museum.jp/exhibition/orozcoapplication.html)|東京都現代美術館|iBeaconに反応し、インタラクティブ・ガイダンスを流れ、作品鑑賞をサポート|東京都現代美術館|2015/3/28-5/10|
 | [KUZUHA MALL](http://www.kuzuha-mall.com/sp/app/) | 大阪・枚方市 KUZUHA MALL| |京阪流通システムズ<br>株式会社パルコ・シティ<br>株式会社エンプライズ| 2015/3/20|
