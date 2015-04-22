@@ -2,6 +2,8 @@
 <hr>
 2015/4/22<br>
 [自転車乗り必見！ BluetoothとANT＋両対応の防水ケイデンスセンサー](http://iphone.ascii.jp/2015/04/22/as150422a/)
+
+[ディズニー、スマホに物理インターフェースを足す斬新な方法Acoustruments開発。楽器にヒント](http://japanese.engadget.com/2015/04/21/acoustruments/)
 <hr>
 2015/4/21<br>
 [キングジム、スマートフォンのBluetooth機能を活用した子供の迷子防止アイテム「デジタルまいごひも」を発表](http://getnews.jp/archives/926250)
