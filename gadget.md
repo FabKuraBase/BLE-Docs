@@ -4,6 +4,9 @@
 [自転車乗り必見！ BluetoothとANT＋両対応の防水ケイデンスセンサー](http://iphone.ascii.jp/2015/04/22/as150422a/)
 
 [ディズニー、スマホに物理インターフェースを足す斬新な方法Acoustruments開発。楽器にヒント](http://japanese.engadget.com/2015/04/21/acoustruments/)
+
+[【新発売】1日24時間のアクティビティを常時記録するウェアラブルデバイス「Polar A300」がカラフルな6色展開で新登場](http://www.sankei-kansai.com/press/post.php?basename=000000002.000011434.html)
+
 <hr>
 2015/4/21<br>
 [キングジム、スマートフォンのBluetooth機能を活用した子供の迷子防止アイテム「デジタルまいごひも」を発表](http://getnews.jp/archives/926250)
