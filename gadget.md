@@ -11,6 +11,9 @@
 2015/4/21<br>
 [キングジム、スマートフォンのBluetooth機能を活用した子供の迷子防止アイテム「デジタルまいごひも」を発表](http://getnews.jp/archives/926250)
 <hr>
+2015/4/18<br>
+[MIT大学院生たちが考案した、つけ爪型Bluetooth対応タッチパッド](http://jp.techcrunch.com/2015/04/18/20150417this-tiny-sensor-turns-your-thumbnail-into-a-trackpad/)
+<hr>
 2015/4/17<br>
 [フランスのウィジングズ、日本に本格進出--スイス製スマートウォッチも登場](http://japan.cnet.com/news/service/35063337/)
 
