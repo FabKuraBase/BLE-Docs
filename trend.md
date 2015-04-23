@@ -2,6 +2,9 @@
 
 ## 業界ニュース
 <hr>
+2015/4/23<br>
+[NXP Rolling Out Bluetooth Mesh Technology](http://www.iotjournal.com/articles/view?12970)
+<hr>
 2015/4/22<br>
 [3.5mm角の超小型Bluetoothモジュールで実現、ばんそうこう型ウェアラブル端末で体温管理も簡単に (1/2)](http://eetimes.jp/ee/articles/1504/22/news144.html)
 
