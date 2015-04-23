@@ -1,5 +1,8 @@
 # BLEデバイス動向
 <hr>
+2015/4/23<br>
+[New BLE golf sensor patch from Enfucell](http://www.printedelectronicsworld.com/articles/7738/new-ble-golf-sensor-patch-from-enfucell)
+<hr>
 2015/4/22<br>
 [自転車乗り必見！ BluetoothとANT＋両対応の防水ケイデンスセンサー](http://iphone.ascii.jp/2015/04/22/as150422a/)
 
