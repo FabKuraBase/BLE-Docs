@@ -5,6 +5,7 @@
 
 [Wearable MetaWear Bluetooth Sensors Can Be Controller From Your Smartphone (video)](http://www.geeky-gadgets.com/metawear-bluetooth-sensors-23-04-2015/)
 
+
 <hr>
 2015/4/22<br>
 [自転車乗り必見！ BluetoothとANT＋両対応の防水ケイデンスセンサー](http://iphone.ascii.jp/2015/04/22/as150422a/)
