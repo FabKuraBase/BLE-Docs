@@ -92,7 +92,7 @@ int main (void)
     printf_string("TEST1\n\r");
 	
     GPIO_SetActive(GPIO_PORT_0, GPIO_PIN_0);
-    GPIO_ConfigurePinPower(GPIO_PORT_0, GPIO_PIN_0,GPIO_POWER_RAIL_3V);
+    GPIO_ConfigurePinPower(GPIO_PORT_0, GPIO_PIN_0, GPIO_POWER_RAIL_3V);
 }
 ```
 
