@@ -2,6 +2,9 @@
 
 <hr>
 ## iBeacon
+
+2015/4/24<nr>
+[WebエンジニアにとってのIoT　～Physical Webが拓く未来～](http://gihyo.jp/admin/serial/01/physicalweb/0004)
 <hr>
 2015/4/17<br>
 [BeaconStream to raise $2 mn in Series-A funding](http://www.business-standard.com/article/companies/beaconstream-to-raise-2-mn-in-series-a-funding-115041700605_1.html)
