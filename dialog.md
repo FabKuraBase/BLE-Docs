@@ -76,3 +76,9 @@ int main (void)
     printf_string("Hello Dialog\n\r");
 }
 ```
+
+GPIOのピンをHigh
+
+
+
+
