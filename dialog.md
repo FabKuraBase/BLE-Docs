@@ -95,5 +95,35 @@ int main (void)
 }
 ```
 
+P0_0ピンを点滅
+```c
+#include <stdio.h>
+#include "global_io.h"
+#include "gpio.h"
+#include "peripherals.h"
+#include "uart.h"
+
+
+int main (void)
+{
+    periph_init();
+    printf_string("TEST1\n\r");
+    
+    GPIO_SetActive(GPIO_PORT_0, GPIO_PIN_0);
+	GPIO_ConfigurePinPower(GPIO_PORT_0, GPIO_PIN_0, GPIO_POWER_RAIL_1V);
+
+	int i = 0;
+	while(1){		
+		if ( i == 1000000) {
+			GPIO_ConfigurePinPower(GPIO_PORT_0, GPIO_PIN_0, GPIO_POWER_RAIL_3V);
+		} else if ( i > 2000000){
+			GPIO_ConfigurePinPower(GPIO_PORT_0, GPIO_PIN_0, GPIO_POWER_RAIL_1V);
+			i = 0;
+		}
+		i++;
+	}
+}
+```
+
 
 
