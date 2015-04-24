@@ -66,7 +66,6 @@ Serialで出力
 ```c
 #include <stdio.h>
 #include "global_io.h"
-
 #include "peripherals.h"
 #include "uart.h"
 
