@@ -3,7 +3,7 @@
 <hr>
 ## iBeacon
 
-2015/4/24<nr>
+2015/4/24<br>
 [WebエンジニアにとってのIoT　～Physical Webが拓く未来～](http://gihyo.jp/admin/serial/01/physicalweb/0004)
 <hr>
 2015/4/17<br>
