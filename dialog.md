@@ -61,6 +61,7 @@ http://dialog-semiconductor.com/products/bluetooth-smart/smartbond-development-t
 * [Bluetooth Low Energy Module Data Sheet ](http://wireless.murata.com/RFM/data/lbca2hnzyz-711.pdf)(Murata)
 
 # SampleCode
+Serialdで出力 
 
 ```c
 #include <stdio.h>
