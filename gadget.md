@@ -1,5 +1,8 @@
 # BLEデバイス動向
 <hr>
+2015/4/27<br>
+[PCだけではなくアプリからもコントロール!? クラウド接続可能なBluetooth LE開発キットが登場](http://nge.jp/2015/04/27/post-102663)
+<hr>
 2015/4/23<br>
 [New BLE golf sensor patch from Enfucell](http://www.printedelectronicsworld.com/articles/7738/new-ble-golf-sensor-patch-from-enfucell)
 
