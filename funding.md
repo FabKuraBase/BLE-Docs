@@ -49,6 +49,7 @@
 |[PowerUp 3.0](https://www.kickstarter.com/projects/393053146/powerup-30-smartphone-controlled-paper-airplane/description)|$1,232,612|Kickstarter|2014/1/26|
 |[Ring](https://www.kickstarter.com/projects/1761670738/ring-shortcut-everything/description)|$880,998|Kickstarter|2014/4/4|
 |[Noke](https://www.kickstarter.com/projects/fuzdesigns/noke-the-worlds-first-bluetooth-padlock/description)|$652,828|Kickstarter|2014/9/18|
+|[jamstik+ The SmartGuitar](https://www.kickstarter.com/projects/80789521/jamstik-the-smartguitar)|$553,268|Kickstarter||
 |[LUMO](https://www.kickstarter.com/projects/lumoback/lumoback-the-smart-posture-sensor/description)|$200,503|Kickstarter|2012/8/1|
 |[L8 SmartLight](https://www.kickstarter.com/projects/l8smartlight/l8-smartlight-the-soundless-speaker/description)|$203,677|Kickstarter|2012/8/4|
 |[Zuli Smartplugs](https://www.kickstarter.com/projects/zuli/zuli-smartplugs/description)|$175,341|Kickstarter|2014/1/5|
