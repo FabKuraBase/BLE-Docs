@@ -3,6 +3,8 @@
 2015/4/28<br>
 [サムスン、アルツハイマー病患者を助ける『バックアップ・メモリ』発表。Bluetoothで家族を通知](http://japanese.engadget.com/2015/04/27/bluetooth/)
 
+[カギやスマホに取り付けるBluetooth接続の紛失防止タグ「REX-SEEK2」](http://www.rbbtoday.com/article/2015/04/28/130894.html)
+
 <hr>
 2015/4/27<br>
 [PCだけではなくアプリからもコントロール!? クラウド接続可能なBluetooth LE開発キットが登場](http://nge.jp/2015/04/27/post-102663)
