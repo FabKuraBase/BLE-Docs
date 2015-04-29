@@ -2,6 +2,9 @@
 
 ## 業界ニュース
 <hr>
+2015/4/28<br>
+[Bluetooth Innovation Training Series Removes Mystery from Developing for IoT](http://www.businesswire.com/news/home/20150428005343/en/Bluetooth-Innovation-Training-Series-Removes-Mystery-Developing#.VUA9gKPtmko)
+<hr>
 2015/4/23<br>
 [NXP Rolling Out Bluetooth Mesh Technology](http://www.iotjournal.com/articles/view?12970)
 <hr>
