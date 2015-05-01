@@ -1,6 +1,8 @@
 # BLEデバイス動向
 <hr>
 2015/4/30<br>
+[STRATOS’ BLUETOOTH-CONNECTED CARD JOINS M-PAYMENTS SPACE](http://www.pymnts.com/news/2015/stratos-bluetooth-connected-card-joins-m-payments-space/#.VUOHs3ntmko)
+
 [Second-Gen UDOO to have Raspberry Pi, Arduino, Wi-Fi, Bluetooth, and Sensors (crowdfunding)](https://liliputing.com/2015/04/second-gen-udoo-raspberry-pi-arduino-wi-fi-bluetooth-sensors-crowdfunding.html)
 
 [New Bluetooth-Enabled Wallet Aims to Organize Your Life](http://www.govtech.com/products/New-Bluetooth-Enabled-Wallet-Aims-to-Organize-Your-Life.html)
