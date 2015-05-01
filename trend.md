@@ -2,6 +2,9 @@
 
 ## 業界ニュース
 <hr>
+2015/4/30<br>
+[セントラル対応のBluetooth Smartモジュール](http://ednjapan.com/edn/articles/1504/30/news049.html)
+<hr>
 2015/4/29<br>
 [グーグルの「持ち運び（On-Body）検知」機能でスマートフォンの盗み見をガード](http://weekly.ascii.jp/elem/000/000/321/321655/)
 <hr>
