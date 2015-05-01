@@ -47,6 +47,7 @@
 | Project名 | 集まった額 | サイト|成立時期|
 | -- | -- |
 |[PowerUp 3.0](https://www.kickstarter.com/projects/393053146/powerup-30-smartphone-controlled-paper-airplane/description)|$1,232,612|Kickstarter|2014/1/26|
+|[UDOO Neo](https://www.kickstarter.com/projects/udoo/udoo-neo-raspberry-pi-arduino-wi-fi-bt-40-sensors/?src=p282)|$107,242|Kickstarter|
 |[Ring](https://www.kickstarter.com/projects/1761670738/ring-shortcut-everything/description)|$880,998|Kickstarter|2014/4/4|
 |[Noke](https://www.kickstarter.com/projects/fuzdesigns/noke-the-worlds-first-bluetooth-padlock/description)|$652,828|Kickstarter|2014/9/18|
 |[jamstik+ The SmartGuitar](https://www.kickstarter.com/projects/80789521/jamstik-the-smartguitar)|$553,268|Kickstarter||
