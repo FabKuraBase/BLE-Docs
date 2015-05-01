@@ -2,6 +2,8 @@
 <hr>
 2015/4/30<br>
 [Second-Gen UDOO to have Raspberry Pi, Arduino, Wi-Fi, Bluetooth, and Sensors (crowdfunding)](https://liliputing.com/2015/04/second-gen-udoo-raspberry-pi-arduino-wi-fi-bluetooth-sensors-crowdfunding.html)
+
+[New Bluetooth-Enabled Wallet Aims to Organize Your Life](http://www.govtech.com/products/New-Bluetooth-Enabled-Wallet-Aims-to-Organize-Your-Life.html)
 <hr>
 2015/4/28<br>
 [サムスン、アルツハイマー病患者を助ける『バックアップ・メモリ』発表。Bluetoothで家族を通知](http://japanese.engadget.com/2015/04/27/bluetooth/)
