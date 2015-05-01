@@ -70,5 +70,6 @@
 ## Smart Controller
 | 商品名 | メーカー | 価格 |
 | -- | -- |
-|[PowerMate Bluetooth](http://griffintechnology.com/powermate-bluetooth
-)[Griffin](http://griffintechnology.com/)||$59.99||
+|[PowerMate Bluetooth](http://griffintechnology.com/powermate-bluetooth)|[Griffin](http://griffintechnology.com/)|$59.99|
+
+
