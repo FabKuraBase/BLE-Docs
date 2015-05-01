@@ -72,4 +72,11 @@
 | -- | -- |
 |[PowerMate Bluetooth](http://griffintechnology.com/powermate-bluetooth)|[Griffin](http://griffintechnology.com/)|$59.99|
 
+## Smart Card
+
+| 商品名 | メーカー | 価格 |
+| -- | -- |
+|[Stratos](https://stratoscard.com/)|[Stratos](https://stratoscard.com/)|$95|
+
+
 
