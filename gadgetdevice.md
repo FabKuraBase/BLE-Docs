@@ -67,4 +67,8 @@
 | -- | -- |
 |[PHTM20BTBL](http://www.pyleaudio.com/sku/PHTM20BTBL/Bluetooth-Infrared-Ear-and-Body-Digital-Thermometer-with-Downloadable-Pyle-Health-Application,-LCD-Display-and-Safe-for-All-Ages)[Plye](http://www.pyleaudio.com)|[Plye](http://www.pyleaudio.com)|$146.99||
 
-
+## Smart Controller
+| 商品名 | メーカー | 価格 |
+| -- | -- |
+|[PowerMate Bluetooth](http://griffintechnology.com/powermate-bluetooth
+)[Griffin](http://griffintechnology.com/)||$59.99||
