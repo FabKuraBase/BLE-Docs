@@ -2,6 +2,8 @@
 <hr>
 2015/5/3<br>
 [Runtastic Libra Bluetooth Smart Scale and Body Analyzer review](http://the-gadgeteer.com/2015/05/03/runtastic-libra-bluetooth-smart-scale-and-body-analyzer-review/)
+
+[スマホを親指1つで遠隔操作できちゃう！ 便利ツール「KKP（くるくるピ）」が気になる](http://news.biglobe.ne.jp/trend/0503/pou_150503_5795699020.html)
 <hr>
 2015/4/30<br>
 [STRATOS’ BLUETOOTH-CONNECTED CARD JOINS M-PAYMENTS SPACE](http://www.pymnts.com/news/2015/stratos-bluetooth-connected-card-joins-m-payments-space/#.VUOHs3ntmko)
