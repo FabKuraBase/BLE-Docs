@@ -76,6 +76,7 @@
 | [IMUduino](https://www.kickstarter.com/projects/1265095814/imuduino-wireless-3d-motion-html-js-apps-arduino-p/description)| $18,467|Kickstarter| 2014/11/7|
 | [Arduino BLE Shield](https://www.kickstarter.com/projects/rowdyrobot/arduino-ble-shield-connecting-the-ios-and-the-ardu/description)|$16,498|Kickstarter|2012/9/9|
 |[Giayee](https://www.kickstarter.com/projects/343910040/atomwear/description)|$13,740|Kickstarter|2014/9/19|
+|[Pretty Smart Lamp](https://www.kickstarter.com/projects/1688190904/pretty-smart-lamp-reloaded-helps-you-find-your-pho)|$13,020|
 |[MangoCube](https://www.kickstarter.com/projects/530456128/mangocube-the-pocket-sized-arduino-compatible-boar/description)|£9,337|Kickstarter|2014/11/10|
 
 
