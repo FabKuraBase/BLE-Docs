@@ -2,6 +2,10 @@
 
 <hr>
 ## iBeacon
+<hr>
+2015/5/5<br>
+[HOW GIMBAL CONNECTS RETAIL’S DIGITAL AND PHYSICAL WORLD]()
+<hr>
 2015/5/2<br>
 [手軽にプロ並みのアプリが作成できるサービスが登場](http://news.mynavi.jp/news/2015/05/02/124/)
 <hr>
