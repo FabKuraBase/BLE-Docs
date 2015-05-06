@@ -4,7 +4,7 @@
 ## iBeacon
 <hr>
 2015/5/5<br>
-[HOW GIMBAL CONNECTS RETAIL’S DIGITAL AND PHYSICAL WORLD]()
+[HOW GIMBAL CONNECTS RETAIL’S DIGITAL AND PHYSICAL WORLD](http://www.pymnts.com/news/social-commerce/2015/how-one-beacon-platform-bridges-retails-digital-and-physical-world/#.VUodZnntmko)
 <hr>
 2015/5/2<br>
 [手軽にプロ並みのアプリが作成できるサービスが登場](http://news.mynavi.jp/news/2015/05/02/124/)
