@@ -9,6 +9,9 @@
 2015/5/2<br>
 [手軽にプロ並みのアプリが作成できるサービスが登場](http://news.mynavi.jp/news/2015/05/02/124/)
 <hr>
+2015/4/29<br>
+[MLB Ballpark Apps Are Getting More Personalized](http://www.sporttechie.com/2015/04/29/mlb-ballpark-apps-are-getting-more-personalized/)
+<hr>
 2015/4/24<br>
 [WebエンジニアにとってのIoT　～Physical Webが拓く未来～](http://gihyo.jp/admin/serial/01/physicalweb/0004)
 <hr>
