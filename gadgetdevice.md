@@ -81,7 +81,7 @@
 ## Smart Socks
 | 商品名 | メーカー | 価格 |
 | -- | -- |
-|[sensoria socks](http://www.sensoriafitness.com/Technology)|[sensoria](http://www.sensoriafitness.com)|$95|
+|[sensoria socks](http://www.sensoriafitness.com/Technology)|[sensoria](http://www.sensoriafitness.com)|$199|
 
 
 
