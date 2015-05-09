@@ -7,7 +7,7 @@
 [オムニチャネル時代に伸びている世界のメーカー・小売業者、2つの共通点](https://netshop.impress.co.jp/node/1513)
 <hr>
 2015/5/5<br>
-[Six Ways to Sell Location-Based Tech: Get Up Close And Personal]()
+[Six Ways to Sell Location-Based Tech: Get Up Close And Personal](http://vsr.edgl.com/reseller-news/Six-Ways-to-Sell-Location-Based-Tech--Get-Up-Close-And-Personal99841)
 
 [HOW GIMBAL CONNECTS RETAIL’S DIGITAL AND PHYSICAL WORLD](http://www.pymnts.com/news/social-commerce/2015/how-one-beacon-platform-bridges-retails-digital-and-physical-world/#.VUodZnntmko)
 <hr>
