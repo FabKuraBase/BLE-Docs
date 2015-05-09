@@ -3,6 +3,9 @@
 2015/5/6<br>
 [「CH4」 オナラの臭いを分析して食生活の見直しを提案](http://news.livedoor.com/article/detail/10082340/)
 <hr>
+2015/5/5<br>
+[何でもスマート化すりゃいいってもんじゃないよ！（笑）　犬の首輪『The First All-In-One Smart Dog Collar』]()
+<hr>
 2015/5/3<br>
 [Runtastic Libra Bluetooth Smart Scale and Body Analyzer review](http://the-gadgeteer.com/2015/05/03/runtastic-libra-bluetooth-smart-scale-and-body-analyzer-review/)
 
