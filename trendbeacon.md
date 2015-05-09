@@ -4,7 +4,7 @@
 ## iBeacon
 <hr>
 2015/5/7<br>
-[オムニチャネル時代に伸びている世界のメーカー・小売業者、2つの共通点]()
+[オムニチャネル時代に伸びている世界のメーカー・小売業者、2つの共通点](https://netshop.impress.co.jp/node/1513)
 <hr>
 2015/5/5<br>
 [HOW GIMBAL CONNECTS RETAIL’S DIGITAL AND PHYSICAL WORLD](http://www.pymnts.com/news/social-commerce/2015/how-one-beacon-platform-bridges-retails-digital-and-physical-world/#.VUodZnntmko)
