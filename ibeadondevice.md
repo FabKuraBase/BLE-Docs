@@ -20,7 +20,7 @@
 |[EMBC02](http://www.emmicroelectronic.com/press-release/embc02-industrys-lowest-power-bluetooth-smart-sensor-beacon-comes-switzerland)|[EM Microelectronics](http://www.emmicroelectronic.com/press-release/embc02-industrys-lowest-power-bluetooth-smart-sensor-beacon-comes-switzerland)|||CR2032|
 |[LinkTaggaer](http://www.linktagger.com/)|||||
 |[BeaconPlus](https://pinmicro.com/)|[pinMicro](https://pinmicro.com/)|||||
-
+|[CUBEACON](http://cubeacon.com/) ||||
 
 # 参考になる情報
 * [Beacon比較](http://www.aislelabs.com/reports/beacon-guide/)
