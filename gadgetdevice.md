@@ -98,7 +98,7 @@
 | -- | -- |
 |[automatic](https://www.automatic.com/)||$99|
 
-## Smart Jwelry
+## Smart Jewelry
 | 商品名 | メーカー | 価格 |
 | -- | -- |
 |[cuff](https://cuff.io/)|||
