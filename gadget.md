@@ -1,5 +1,8 @@
 # BLEデバイス動向
 <hr>
+2015/5/8<br>
+[I Tested a Bluetooth-Enabled, App-Connected Toothbrush, and Boy Are My Teeth Disrupted!]()
+<hr>
 2015/5/6<br>
 [「CH4」 オナラの臭いを分析して食生活の見直しを提案](http://news.livedoor.com/article/detail/10082340/)
 <hr>
