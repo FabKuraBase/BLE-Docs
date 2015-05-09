@@ -124,6 +124,14 @@
 |[greeniq](http://www.greeniq.co/)|||
 |[Koubachi](http://www.koubachi.com/) |||
 
+## Smart Posture
+| 商品名 | メーカー | 価格 |
+| -- | -- |
+|[posture.io](http://www.posture.io/)|||
+
+
+
+
 
 
 
