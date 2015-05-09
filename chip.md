@@ -10,7 +10,7 @@
 | [NRF51422](http://www.nordicsemi.com/eng/Products/ANT/nRF51422)  | [Nordic Semiconductor](http://www.nordicsemi.com/)|  ARM® Cortex™ M0 |+4dBm |-93 dBm| 10.5mA<br>8mA (DD)| 13 mA<br>9.7mA(DD)| 
 | [CSR1010](https://www.csrsupport.com/download/39359/CSR1010%20Data%20Sheet%20CS-231985-DS.pdf) | [CSR](http://www.csr.com/) | 独自MCU(RISC) | +9dBm | -93dBm| |
 | [CSR1011](https://www.csrsupport.com/download/40289/CSR1010%20Data%20Sheet%20CS-231986-DS.pdf) | [CSR](http://www.csr.com/)  | 独自MCU(RISC) | +9dBm | -93dBm| ||
-| [CSR1012](https://www.csrsupport.com/download/47278/CSR1012%20Data%20Sheet%20CS-238833-DS.pdf) | [CSR](http://www.csr.com/)  | 独自MCU(RISC) | +9dBm | -93dBm| ||
+| [CSR1012](https://www.csrsupport.com/download/47278/CSR1012%20Data%20Sheet%20CS-238833-DS.pdf) | [CSR](http://www.csr.com/)  | 独自MCU(RISC) | +9dBm | -93dBm|18mA|20mA|
 | [CC2540](http://m.tij.co.jp/product/jp/CC2540)| [TI](http://www.tij.co.jp/) |  8051互換 | +6dBm | -96dBm|24mA<br>15.8 mA(DD)<br>*-6dBm|19.6 mA<br>18.6 mA(DD)<br>|
 | [CC2541](http://m.tij.co.jp/product/jp/CC2541) | [TI](http://www.tij.co.jp/) |  8051互換 | +6dBm | -96dBm|18.2 mA<br>14.7mA(DD)| 17.9 mA <br>14.7mA(DD)|  
 | [BCM20737S](http://www.broadcom.com/collateral/pb/WICED-Sense-PB100.pdf) | [Broadcom](http://ja.broadcom.com/) |  ARM® Cortex™ M3 ||||||
