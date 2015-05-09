@@ -21,6 +21,7 @@
 |[LinkTaggaer](http://www.linktagger.com/)|||||
 |[BeaconPlus](https://pinmicro.com/)|[pinMicro](https://pinmicro.com/)||||
 |[CUBEACON](http://cubeacon.com/) ||||||
+|[miipharos](http://miipharos.com/)||||||
 
 # 参考になる情報
 * [Beacon比較](http://www.aislelabs.com/reports/beacon-guide/)
