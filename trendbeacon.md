@@ -3,6 +3,9 @@
 <hr>
 ## iBeacon
 <hr>
+2015/5/11<br>
+[KpnetworksがHOSIDENとBluetooth® Smartタグ及びゲートウェイ・ソリューションの共同開発](http://prtimes.jp/main/html/rd/p/000000001.000013744.html)
+<hr>
 2015/5/7<br>
 [オムニチャネル時代に伸びている世界のメーカー・小売業者、2つの共通点](https://netshop.impress.co.jp/node/1513)
 <hr>
