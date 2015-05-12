@@ -1,7 +1,7 @@
 # BLEデバイス動向
 <hr>
 2015/5/10<br>
-[](http://internet.watch.impress.co.jp/docs/news/20150511_701178.html)
+[スマホとBluetooth接続できるペン型スキャナー、OCR→翻訳・朗読も可能](http://internet.watch.impress.co.jp/docs/news/20150511_701178.html)
 <hr>
 2015/5/8<br>
 [I Tested a Bluetooth-Enabled, App-Connected Toothbrush, and Boy Are My Teeth Disrupted!](https://www.yahoo.com/tech/i-tested-a-bluetooth-enabled-app-connected-118442660639.html)
