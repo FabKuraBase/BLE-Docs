@@ -3,6 +3,9 @@
 <hr>
 ## iBeacon
 <hr>
+2015/5/12<br>
+[ソニー、Bluetoothスピーカー一体型のLED電球](http://k-tai.impress.co.jp/docs/news/20150512_699414.html)
+<hr>
 2015/5/11<br>
 [KpnetworksがHOSIDENとBluetooth® Smartタグ及びゲートウェイ・ソリューションの共同開発](http://prtimes.jp/main/html/rd/p/000000001.000013744.html)
 <hr>
