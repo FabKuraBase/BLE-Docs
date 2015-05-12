@@ -1,7 +1,7 @@
 # BLEデバイス動向
 <hr>
 2015/5/12<br>
-[](http://japan.cnet.com/marketers/news/35064366/)
+[アドウェイズ、「電子レシート」のログノートへ出資--広告・プロモ事業で協業](http://japan.cnet.com/marketers/news/35064366/)
 <hr>
 2015/5/10<br>
 [スマホとBluetooth接続できるペン型スキャナー、OCR→翻訳・朗読も可能](http://internet.watch.impress.co.jp/docs/news/20150511_701178.html)
