@@ -8,7 +8,7 @@
 * [栃木県立産業技術センター](http://www.iri.pref.tochigi.lg.jp/bkup/emc/a5_reserve/a5_reserve.html)
 * [秋田県産業技術センター](http://www.rdc.pref.akita.jp/wp-content/uploads/2014/11/140401-emc-full.pdf)
 * [岩手県立工業技術センター](http://www2.pref.iwate.jp/~kiri/mado/setsubi.htm)
-
+* [宮城県産業技術総合センター](http://www.mit.pref.miyagi.jp/)
 
 ## 現在建設中
 
