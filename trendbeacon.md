@@ -4,6 +4,8 @@
 ## iBeacon
 <hr>
 2015/5/12<br>
+[東京ドームの巨人戦「レジェンズシート」、Beacon利用の「座席de注文」](http://k-tai.impress.co.jp/docs/news/20150512_701464.html)
+
 [ソニー、Bluetoothスピーカー一体型のLED電球](http://k-tai.impress.co.jp/docs/news/20150512_699414.html)
 <hr>
 2015/5/11<br>
