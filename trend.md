@@ -5,6 +5,9 @@
 2015/5/15<br>
 [国際会議 「アジアBluetooth会議 2015」（Informa Telecoms & Media主催）の参加お申込み受付開始](http://www.zaikei.co.jp/releases/252713/)
 <hr>
+2015/5/12<br>
+[Broadcom WICED Platform Offers Full HomeKit Support]()
+<hr>
 2015/4/30<br>
 [セントラル対応のBluetooth Smartモジュール](http://ednjapan.com/edn/articles/1504/30/news049.html)
 <hr>
