@@ -6,6 +6,7 @@
 [スマホがカギになる「Akerun」の10の素朴な疑問](http://top.tsite.jp/news/o/23841352/)
 
 [RF Digital Brings Next-Gen IoT Bluetooth Smart Applications to the Microsoft Windows World, Makes It Easy for the PC to "Talk Bluetooth"](http://www.benzinga.com/pressreleases/15/05/b5508972/rf-digital-brings-next-gen-iot-bluetooth-smart-applications-to-the-micr#ixzz3aHxQb9ey)
+<hr>
 2015/5/12<br>
 [アドウェイズ、「電子レシート」のログノートへ出資--広告・プロモ事業で協業](http://japan.cnet.com/marketers/news/35064366/)
 <hr>
