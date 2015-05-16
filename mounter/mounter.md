@@ -15,7 +15,7 @@
 | [V900120](http://www.cif.fr/en/manual-pick-place-stations/331-station-de-placement-manuel-professionnel-precitec.html) | [CIF](http://www.cif.fr/en/)|
 | [ProtoPlace S](http://www.lpkfusa.com/SMTAssembly/protoplace.htm) |[LPKF](http://www.lpkfusa.com/)|
 | [DPP-11](http://www.ddmnovastar.com/pick-and-place/manual-systems/mpp-11-pick-and-place-system) | [DPP Movastar](http://www.ddmnovastar.com/) |
-| [MAN-32] | [Elpro](http://www.elpro-ke.sk/o_spolocnosti/index.php?lang=en&PHPSESSID=dc6a336a08a26a5144933baf05aa212f) |
+| [MAN-32](http://www.smtkit.elpro-ke.sk/doc/MAN_SK.pdf) | [Elpro](http://www.elpro-ke.sk/o_spolocnosti/index.php?lang=en&PHPSESSID=dc6a336a08a26a5144933baf05aa212f) |
 
 ## 自作マウンタ
 
