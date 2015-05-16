@@ -8,6 +8,12 @@
 | [Tempo Automation](http://tempoautomation.com/) | [Tempo Automation](http://tempoautomation.com/) |
 |[CHMT36](http://www.zjyingxing.com/e_products/Desktop-Pick-and-Place-Machine-145.html)|[Wenzhou Yingxing](http://www.zjyingxing.com/)|
 
+## 自作マウンタ
+
+| 製品名 |　メーカー |
+| -- | -- |
+| [BuildYourCNC](https://www.buildyourcnc.com/item/cnc-machine-redFrog-v1-pick-and-place-machine) | [BuildCNC](https://www.buildyourcnc.com) |
+
 ## 産業向け
 
 | メーカー |
