@@ -26,4 +26,5 @@
 * [Chip/CSR1012](chip/csr1012.md)
 * [PCB Service](pch/service.md)
 * [Chip Mounter](mounter/mounter.md)
+* [SMT Pick and Place](mounter/pickplace.md)
 
