@@ -13,7 +13,7 @@
 | 製品名 |　メーカー |
 | -- | -- |
 | [BuildYourCNC](https://www.buildyourcnc.com/item/cnc-machine-redFrog-v1-pick-and-place-machine) | [BuildCNC](https://www.buildyourcnc.com) |
-| [Ramps 1.4 DIY SMD Pick and Place]() ||
+| [Ramps 1.4 DIY SMD Pick and Place](http://www.instructables.com/id/Ramps-14-DIY-SMD-Pick-and-Place/?lang=es) ||
 
 ## 産業向け
 
