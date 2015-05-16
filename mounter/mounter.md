@@ -14,6 +14,8 @@
 | -- |
 | [Juki](http://www.juki.co.jp/smt/index.html)|
 | [ヤマハ発動機](http://www.yamaha-motor.co.jp/smt/) |
+| [パナソニック ファクトリーソリューションズ](http://www.panasonic.com/jp/company/pfsc.html)|
+
 
 
 
