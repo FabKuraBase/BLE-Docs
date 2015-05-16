@@ -25,4 +25,6 @@
 * [Link](link.md)
 * [Chip/CSR1012](chip/csr1012.md)
 * [PCB Service](pch/service.md)
+* [Chip Mounter](mounter/mounter.md)
+
 
