@@ -15,6 +15,7 @@
 | [Juki](http://www.juki.co.jp/smt/index.html)|
 | [ヤマハ発動機](http://www.yamaha-motor.co.jp/smt/) |
 | [パナソニック ファクトリーソリューションズ](http://www.panasonic.com/jp/company/pfsc.html)|
+| [富士電機](http://smt.fuji.co.jp/products/mounter/)|
 
 
 
