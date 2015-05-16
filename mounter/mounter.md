@@ -12,6 +12,8 @@
 | 製品名 | メーカー |
 | -- | -- |
 | [TP38](http://www.tonzh.com/en/product/tonzhTP38.html) | [Torchi](http://www.tonzh.com/en/) |
+| [V900120](http://www.cif.fr/en/manual-pick-place-stations/331-station-de-placement-manuel-professionnel-precitec.html) | [CIF](http://www.cif.fr/en/)|
+
 
 ## 自作マウンタ
 
