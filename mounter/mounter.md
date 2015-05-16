@@ -11,7 +11,7 @@
 ## SELF
 | 製品名 | メーカー |
 | -- | -- |
-| [TM240A](http://www.neodentech.com/bbx/996360-996360.html?id=26798&pid=761183) | [NeoDen Technology](http://www.neodentech.com/) |
+| [TP38](http://www.tonzh.com/en/product/tonzhTP38.html) | [Torchi](http://www.tonzh.com/en/) |
 
 ## 自作マウンタ
 
