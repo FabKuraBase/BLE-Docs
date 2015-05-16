@@ -13,6 +13,6 @@
 | メーカー |
 | -- |
 | [Juki](http://www.juki.co.jp/smt/index.html)|
-| [Yamaha](http://www.yamaha-motor.co.jp/smt/) |
+| [ヤマハ発動機](http://www.yamaha-motor.co.jp/smt/) |
 
 
