@@ -8,7 +8,7 @@
 | [Tempo Automation](http://tempoautomation.com/) | [Tempo Automation](http://tempoautomation.com/) |
 |[CHMT36](http://www.zjyingxing.com/e_products/Desktop-Pick-and-Place-Machine-145.html)|[Wenzhou Yingxing](http://www.zjyingxing.com/)|
 
-## SELF
+## 手動マウンタ
 | 製品名 | メーカー |
 | -- | -- |
 | [TP38](http://www.tonzh.com/en/product/tonzhTP38.html) | [Torchi](http://www.tonzh.com/en/) |
