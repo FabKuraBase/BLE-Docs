@@ -2,6 +2,9 @@
 
 ## 業界ニュース
 <hr>
+2015/5/19<br>
+[2Mビット/秒モードを先取りしたBluetooth SoC、BroadcomがIoT向けに発表]()
+<hr>
 2015/5/15<br>
 [国際会議 「アジアBluetooth会議 2015」（Informa Telecoms & Media主催）の参加お申込み受付開始](http://www.zaikei.co.jp/releases/252713/)
 <hr>
