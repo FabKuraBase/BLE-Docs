@@ -1,7 +1,7 @@
 # BLEデバイス動向
 <hr>
 2015/5/19<br>
-[BLE通信が可能で24ｇと軽いセンサーロガー、FDKが開発]()
+[BLE通信が可能で24ｇと軽いセンサーロガー、FDKが開発](http://techon.nikkeibp.co.jp/article/EVENT/20150519/418942/)
 <hr>
 2015/5/13<br>
 <hr>
