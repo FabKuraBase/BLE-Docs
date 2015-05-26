@@ -2,6 +2,9 @@
 
 ## 業界ニュース
 <hr>
+2015/5/27<br>
+[［Part2 無線技術］Wi-Fi、Bluetooth、ZigBeeから選ぶ]()
+<hr>
 2015/5/19<br>
 [2Mビット/秒モードを先取りしたBluetooth SoC、BroadcomがIoT向けに発表](http://techon.nikkeibp.co.jp/article/NEWS/20150519/418981/?rt=nocnt)
 <hr>
