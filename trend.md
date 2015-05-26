@@ -6,7 +6,7 @@
 [［Part2 無線技術］Wi-Fi、Bluetooth、ZigBeeから選ぶ](http://itpro.nikkeibp.co.jp/atclact/active/15/052500052/052500002/)
 <hr>
 2015/5/21<br>
-[29米ドルのBluetooth Smartセンサー・タグ・キット、日本TIがデモ]()
+[29米ドルのBluetooth Smartセンサー・タグ・キット、日本TIがデモ](http://itpro.nikkeibp.co.jp/atclact/active/15/052500052/052500002/)
 <hr>
 2015/5/19<br>
 [2Mビット/秒モードを先取りしたBluetooth SoC、BroadcomがIoT向けに発表](http://techon.nikkeibp.co.jp/article/NEWS/20150519/418981/?rt=nocnt)
