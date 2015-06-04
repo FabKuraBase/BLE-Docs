@@ -1,7 +1,7 @@
 # BLEデバイス動向
 <hr>
 2015/6/2<br>
-[AirTurn PED™ for Bluetooth Smart Devices Now Available]()
+[AirTurn PED™ for Bluetooth Smart Devices Now Available](http://www.prnewswire.com/news-releases/airturn-ped-for-bluetooth-smart-devices-now-available-300092134.html)
 <hr>
 2015/5/19<br>
 [BLE通信が可能で24ｇと軽いセンサーロガー、FDKが開発](http://techon.nikkeibp.co.jp/article/EVENT/20150519/418942/)
