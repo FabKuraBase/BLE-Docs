@@ -1,7 +1,9 @@
 # 業界動向
 
 ## 業界ニュース
-
+<hr>
+2015/6/4<br>
+[日本発のKisai Linkは、ギーク風味を消したBluetoothウェアラブルだ]()
 <hr>
 2015/5/27<br>
 [［Part2 無線技術］Wi-Fi、Bluetooth、ZigBeeから選ぶ](http://itpro.nikkeibp.co.jp/atclact/active/15/052500052/052500002/)
