@@ -8,6 +8,7 @@
 |[Ellisys Bluetooth Explorer 400](http://www.ellisys.com/products/bex400/)|[ellisys](http://www.ellisys.com/)|||
 |[シグナルアナライザ MS2830A](http://www.anritsu.com/ja-JP/Products-Solutions/Products/MS2830A.aspx)|[Anritsu](http://www.anritsu.com/)|||
 |[RSA306型USBスペクトラム・アナライザ](http://jp.tek.com/spectrum-analyzer/rsa306-0)|Tektronix||||
+|[FR24-SAU](http://chc-oim.com/onlineshop/products/detail.php?product_id=18)|||||
 
 
 ## 参考になる情報
