@@ -28,4 +28,5 @@
 * [PCB Service](pch/service.md)
 * [Chip Mounter](mounter/mounter.md)
 * [SMT Pick and Place](mounter/pickplace.md)
+* [工作機械](manufacture/machine.md)
 
