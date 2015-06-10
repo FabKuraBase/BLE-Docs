@@ -17,5 +17,6 @@
 | 型番　 | メーカー |価格| 
 | -- | -- | -- | 
 | [iMSO-204L ](https://www.oscium.com/oscilloscopes) |oscium | $399.97 |
+| [SmartScope](https://www.lab-nation.com/#) | LabNation | $229 |
 
 
