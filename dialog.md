@@ -60,6 +60,13 @@ http://dialog-semiconductor.com/products/bluetooth-smart/smartbond-development-t
 * [PAN1740設計ガイド](http://www.mouser.jp/pdfdocs/PAN1740DesignGuideRev101.PDF)(Panasonic)
 * [Bluetooth Low Energy Module Data Sheet ](http://wireless.murata.com/RFM/data/lbca2hnzyz-711.pdf)(Murata)
 
+# DA14580の識別
+
+![](jlink1.png)
+
+
+
+
 # SampleCode
 Serialで出力 
 
