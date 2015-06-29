@@ -64,8 +64,9 @@ http://dialog-semiconductor.com/products/bluetooth-smart/smartbond-development-t
 
 ![](jlink1.png)
 
+![](jlink2.png)
 
-
+![](jlink3.png)
 
 # SampleCode
 Serialで出力 
