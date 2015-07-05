@@ -26,7 +26,7 @@
 <hr>
 [Bluetooth内蔵マイコンにウエアラブル向け独自技術](http://techon.nikkeibp.co.jp/article/FEATURE/20150604/421660/?ST=ndh)
 
-[IoT向けBluetooth Smartマイコンをすぐに開発、ARMがCortex-M向けの周辺IPセット]()
+[IoT向けBluetooth Smartマイコンをすぐに開発、ARMがCortex-M向けの周辺IPセット](http://techon.nikkeibp.co.jp/article/NEWS/20150608/422081/?bpnet)
 <hr>
 2015/6/4<br>
 [日本発のKisai Linkは、ギーク風味を消したBluetoothウェアラブルだ](http://jp.techcrunch.com/2015/06/04/20150603the-kisai-link-is-a-bluetooth-wearable-that-hides-the-geekiness/)
