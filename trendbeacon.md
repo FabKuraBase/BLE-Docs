@@ -2,7 +2,10 @@
 
 <hr>
 ## iBeacon
-
+<hr>
+2015/7/1
+<hr>
+[クリーンデバイス社会実装推進事業、NEDOが新たに6テーマ追加]()
 <hr>
 2015/5/15<br>
 [Italian zoo visitors walk on the wilder side with iBeacon network](http://www.nfcworld.com/2015/05/15/335252/italian-zoo-visitors-walk-on-the-wilder-side-with-ibeacon-network/)
