@@ -15,6 +15,10 @@
 <hr>
 [Beaconでお客様の位置を把握! 屋内位置情報をビジネスに活かすツールとは](http://news.mynavi.jp/articles/2015/06/18/beacon_analytics/)
 <hr>
+2015/6/10
+<hr>
+[Facebook、「Place Tips」の展開を拡大--米国でビーコンを無料提供](http://japan.cnet.com/news/service/35065693/)
+<hr>
 2015/5/15<br>
 [Italian zoo visitors walk on the wilder side with iBeacon network](http://www.nfcworld.com/2015/05/15/335252/italian-zoo-visitors-walk-on-the-wilder-side-with-ibeacon-network/)
 <hr>
