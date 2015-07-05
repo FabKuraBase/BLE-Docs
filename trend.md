@@ -4,7 +4,7 @@
 <hr>
 2015/6/19
 <hr>
-[メモリ容量を2倍に拡張したBluetooth Low Energyソリューション]()
+[メモリ容量を2倍に拡張したBluetooth Low Energyソリューション](http://ednjapan.com/edn/articles/1506/29/news017.html)
 <hr>
 2015/6/12
 <hr>
