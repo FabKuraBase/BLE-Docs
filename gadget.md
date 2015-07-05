@@ -1,5 +1,9 @@
 # BLEデバイス動向
 <hr>
+2015/6/18
+<hr>
+[世界初！　好きな色が選べるフラワーアレンジメント 　IoTで場面に合わせたカラーを](http://ovo.kyodo.co.jp/news/life/a-596015)
+<hr>
 2015/6/2<br>
 [AirTurn PED™ for Bluetooth Smart Devices Now Available](http://www.prnewswire.com/news-releases/airturn-ped-for-bluetooth-smart-devices-now-available-300092134.html)
 <hr>
