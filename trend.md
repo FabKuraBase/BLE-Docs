@@ -2,6 +2,10 @@
 
 ## 業界ニュース
 <hr>
+2015/6/19
+<hr>
+[メモリ容量を2倍に拡張したBluetooth Low Energyソリューション]()
+<hr>
 2015/6/12
 <hr>
 [Bluetooth Low Energy対応無線通信ICを使用した音声送信ソリューションを発表](http://www.sankei.com/economy/news/150612/prl1506120001-n1.html)
