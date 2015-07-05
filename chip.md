@@ -19,6 +19,7 @@
 | [CYBL10X6X](http://japan.cypress.com/?rID=99422 ) | [CYPRESS](http://japan.cypress.com/) |ARM® Cortex™ M0| +3dBm |-89dBm|15.6mA| 16.4mA|
 |[TZ1000](http://toshiba.semicon-storage.com/jp/product/assp/applite/tz1000.html) |[Toshibaセミコン](http://toshiba.semicon-storage.com/) |ARM® Cortex™ M4F||||||
 |[ML1705-002](http://www.lapis-semi.com/jp/semicon/telecom/ble.html)|[LAPIS](http://www.lapis-semi.com)|ARM® Cortex™ M0|||9mA|9mA|
+|[Kinetis KW40Z](http://www.freescale.com/ja/webapp/sps/site/prod_summary.jsp?code=KW4x&tid=FSHBNRJA_20150622)|[Freescale](http://www.freescale.com)|ARM Cortex-M0+||+5dBm|-102dBm|||
 
 *DDは、DC/DC変換の略
 
