@@ -2,6 +2,10 @@
 
 ## 業界ニュース
 <hr>
+2015/6/30
+<hr>
+[Freescale、Bluetooth Smart/IEEE 802.15.4対応のKinetisマイコンを発表](http://news.mynavi.jp/news/2015/06/30/365/)
+<hr>
 2015/6/19
 <hr>
 [メモリ容量を2倍に拡張したBluetooth Low Energyソリューション](http://ednjapan.com/edn/articles/1506/29/news017.html)
