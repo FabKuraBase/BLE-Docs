@@ -92,6 +92,13 @@ dialog社のDA14580は、XiamoiのMiバンドに採用。ARM Cortex M0を内臓�
 | -- | -- | -- |
 | [MK71050-03](http://www.lapis-semi.com/jp/semicon/telecom/landing/mk71050-03.html) | MK7105 | [Lapis](http://www.lapis-semi.com/) |  |0dBm|-86dBm
 
+<hr>
+## Freescale Kinetis系
+<hr>
+### Module
+
+
+
 # 技適
 
 * [技術基準適合証明等の公示（平成26年度分）](http://www.tele.soumu.go.jp/j/ref/material/tech/index.htm)
