@@ -1,5 +1,9 @@
 # BLEデバイス動向
 <hr>
+2015/6/22
+<hr>
+[IoTベンチャーのフォトシンス、三井不動産らと共同で受付無人化の実証実験開始](http://venturetimes.jp/venture-news/it/3078.html)
+<hr>
 2015/6/18
 <hr>
 [世界初！　好きな色が選べるフラワーアレンジメント 　IoTで場面に合わせたカラーを](http://ovo.kyodo.co.jp/news/life/a-596015)
