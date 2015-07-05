@@ -22,6 +22,10 @@
 <hr>
 [Bluetooth Low Energy対応無線通信ICを使用した音声送信ソリューションを発表](http://www.sankei.com/economy/news/150612/prl1506120001-n1.html)
 <hr>
+2015/6/8
+<hr>
+[Bluetooth内蔵マイコンにウエアラブル向け独自技術](http://techon.nikkeibp.co.jp/article/FEATURE/20150604/421660/?ST=ndh)
+<hr>
 2015/6/4<br>
 [日本発のKisai Linkは、ギーク風味を消したBluetoothウェアラブルだ](http://jp.techcrunch.com/2015/06/04/20150603the-kisai-link-is-a-bluetooth-wearable-that-hides-the-geekiness/)
 <hr>
