@@ -3,6 +3,10 @@
 <hr>
 ## iBeacon
 <hr>
+2015/7/3
+<hr>
+[富士急ハイランドで「リアル鬼ごっこ」！スマホの位置情報機能を活用したイベントを開催](http://news.4travel.jp/10666/)
+<hr>
 2015/7/1
 <hr>
 [クリーンデバイス社会実装推進事業、NEDOが新たに6テーマ追加](http://eetimes.jp/ee/articles/1507/01/news093.html)
