@@ -14,6 +14,10 @@
 <hr>
 [服型センサー「hitoe」を解剖、働かない電極を発見](http://techon.nikkeibp.co.jp/article/MAG/20150615/423163/)
 <hr>
+2015/6/16
+<hr>
+[Cypress、PSoC 4 BLE/PRoC BLE製品群に256KBフラッシュオプションを追加](http://techon.nikkeibp.co.jp/article/MAG/20150615/423163/)
+<hr>
 2015/6/12
 <hr>
 [Bluetooth Low Energy対応無線通信ICを使用した音声送信ソリューションを発表](http://www.sankei.com/economy/news/150612/prl1506120001-n1.html)
