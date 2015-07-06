@@ -134,4 +134,12 @@ int main (void)
 ```
 
 
+# 転送
+転送には、SmartSnippetsを用いる。
+"JSSC libaray not load"のエラーがでるので、c:¥Users¥ユーザー名につくられるSmartSnippetsのフォルダのpropertyという名前のファイルに
 
+```
+USER_HOME=C:\Users\ユーザ名
+```
+
+と書き込んで、再度実行する。
