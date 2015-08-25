@@ -105,7 +105,7 @@ dialog社のDA14580は、XiamoiのMiバンドに採用。ARM Cortex M0を内臓�
 
 | モジュール名 | BLE Chip |メーカー | Web | 最大送信出力|受信感度|
 | -- | -- | -- |
-| [MK71050-03](http://www.lapis-semi.com/jp/semicon/telecom/landing/mk71050-03.html) | MK7105 | [Lapis](http://www.lapis-semi.com/) |  |0dBm|-86dBm
+| [EZ-BLE PRoC](http://japan.cypress.com/products/ez-ble-proc-module-bluetooth-smart) | MK7105 | [Lapis](http://www.lapis-semi.com/) |  |0dBm|-86dBm
 
 
 
