@@ -8,7 +8,7 @@
 |[DA14680](http://www.dialog-semiconductor.com/docs/site-pdf/dialog-smartbond-da14680-product-brief-japanese.pdf?sfvrsn=2)|[dialog](http://www.dialog-semiconductor.com/) | ARM® Cortex™ M0 | | | | | 
 | [NRF51822](http://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF51822) | [Nordic Semiconductor](http://www.nordicsemi.com/)  |  ARM® Cortex™ M0 |+4dBm |-93 dBm| 10.5mA<br>8mA (DD)| 13 mA<br>9.7mA(DD)| 
 | [NRF51422](http://www.nordicsemi.com/eng/Products/ANT/nRF51422)  | [Nordic Semiconductor](http://www.nordicsemi.com/)|  ARM® Cortex™ M0 |+4dBm |-93 dBm| 10.5mA<br>8mA (DD)| 13 mA<br>9.7mA(DD)| 
-| [NRF52832](https://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF52832) | [Nordic Semiconductor](http://www.nordicsemi.com/)|  ARM® Cortex™-M4F |+4dBm |-93 dBm| 15.2mA(+4dBM)<br>10mA(0dBm)<br>| 13 mA<br>9.7mA(DD)| 
+| [NRF52832](https://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF52832) | [Nordic Semiconductor](http://www.nordicsemi.com/)|  ARM® Cortex™-M4F |+4dBm |-93 dBm| 15.2mA(+4dBM)<br>10mA(0dBm)<br>| 10.4mA(1Mbs)| 
 | [CSR1010](https://www.csrsupport.com/download/39359/CSR1010%20Data%20Sheet%20CS-231985-DS.pdf) | [CSR](http://www.csr.com/) | 独自MCU(RISC) | +9dBm | -93dBm| |
 | [CSR1011](https://www.csrsupport.com/download/40289/CSR1010%20Data%20Sheet%20CS-231986-DS.pdf) | [CSR](http://www.csr.com/)  | 独自MCU(RISC) | +9dBm | -93dBm| ||
 | [CSR1012](https://www.csrsupport.com/download/47278/CSR1012%20Data%20Sheet%20CS-238833-DS.pdf) | [CSR](http://www.csr.com/)  | 独自MCU(RISC) | +9dBm | -93dBm|18mA|20mA|
